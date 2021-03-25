@@ -1,0 +1,153 @@
+
+======Acta de reunión itsas-CIDIR======
+
+
+**Fecha:** viernes 11 de enero de 2008
+
+
+
+**Asistentes:**
+
+* Jose Ramón Martínez - CIDIR
+
+* Aitor Cuartango - CIDIR
+
+* Juanan Pereira - itsas
+
+* Dani Gutiérrez - itsas
+
+
+
+
+
+
+======1. INFRAESTRUCTURAS HW/SW======
+
+=====1.1 Nueva EHUX=====
+Se informa del giro dado a EHUX: ya no es una distribución propia (como la que hubo hasta la v3), sino una (K)Ubuntu pura. Por tanto, EHUX será la denominación no de un software concreto sino de un conjunto de servicios sobre dicha distribución seleccionada:
+
+  * Instalación
+
+  * Soporte
+
+  * Página web: información, descargas.
+
+  * Mejoras en la medida de lo posible, ej. traducciones
+
+  * Facilitación de equivalencias de aplicaciones Windows
+
+
+
+El ámbito de  (K)Ubuntu dentro de la universidad no es general, esto es, no es considerado un puesto de trabajo corporativo para todas las áreas sino sólo en docencia. En la futura transición general del actual XP a Vista, se debiera considerar también la posibilidad (K)Ubuntu y desde Itsas se hace esta sugerencia a la Vicegerencia TIC.
+
+
+
+Algunas cuestiones pendientes de definir:
+
+  * Posibilidad de crear un mirror de (K)Ubuntu dentro de la UPV para agilizar las descargas.
+
+  * Política de aportaciones, ej. cómo hacer llegar a la distribución una traducción, un cambio o un nuevo paquete: ¿vía repositorios propios? ¿contactando con Ubuntu, etc. desde el CIDIR?. 
+
+Para resolver estas cuestiones se hablará con Irontec, el proveedor seleccionado para el 2008. Además, en próximas reuniones con Irontec se invitará a asistir a itsas.
+
+
+
+La difusión de la nueva línea de EHUX se hará mediante un comunicado del CIDIR en enero.
+
+
+
+
+=====1.2 Análisis de aplicaciones=====
+
+====1.2.a) Listado====
+El CIDIR aportará la lista de aplicaciones corporativas, y en los casos posibles el perfil de usuario y el nº de personas que las emplean. Esto servirá para valorar a futuro posibles fases de migración. A pesar de que puede parecer abrumador por la gran cantidad de aplicaciones existentes, hay empresas que podrían dar soporte (ej. IBM).
+
+
+
+Las equivalencias de aplicaciones pueden clasificarse en dos bloques:
+
+  * Generalistas (ej. ofimática, navegación,...).
+
+  * Específicas de departamentos. Se irán haciendo listados a medida que haya departamentos con interés en pasar a (K)Ubuntu. Esta parece que puede ser una vía eficaz para ir migrando.
+
+
+====1.2.b) Plug-in OpenOffice a integrar en Microsoft Office====
+Ha sido autorizado por el Vicegerente de TICs y consesuado con CIDIRes de Alava y Bizkaia.
+
+El CIDIR lo incluirá en todas las instalaciones de equipos corporativos desde el 1 de enero de 2008.\\  Queda pendiente decidir si dejar descargable dicho plugin en dentro de la web de TICs de la universidad o sólo referenciar la fuente. Aitor estudiará la licencia.
+
+
+
+Desde el CIDIR, se hará una comunicación general a la universidad en breve. Indicar en la misma si vale para abrir hojas de cálculo y presentaciones además de documentos de texto.
+
+
+
+Igualmente, el CIDIR indica que en los equipos corporativos nuevos que se están entregando para el PAS y PDI con Windows incluyen ya el OpenOffice para Windows.
+
+
+
+
+====1.2.c) Telefonía IP y Correo electrónico====
+En el futuro se va a implementar telefonía IP. Aunque hasta la fecha las alternativas valoradas por el CIDIR son Cisco y Siemens, desde itsas se solicita que se considere la posibilidad de Asterisk.
+
+Es una decisión con fuertes consecuencias para el software libre en la universidad, ya que con las dos primeras alternativas los aplicativos (ej. mensajería), exigirían el uso de Exchange y Outlook, y quedarían descartados el cliente de correo Thunderbird y el servidor Zimbra.\\  Respecto al cliente de correo web, Jose Ramón hablará con el CIDIR de Bizkaia para conocer la situación actual. Desde itsas se tratará de impulsar alguna alternativa libre, ej. roundcube, o el cliente Web de Zimbra.\\  
+
+
+====1.2.d) Otras====
+Se va a negociar una licencia corporativa de Matlab para la universidad. Ya que a día de hoy la posibilidad de reemplazarla por Octave se ve más remota, se solicita que también se pida licencia para GNU/Linux.
+
+
+
+Desde itsas se solicita que Firefox, que ya es oficial a nivel de la universidad y viene preinstalado, sea el navegador por defecto. Se constata que a pesar de su oficialidad algunas aplicaciones no lo soportan.
+
+
+
+=====1.3 Canal de certificación de hardware corporativo=====
+Desde itsas se indica que podrá haber colaboraciones puntuales, pero no es posible un compromiso permanente dado su carácter voluntarista.
+
+
+
+En relación a la tarjeta ONA y a una próxima tarjeta universitaria (que llevará firma digital para profesores), a la fecha actual no se conoce disponibilidad de software para GNU/Linux ni para MacOSX. Esto es algo grave, especialmente para el profesorado, ya que no permitiría llevar a cabo operaciones como poner las notas con el GAUR, a no ser que se tenga Windows.
+
+
+
+Al respecto, Juanan y Dani se ofrecen a investigar sobre la compatibilidad y el CIDIR aportará tarjetas e incluso algún lector.
+
+
+
+
+======2) DIFUSIÓN Y FORMACIÓN======
+
+=====2.1) Cursos de formación y sesiones de difusión=====
+Se informa que desde itsas se van a dar cursos de introducción al software libre vía SAE. También dentro de la familia del software libre e igualmente vía SAE, iKide va a dar algunos cursos sobre Moodle.
+
+
+
+Además,itsas dará una charla mensual relacionada con el software libre. Se invita a los CIDIRes a acudir en la medida en que los contenidos sean de su interés. A su vez desde el CIDIR se invitará a itsas a algunas sesiones formativas que suelen hacer los viernes a las 13:00.
+
+
+
+Para las charlas, se podrán usar las salas de videoconferencia de los distintos centros a fin de ampliar la difusión.
+
+
+=====2.2) Jornadas universitarias EHUX/Software libre=====
+\\  Se considera que estas jornadas han de estar lideradas por itsas y quizás ser maś amplias, esto es, no tan centradas en EHUX. Por su parte, Vicegerencia de TICs dispondrá los medios necesarios una vez estudiada la propuesta.
+
+
+
+Itsas adopta el compromiso de tener para febrero al menos los objetivos y las fechas, y en la medida de lo posible avanzar en el programa (lugar, contenidos, ponentes, difusión,...).
+
+
+=====2.3) Otros=====
+De cara a impulsar la validez oficial del formato Open Document, no se percibe como eficaz la vía de aprobar un comunicado desde altas instancias (rector, vicerectores).\\  \\  Proyectos de Fin de Carrera con ayuda de Vicegerencia de TICs: esta vicegerencia no entiende esta vía de relación para la financiación o ayuda de dichos proyectos de forma general. Sí está abierta a estudiar casos puntuales que puedan ser de interés.\\  
+
+
+
+======3) VARIOS======
+
+Se solicita al CIDIR una máquina (puede ser virtual) donde instalar el software y los servicios del equipo actual de itsas, el cual está ya muy obsoleto.
+
+
+
+Próxima reunión: a finales de febrero.
+

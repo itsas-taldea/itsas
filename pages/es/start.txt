@@ -1,0 +1,41 @@
+====== Bienvenido/a ======
+
+La universidad es el ámbito natural para la difusión y generación de nuevo conocimiento en una sociedad. La universidad pública tiene, si cabe, una mayor obligación para con la sociedad que la subvenciona.
+
+En **itsas** consideramos que el [[faq#¿Qué es el software libre?|software libre]] y la difusión del conocimiento están íntimamente ligados: porque no hay conocimiento sin código fuente, porque no se difunde el conocimiento usando licencias restrictivas.  
+
+  * [[about_us|Más  información]] sobre **itsas**
+
+===== Breves =====
+
+^Fecha^Actividad^Lugar^Observaciones|
+^Marzo|Curso Latex|EUITI Bilbao / ETSI Bilbao|Fecha y contenido aún por determinar. Apúntate en el [[contribs/mapcon#recibir|mapa de conocimientos]] indicando una forma de contacto si no estás suscrito a la lista|
+^13-19 Julio|[[http://akademy2013.kde.org/|Akademy 2013]]|ETSI Bilbao|[[http://www.slideshare.net/danitxu/akademy-2013-bilbaoproposal|Akademy 2013 Bilbao proposal]]|
+
+[[:events/planning|...Futuros eventos...]]
+
+===== Histórico =====
+===== 2012 =====
+
+^Fecha^Actividad^Lugar^Observaciones|
+^19 Abril|Curso Latex|EUITI Bilbao / ETSI Bilbao|XLVIII Congreso AERRAAITI Biltzarra|
+
+===== 2011 =====
+
+^Fecha^Actividad^Lugar^Observaciones|
+^16 Dic|SLUN'11|Edificio Korta, Donostia, UPV-EHU|http://www.ehu.es/ocs/index.php/slun/slun11|
+^14-15 Julio|[[http://itsas.ehu.es/events/201107_jornadas_f4hc|Jornadas sobre hardware y comunicaciones libres]]|Campus Bizkaia UPV-EHU| |
+^7-11 Abril|[[http://community.kde.org/KDEEdu/Sprint2011|Sprint internacional KDE-Edu]]|Proximidades de Bilbao|
+^7 Abril|[[/events/charlasdonostia_20110704|Jornadas Itsas Donostia]]|Donostia Facultad de Informática| Gnome 3, Babelium Project, Pyjamas, OpenWRT, KestrelHPC, Launchpad, Librezale ... [[http://itsas.ehu.es/events/charlasdonostia_20110704#materiales_de_las_charlas|Materiales]] [[http://itsas.ehu.es/events/charlasdonostia_20110407_fotos|Fotografías]]|
+^Marzo|[[/workgroups/latex/cursos|Curso Latex]]|ETSI y EUITI Bilbao| |
+^18-feb|[[/events/asamblea_itsas_110218|Asamblea itsas 2010]]|Bilbao y Donostia| Resumen de la jornada ya disponible |
+
+[[:history|...Histórico...]]
+
+
+
+===== Campañas =====
+
+[[http://badvista.fsf.org|{{ badvistalogo.png?173,4x70,2 }}]]
+[[http://www.nosoftwarepatents.com/es/m/intro/index.html|{{ nosoftwarepatents.gif }}]]
+[[http://www.noooxml.org/petition|{{ no-ooxml.png }}]]

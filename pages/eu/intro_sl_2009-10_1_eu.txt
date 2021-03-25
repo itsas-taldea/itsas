@@ -1,0 +1,63 @@
+====SOFTWARE LIBRERAKO SARRERA IKASTAROA====
+===UPV-EHU 2009/2010 (1)===
+
+Kultur Gestiorako Bulegoari eta Itsasi esker
+Iraupena: 15 ordu, 3 orduko 5 saio astean behin
+
+==AURKIBIDEA==
+
+
+__1. saioa:__
+
+  *Ikastaroaren eta Itsasen aurkezpena
+  *Ikasleen jakinmina, jatorria...
+  *Oinarrizko kontzeptuak:
+    *Zer da softwarea?
+    *Zer da askatasuna?
+    *Software librearen 4 askatasunak
+    *Software librearen historia
+
+  *Software lizentzia motak
+  *Formatuak eta standardak
+
+__2. saioa:__
+
+  *Zer da sistema eragile bat?
+  *GNU/Linux vs. beste sistema eragileak - GNU/Linux sistema eragile librea
+  *Linux banaketak
+  *GNU/Linux instalazioa
+    *Banaketa jaitsi eta ISOa grabatu
+    *CDtik abiarazi
+    *Instalazio laguntzailea
+      *Partizio-banaketa zer den
+      *Abio-kargatzailea (bootloader), abio-bikoitza
+      *Laguntzailearen pantailak...
+
+__3. saioa:__
+
+  *(K)Ubuntu sistema eragile librearen erabilera
+  *Mahaigaina
+    *kernel+sistema grafikoa+leiho kudeatzaileak+Gnome, KDE, Xfce mahaigainak...
+    *mahaigainaren erabilera
+      *menu/inguru garrantzitsuenak
+      *sistema eta mahaigainaren konfigurazioak, hobespenak, "kontrol-panela"...
+  *software instalazioa, pakete-sistema (deb, rpm, tar ...), Deb paketeen erabilera, apt, aptitude, synaptic...
+  *gordelekuak (repositories), atalak, eguneratzeak, bizitza-zikloak...
+  *komando-lerroa: garrantzia, oinarrizko komandoak
+  *baimenak, erabiltzaileak, root erabiltzailea...
+  *fitxategi-sistemaren mailak, /, /bin, /home, /etc, /...
+
+__4. saioa:__
+
+  *Formatu eta standard erabilienak
+  *Beste sistema eragileetako aplikazio libreak
+  *Mahaigaineko GNU/Linux aplikazio garrantzitsuenak
+    *Bulego-aplikazioak
+    *Internet
+    *Multimedia
+
+__5. saioa:__
+
+  *Baliabide gehiago
+  *Zalantzak
+  *Bizitza arrunteko ariketa praktikoak 

@@ -1,0 +1,16 @@
+===== Administración pública =====
+
+==== Exposiciones (in) formativas ====
+  * El sw libre frente al sw privativo como un modelo de uso más racional de los recursos financieros públicos, y una inversión a futuro.
+  * Grado de implantación del software libre en instituciones públicas
+
+==== Experiencias ====
+  * Casos de liberación de código
+  * Actuaciones e-Administración 
+      * PloneGov
+      * ...
+
+==== Recursos ====
+  * 
+==== Talleres prácticos ====
+  * 

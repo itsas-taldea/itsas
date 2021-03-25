@@ -1,0 +1,34 @@
+====== Enlaces ======
+
+===== Grupos y organizaciones relacionadas con el software libre =====
+
+^  [[http://fsf.org|Free software Foundation]]  | Fundación del Software Libre. |
+^  [[http://eghost.deusto.es|e-ghost]]  | Grupo de software libre de la Universidad de Deusto.|
+^  [[http://www.sindominio.net/metabolik|Metabolik]]  | Hacklab de Leioa.|
+^  [[http://lists.hackinbadakigu.net/listinfo.cgi/ezebez-hackinbadakigu.net|Ezebez]]  | Grupo heterogéneo sín definición clara de hacklab, medialab, plataforma de lanzamiento de campañas, apoyo a usuarios y colectivos en temas relacionados con SL. etc...|
+^  [[http://www.reciclanet.org|Reciclanet]]  | Asociación de reciclaje hardware y formación en software libre.|
+^  [[http://www.librezale.org|Librezale]]  | Grupo de traducción de aplicaciones a euskera.|
+^  [[http://www.euskalgnu.org|EuskalGNU]]  | |
+^  [[http://glub.biz|Glub]]  | Grupo de usuarios/as de Linux de Bizkaia.|
+
+
+===== Licencias y aspectos legales =====
+
+^  [[http://www.gnu.org/home.es.html|GNU]]  |El sistema operativo GNU.|
+^  [[http://es.creativecommons.org|Creative Commons]]  |Licencia de derechos de autor.|
+^  [[http://www.manualcopyleft.net|Manual sobre Copyleft]]  | |
+
+===== Documentos de referencia para el uso de estándares =====
+
+^  [[http://www.iso.org/iso/catalogue_detail?csnumber=38920|ISO 19005]]  |PDF|
+^  [[http://www.iso.org/iso/catalogue_detail.htm?csnumber=43485|ISO 26300]]  |ODP|
+^  [[http://www.csae.map.es/csi/pdf/RD_4_2010_texto_consolidado.pdf|Real Decreto 4/2010]]  |Esquema Nacional de Interoperabilidad|
+^  [[http://oca.usal.es/estandares/documentos/estandares_en_universidades.pdf|Estándares en Universidades]]  |Marco para el Intercambio de Documentos en Universidades Españolas mediante Estándares Abiertos (CRUE)|
+
+===== Otros =====
+
+^  [[http://www.ubuntu.com|Ubuntu]] & [[http://www.kubuntu.com|Kubuntu]]  | Distribución de Linux orientada al usuario con muy buena aceptación. Basada en [[http://www.us.debian.org|Debian]].|
+^  [[http://ehux.ehu.es|EHUX]]  | Distribución Linux de la EHU/UPV basada en [[http://www.ubuntu.com|Ubuntu]]. Incluye software específico para la EHU/UPV.|
+^  [[http://moodle.ehu.es/moodle|Moodle]]  |Sistema libre para e-learning en la EHU/UPV.|
+^  [[http://distrowatch.com|Distrowatch]]  |Más de 500 distribuciones GNU/Linux y BSD.|
+^  [[http://www.top500.org|Top500]]  |Ranking mundial de los 500 ordenadores más potentes.|

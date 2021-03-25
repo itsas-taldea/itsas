@@ -1,0 +1,39 @@
+==== Versión Febrero 2010 ====
+Presentaciones editadas para el curso de Introducción a Kubuntu de Enero de 2010 en Donosti.
+
+=== Presentaciones: ===
+  - {{:contribs:kurtsoak:donostifeb10:1-intro_sw_libre.odp|Introducción al software libre}}
+  - {{:contribs:kurtsoak:donostifeb10:2-intro_so_gnu_linux.odp| Introducción a GNU/Linux}}
+  - {{:contribs:kurtsoak:donostifeb10:3-kubuntu_uso.odp| Kubuntu: Uso básico}}
+  - {{:contribs:kurtsoak:donostifeb10:4-kubuntu_aplicaciones.odp|Kubuntu: Aplicaciones}}
+  - {{:contribs:kurtsoak:donostifeb10:5-kubuntu_inst_cfg.odp| Kubuntu: instalación y configuración}}
+  - {{:contribs:kurtsoak:donostifeb10:6-sw_libre_entorno.odp| Buenas prácticas}}
+
+=== Otros: ===
+{{:contribs:kurtsoak:donostifeb10:ejercicios_apps_libres.odt| Ejercicios}}
+
+{{:contribs:kurtsoak:donostifeb10:repaso_sesion1.odp|Presentación repaso sesión 1}}
+
+[[http://formados.ceslcam.com/course/category.php?id=16|Cursos gratuitos de sw libre CESLCAM]]
+
+[[http://www.morfeo-formacion.org/ | Cursos de sw libre de Morfeo]]
+
+[[http://softwarelibre.uca.es/node/938 | Materiales Máster en SW libre UCA]]
+
+==== Versión Octubre 2009 ====
+
+
+=== Presentaciones: ===
+  - {{contribs:kurtsoak:1-producciones_creativas.odp|Producciones creativas}}
+  - {{contribs:kurtsoak:2-intro_software_libre.odp|Introducción al software libre}}
+  - {{contribs:kurtsoak:3-intro_so_gnu_linux.odp|Introducción al sistema operativo gnu/linux}}
+  - {{contribs:kurtsoak:4-kubuntu_uso.odp|Kubuntu: uso básico}}
+  - {{contribs:kurtsoak:5-kubuntu_inst_cfg.odp|Kubuntu: instalación y configuración}}
+  - {{contribs:kurtsoak:6-kubuntu_aplicaciones.odp|Kubuntu: aplicaciones}}
+  - {{contribs:kurtsoak:7-sw_libre_entorno.odp|Software libre en nuestro entorno}}
+
+([[http://delicious.com/jdani/CursoSwLibre|Enlaces a presentaciones y otros en delicious]])
+=== Otros ===
+  * {{contribs:kurtsoak:ejercicios_apps_libres.odt|Ejercicios}}
+  * {{contribs:kurtsoak:checklist_y_programa.txt|Checklist y Programa}}
+  * {{contribs:kurtsoak:curso-intro-sl-200911.pdf|Esquema del curso de intro a GNU/Linux de 11/12-2009}}

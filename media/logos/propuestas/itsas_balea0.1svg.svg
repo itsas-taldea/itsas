@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   sodipodi:docbase="/home/inigo/documentos/itsas/balea"
+   sodipodi:docname="itsas_balea0.1svg.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2188967"
+     inkscape:cx="384.03033"
+     inkscape:cy="486.81607"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     inkscape:window-width="1273"
+     inkscape:window-height="883"
+     inkscape:window-x="6"
+     inkscape:window-y="44" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none">
+    <image
+       id="image1347"
+       height="375"
+       width="642"
+       sodipodi:absref="/home/inigo/documentos/itsas/balea/itsas_balea_0.1.png"
+       xlink:href="itsas_balea_0.1.png"
+       x="63.030331"
+       y="262.0239" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="vectores"
+     style="display:inline">
+    <path
+       style="fill:#000000;fill-opacity:1;display:inline"
+       d="M 493.72838,380.20749 C 467.07741,380.65508 438.14796,389.56004 409.16588,411.98874 C 390.87313,426.1222 349.37814,464.84475 381.79088,474.01999 C 404.05806,480.32329 422.0613,466.52113 473.79088,485.51999 C 574.70972,522.58473 579.50696,567.67911 577.57213,591.05124 C 575.6583,614.16985 543.88934,653.4904 534.54088,578.86374 C 521.19739,472.34602 343.7421,445.85324 263.94713,562.51999 C 251.91545,580.11129 257.53662,612.88442 277.79088,604.26999 C 319.75594,586.42164 325.60044,617.5729 267.48822,631.2289 C 241.99349,637.22 153.4131,637.80302 159.19713,563.89499 C 165.69418,480.87593 199.44882,462.52084 192.47838,443.67624 C 187.19984,429.40571 144.40192,467.08399 112.38463,471.98874 C 62.593287,479.61632 115.08891,506.10327 150.97838,489.86374 C 181.68937,475.9674 113.38238,534.7233 128.85338,607.80124 C 141.36296,666.89077 221.97028,669.78268 295.50963,658.76999 C 348.75922,650.79574 373.02145,559.1743 328.00963,570.61374 C 295.51256,578.87268 312.32796,555.09219 325.72838,545.58249 C 386.67178,502.33359 477.89112,520.80141 485.25963,552.92624 C 491.10895,578.42799 459.46916,522.19691 402.47838,548.92624 C 355.77322,570.83148 348.01814,607.17658 344.16588,636.05124 C 338.14097,681.21119 592.87308,689.54497 635.54088,629.01999 C 659.82419,594.57378 655.65578,552.42232 634.57213,530.61374 C 540.15918,432.95457 410.46472,466.51012 434.50963,442.73874 C 474.30395,403.39712 544.62588,429.67718 576.63463,458.86374 C 617.78366,496.38469 647.27179,536.32983 633.47838,482.86374 C 622.31617,439.59671 558.04603,379.12734 493.72838,380.20749 z M 228.42461,426.1454 C 213.49148,429.32252 193.90052,484.58962 189.79088,498.89499 C 183.37111,521.24174 165.11337,572.96177 196.63463,600.86374 C 217.98986,619.76693 246.1603,612.4716 245.98636,599.13701 C 245.86287,589.66971 246.18405,575.49784 228.81083,575.25968 C 203.88364,574.91796 204.55946,536.99259 210.87793,518.95749 C 220.46918,491.5808 228.46646,473.81751 246.65624,468.30391 C 309.28017,449.32164 312.22599,419.01497 267.29088,432.95749 C 238.82226,441.79075 245.11069,422.59533 228.42461,426.1454 z M 489.37753,604.70039 C 489.45462,620.97416 472.02339,627.20971 443.84628,629.23164 C 427.26407,630.42155 401.69403,629.77298 396.65878,619.41914 C 389.23281,604.14931 404.29735,585.4665 421.22128,581.26289 C 462.72799,570.95334 489.32323,593.23639 489.37753,604.70039 z "
+       id="path2258"
+       sodipodi:nodetypes="ccsssssssssssssssssssssssccsssssssscssss"
+       inkscape:export-filename="/home/inigo/documentos/itsas/balea/itsas_balea0.1_50.png"
+       inkscape:export-xdpi="8.0335293"
+       inkscape:export-ydpi="8.0335293" />
+  </g>
+</svg>

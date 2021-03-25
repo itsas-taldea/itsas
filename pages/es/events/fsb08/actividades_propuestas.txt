@@ -1,0 +1,106 @@
+====== Actividades propuestas ======
+Las distintas actividades y zonas que se muestran aquí son sólo proposiciones.
+
+Todo el material generado se pondrá accesible de alguna manera (con copiadora, en cds, en usb-pens, o lo que sea)
+
+La página del evento podría contar con un planet (sindicación de noticias relacionadas con el tema desde otros blogs). La web, además de como presentación del evento, se  plantea para dar un seguimiento al evento, y al foro propuesto por Fomento.
+
+En el grupo ciudadanía se pueden meter todas las actividades muy genéricas que no tengan grupo objetivo explícito.
+
+===== Posibles Zonas =====
+
+
+
+
+==== Zona de acceso libre ====
+Zona dedicada a gente que quiera experimentar con el software libre.
+
+Incluiría mesas con enchufes y conexión a internet para que la gente pueda ponerse con sus portátiles, donde haya uno o dos expertos que ayuden a instalar, resolver dudas y configurar el sistema.
+
+En esta zona podría incluirse un [[http://ltsp.org|LTSP]] para tener siete o ocho máquinas que la gente pueda utilizar para trastear y navegar.  Se podría utilizar para talleres básicos y como zona de acceso a internet. También podrían tener el material que se haya generado para el evento, para que la gente pueda llevarselos a casa en su pendrive. Tambien podriamos poner para descargar musica copyleft de colectivos como Musikherria.
+
+Si vamos a poner material para que se lo graben, podriamos sacar cds serigrafiados con el logo o asi del evento.
+
+Podría haber un servidor para install-partys, con repositorios de distribuciones, conexión compartida, proxy-cache, CDs de instalación, etc. asi instalar cualquier cosa sera mucho mas rapido y no comera ancho de banda.
+
+Podriamos plantear tener una tarjeta de visita virtual para que la gente deje sus impresiones, comentarios etc.
+
+Esta zona podría estar junto con la zona multimedia, o cerca de ella.
+
+
+=== Charla ===
+  ? Descripción de LTSP
+  : Ventajas y desventajas para implantación en pequeñas redes.
+
+
+=== Talleres ===
+  ? Primer contacto con GNU/Linux y Gnome
+  : Una visita guiada por el sistema operativo.
+  ? Cartelería para asociaciones
+  : Crear trípticos y carteles con software libre.
+  ? Install-party
+  : Instalación paso a paso de GNU/Linux. Este taller se podría repetir varias veces
+
+=== Paneles informativos que se pueden incluir ===
+  ? Úsame para navegar
+  : Los ordenadores de esta zona se pueden utilizar para navegar por internet. Podría informar sobre el contenido accesible en la web del evento
+  ? Úsame para probar GNU/Linux
+  : Estos ordenadores son de uso público, aprovecha y trastea un poco con la interfaz
+  ? Úsame para copiar cosas
+  : Desde estos ordenadores te puedes llevar a casa todo el material que hay.
+  ? Qué es LTSP
+  : Descripción de Linux Terminal Server Project, en qué consiste, ventajas, desventajas
+  ? Pregúntale al experto
+  : En la zona habrá gente dispuesta a resolver tus dudas  
+  ? Que necesitas para la Install party
+  : Material y datos que necesitarán los asistentes para poder liberar su sistema.
+  ? Actividades a realizar en esta zona
+  : Horario con las charlas y talleres de esta zona
+
+
+
+
+
+
+
+
+==== Zona multimedia ====
+Se propone la instalación de una zona multimedia con un número de máquinas a determinar. Todas las máquinas deberán estar provistas de micrófono, auriculares y teclado MIDI. Una de ellas deberá tener también un proyector de video, pantalla y PA a su disposición. La zona deberá contar con una impresora en red. 
+
+Para esto son suficientes ordenadores comunes, pero tendrán que ser recientes.
+
+Durante toda la vida de la zona se proyectarán videotutoriales de corta duración, que expliquen como realizar tareas concretas mediante el software instalado en los ordenadores. Todas las máquinas tendrán los videotutoriales disponibles en un menú, agrupados por temas.
+
+Los visitantes podrán usar todas las maquinas excepto la que disponga del proyector. El objetivo es que los visitantes puedan jugar. La agrupación de videotutoriales permitirá a cada visitante centrarse en las áreas de interés. Por su parte, la máquina con el PA se encargará de proyectar los mismos tutoriales, posiblemente también agrupados por temas, pero cuidando de que no se sucedan más de 3-4 videotutoriales referidos al mismo tema.
+
+
+=== Talleres de audio ===
+  ? Demo de grabacion de un cd
+  : Demo taller para ver todos los pasos desde que grabamos la cancion hasta que la sacamos en cd.
+
+  ? Edicion de partituras
+  : Demo de creacion de partituras.
+
+=== Paneles multimedia ===
+  ? Maquinas a su disposición
+  : Las maquinas están a disposición de los asistentes para hacer pruebas
+  ? Videotutoriales incluídos
+  : Disponen de videotutoriales que les mostrarán paso a paso cómo llevar a cabo las tareas básicas con las diversas aplicaciones. También enumerarán y explicarán someramente los diferentes temas en que se organizan los videotutoriales.
+
+
+===== Actividades sin zona =====
+==== Charlas ====
+  * Presentación del servidor para asociaciones
+  * Servidor con adsl casero
+  * Caso real de migracion: Donostiko Musika Eskola
+  * Caso de uso de tecnologías libres: Bertsozale Elkartea
+  * Virtualización
+  * Integración con Active Directory
+  ? Soluciones anti-spam
+  : Una guía que enseñe como montar un servidor de correo en condiciones
+  ? Anti-spam para el usuario
+  : una guía pero pensada en usuarios finales (configuración de cliente de correo, por ejemplo)
+  * Manual de instalación de servidor de Blogs
+
+
+

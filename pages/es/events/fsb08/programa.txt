@@ -1,0 +1,96 @@
+====== Actividades para días específicos ======
+
+===== Día 1: Educación + Administración + Asociaciones =====
+=== Actividad: XXXX ===
+**Descripción**: 
+**Lugar**: 
+**Medios**: 
+**Responsable**: 
+
+=== Actividad: Exposición proyecto cubainformacion.tv ===
+**Descripción**: se expondrá la experiencia cubainformacion.tv, una web-tv creada por la asociación Euskadi-Cuba que funciona con joomla, como ejemplo de difusión de contenidos con software libre. El objetivo es proponer un modelo que otras asociaciones puedan aprovechar. A nivel de software libre faltaría la parte de la edición de video.
+**Lugar**: auditorio
+**Medios**: pc+proyector, conexión a internet más o menos rápida
+**Responsable**: Dani
+
+=== Actividad: Uso de Wink para realizar talleres para Educación ===
+**Descripción**: Charla demo para crear documentales y videos para clases de música
+**Lugar**:  Auditorio
+**Medios**:  Ordena, proyector
+**Responsable**: Sin definir, alguien de la musika eskola
+
+===== Día 2: Empresas =====
+=== Actividad: XXXX ===
+**Descripción**: 
+**Lugar**: 
+**Medios**: 
+**Responsable**: 
+
+
+===== Día 3: Ciudadanía =====
+=== Actividad: XXXX ===
+**Descripción**: 
+**Lugar**: 
+**Medios**: 
+**Responsable**: 
+
+=== Actividad: Concierto de música libre ===
+**Descripción**: 
+**Lugar**: 
+**Medios**: 
+**Responsable**: 
+
+
+
+
+
+====== Actividades para cualquier día ======
+=== Actividad: XXXX ===
+**Descripción**: 
+**Lugar**: 
+**Medios**: 
+**Responsable**: 
+
+=== Actividad: Proyección de películas relacionadas con la producción libre ===
+**Descripción**: Algunas referencias: 
+  *http://www.plumiferos.com/blog/index.php
+  *http://www.elephantsdream.org/
+  *http://open-pedia.org/index.php?title=Necesito_Imagenes_de_Dominio_Publico
+  *http://www.blogalaxia.com/videos/copyleft
+  *http://www.jamendo.com/es/
+  *http://www.hispasonic.com/
+  *http://www.musicalibre.info/pagina.php/guia
+  *http://www.manerasdevivir.com/
+  *http://www.dateaconocer.com
+**Lugar**: 
+**Medios**: 
+**Responsable**: 
+
+
+
+====== Actividades permanentes ======
+=== Actividad: LTSP (El pulpo) ===
+**Descripción**: 
+Lugar para dejar ordenas de acceso libre para conectarse a Internet...
+[[actividades_propuestas#zona_de_acceso_libre]]
+
+**Lugar**: 
+Zona de exposiciones
+**Medios**: 
+ - Conexión a Internet
+ - Cables, enchufes etc para varios equipos (según el sitio que haya)
+ - switch
+ - Un ordenador reciente y varios viejos.
+ - Pantallas y teclados para los viejos.
+
+
+**Responsable**: 
+Maider Likona
+
+=== Actividad: Paneles informativos ===
+**Descripción**: 
+Los que hemos comentado aqui: [[actividades_propuestas#paneles_informativos_que_se_pueden_incluir]]
+y aqui: 
+**Lugar**: 
+**Medios**: 
+**Responsable**: 

@@ -1,0 +1,19 @@
+Estimado/a asistente a Akademy-es 2010: 
+
+Te escribimos para informarte que durante la celebración de la Akademy-es 2010 se va a organizar una fiesta de firmas PGP para ampliar el anillo de confianza PGP entre los asistentes a las jornadas. Puedes obtener información detallada sobre PGP/GnuPG y sobre la fiesta de firmas en la web de la Akademy-es 2010 [1].
+
+Si estás interesado en participar en la fiesta de firmas PGP con fecha límite el viernes 7 de mayo:
+  - Verifica que puedes participar en la fiesta de firmas PGP [2]
+  - Manda un email a "chr.pinedo@gmail.com" para apuntarte a la fiesta de firmas proporcionando la siguiente información:
+   * Nombre y Apellidos: Christian Pinedo Zamalloa
+   * Nick: zako
+   * Por cada firma PGP que quieras que sea verificada:
+     * Clave ID: 828D0C80
+     * Huella digital: 7BFF 4105 F46B 7977 BD96  348C 1007 4FF8 828D 0C80
+     * Tipo: DSA
+     * Tamaño: 1024
+
+Gracias,
+
+[1] http://
+[2] http://#quien_puede_participar

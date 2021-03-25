@@ -1,0 +1,30 @@
+===== Empresas y Personas emprendedoras =====
+
+==== Exposiciones (in) formativas ====
+  * Potencial del sw libre como elemento de innovación y/o mejora de la gestión.
+  * CEIs. Emprendizaje en el área del software libre (Creación de empresas).
+  * Modelo de negocio del sw libre (por servicios vs por productos)
+  * Comunicación externa e interna en la empresa
+  * Asociaciones de empresas de software libre y Asolif (federación de asociaciones empresariales de software libre a nivel estatal)
+  * La facturación electrónica
+  * Aspectos jurídicos del conocimiento libre (propiedad intelectual y acceso abierto a la información)
+  * Seguridad dentro de la empresa (quizá exposición de alguna herramienta concreta: Pandora FMS, Babel Enterprise,...)
+  * Tecnología VoIP
+
+==== Experiencias ====
+  * Clientes satisfechos en los que el uso del sw libre (desarrollos a medida, aplicaciones customizadas, sistemas, etc.) haya aportado valor al negocio y/o ahorrado costes.
+  * Empresas usuarias de sw libre: telefonía, intranets/extranets/webs, ERP, correo electrónico, firewalls,... Se trata de destacar la viabilidad.
+  * Ex-emprendedores que ahora son empresa fabricante de sw libre.
+  * Software libre e innovación (experiencias innovadoras en las empresas de software libre): casos de éxito
+
+==== Recursos ====
+  * Listado de asociaciones empresas de sw libre a nivel autonómico y estatal (ESLE, CAtPL, ESLIC).
+  * Listado de ayudas públicas para la creación de una empresa de sw libre
+  * Listado de empresas de software libre en Euskadi
+
+==== Talleres prácticos ====
+
+  * Comunicación externa (CMS)
+  * Comunicación interna (wikis, groupware,...)
+  * Firma y facturación electrónica
+  * Navegadores y clientes de correo

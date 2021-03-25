@@ -1,0 +1,35 @@
+===== Charlas ITSAS / Donostia =====
+El grupo ITSAS para la promoción del software libre en la UPV/EHU, organizó un grupo de charlas. Esta vez fueron el martes 16 de Diciembre (día especial de mañana en la facultad), de 10:00 de la mañana a 12:00 del mediodía, en la Facultad de Informática de Donostia / Sala de Grados :
+
+== Diseño gráfico con software libre, Gimp e Inkscape ==
+
+  * Breve introducción a las capacidades y a la filosofía de dos potentes herramientas de diseño gráfico libres, Gimp e Inkscape. Descubriremos en 30 minutos ejemplos representativos de las capacidades de cada herramienta.
+
+**Jon Ander Hernández**
+
+== Software Librea Euskal Herrira ==
+
+  * Jorratuko diren gaiak:
+    *  Tresnak: Euskarazko softwarea: errepide-mapa
+    * Edukiak: Euskara Interneten: argi-ilunak
+    * Formazioa: EHUko gradu-ondoko ofiziala
+    * Auzolanaz
+
+**Iñaki Alegria**
+
+== Programación gráfica rápida y libre == 
+
+  * Presentación de librerías y utilidades libres para programar un aplicación interactiva 2d multiplataforma, presentadas en el III Concurso Universitario de Software Libre.
+
+**Jon Unibaso**
+
+== Adobe Flex eta Adobe AIR teknologien aurkezpen azkarra ==
+  * RIA -Rich Internet Applications- aplikazioen garapena egungo paradigma berria bilakatzen ari da softwarearen munduan. Behin Javak eskaintzen zuena orain Adobe Flex-ek aldarrikatzen du: "write once, run everywhere", edo behin bakarrik idatzi, eta edozein sistema eragilean edota plataforman egikaritu. Adobe Flex eta Adobe AIR zer diren eta nola/zertarako erabili daitezkeen modu azkarrean aztertuko dugu saio praktiko honetan.
+
+**Juanan Pereira**
+
+
+==== Material de las charlas ====
+
+==== Cartel ====
+{{events:cartel_charlas_donostia_081216.jpg?300|}}

@@ -1,0 +1,26 @@
+====== Manifiesto ======
+
+{{itsas_adierazpena_manifiesto.odt|Formato odt}}
+{{itsas_adierazpena_manifiesto.rtf|Formato rtf}}
+{{itsas_adierazpena_manifiesto.pdf|Formato pdf}}
+
+**itsas** es un grupo de la EHU/UPV que pretende impulsar la creación y el uso del software libre, los formatos y protocolos abiertos y los ideales del acceso libre a la cultura y al conocimiento, en el ámbito de nuestra universidad pública.
+
+**itsas** es un grupo heterogéneo, con miembros de Facultades y Escuelas pertenecientes a los diferentes estamentos de la universidad (profesorado, alumnado, investigación, PAS). También forman parte de este grupo personas externas a la EHU/UPV, pues la naturaleza del grupo es totalmente abierta y se da la bienvenida a quien quiera colaborar. Nuestra forma de trabajo es presentar y coordinar propuestas consensuadas mediante el debate abierto.
+
+Las personas que formamos parte de **itsas**,
+Manifestamos:
+  * 1. Que las tecnologías de la información y la comunicación influyen, cada vez más, en el desarrollo cultural y profesional de las personas.
+  * 2. Que el modelo de software privativo, dominante en la actualidad y basado en su modelo de código y formatos cerrados, dificulta la interoperabilidad de aplicaciones y plataformas, no favorece la adaptación ni la mejora continua de las aplicaciones, conduce a una alta dependencia y produce una brecha social entre quienes pueden y quienes no pueden pagarlo. Este modelo junto con las patentes de software suponen un serio freno para la innovación y el desarrollo del software.
+  * 3. Que existe una alternativa: el modelo del software libre, cuya filosofía es licenciar software que se pueda usar, estudiar, mejorar y distribuir de forma libre, sin incurrir en problemas legales.
+  *4. Que el software libre es un activo para la humanidad que va creciendo en el tiempo en beneficio de todas las personas, y tiende a reducir la brecha digital al promover el avance del conocimiento compartido, universal, a un bajo coste y sin restricciones.
+  *5. Que además, a nivel económico, esta filosofía conlleva un modelo de negocio viable y que propicia el desarrollo de empresas locales, de modo que el beneficio revierte más en la comunidad a la que pertenecen sus clientes, consumidores y usuarios.
+  *6. Que las universidades, como generadoras de conocimiento y potenciadoras del pensamiento crítico, deben reflexionar sobre las implicaciones sociales de los conocimientos que transmiten y las formas que eligen para transmitirlos, y tienen el deber ético de compartir del conocimiento. Esto concierne especialmente a las universidades de carácter público.
+
+Reivindicamos:
+  *7. Que la EHU/UPV sea consecuente con su lema "eman ta zabal zazu", interpretado como la necesidad de generar conocimiento (investigar) y compartirlo (enseñar y publicar), principios coherentes con el movimiento del software libre.
+  *8. Que los recursos económicos y humanos destinados a la adquisición y mantenimiento de software en la EHU/UPV sean asignados mediante criterios en los que prime el software libre, auditable y no condicionante, frente al privativo, reintegrando esos recursos preferentemente en el ámbito local.
+  *9. Que la EHU/UPV garantice la posibilidad de uso de estándares, protocolos y formatos abiertos dentro de la propia universidad, asegurando la interoperabilidad independientemente de la plataforma y aplicaciones que se utilicen.
+  *10. Que se generen campañas de sensibilización, tanto entre el alumnado como entre el profesorado, para promover los principios y usos anteriormente indicados.
+
+**itsas**, Marzo 2007

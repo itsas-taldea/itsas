@@ -1,0 +1,27 @@
+===== Install Party / Donostia =====
+Ubuntu Karmic Koala 9.10 eta Fedora 12 Constantine kaleratu berri direla, Itsas taldetik gonbitea luzatu nahi dizuegu Linux banaketa bat probatzeko gogoa duzuen guztioi, mintegi sinple eta informal batera. Bertan sistema eragile hauen filosofia, abantailak eta oinarrizko erabilera azaltzeaz gain, parte-hartzaileei hauen instalazioan eta konfigurazioan lagunduko diegu.
+
+    ** Eguna : Asteazkena, Azaroak 11
+    ** Ordutegia : 15:00 -18:00
+    ** Tokia : 2.2 Mintegia
+
+Asko eskertuko genuke mezu bat bidaliko bazenigute zuen proposamen eta ordenagailuei buruzko informazioarekin.
+
+== Organizatzaileak ==
+  * Oier Mees
+  * Jon Ander Hernández
+  * Juanan Pereira
+
+== Laguntzaileak ==
+  * Aitor Cuartango
+  * Kepa
+  * Endika  
+  * Donostiako Informatika Fakultateko Ikasle Kontseilua
+
+
+==== Argazkiak ====
+
+[[http://itsas.ehu.es/events/installparty_donostia_091111_fotos|Ekitaldiko Argazkiak]]
+
+==== Kartela ====
+{{events:cartel_installparty_donostia_091111-eu.jpg?300|}}

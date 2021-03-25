@@ -1,0 +1,104 @@
+====== Grupo de trabajo: Trac ======
+
+  * **Objetivos:**
+    * Gestor de tickets (aka bugtracker, helpdesk, etc) llamado Trac a través de plugins. Es un sistema muy pequeño y muy extensible, ideal para el caso en el que hay que modificar una gran parte de él.
+
+  * **Estado:** Iniciado. 
+
+  * **Plazos:**
+    * De enero 2013 en adelante.
+
+  * **Comisión:**
+    * [[javierdo1@gmail.com|Javier Domingo]]
+
+Lo primero que viene después de la introducción es el diseño, y por lo tanto, se puede resumir el diseño, de momento, haciendo un análisis de las necesidades. Después, lo que queda es cubrir las necesidades con diseño.
+
+===== Necesidades =====
+De cualquier usuario:
+  * No haya que tener un nuevo usuario y cuenta para este servicio, pudiendo usar el de la universidad sin que la contraseña se vea comprometida.
+  * Esté informado en todo momento de los asuntos pendientes
+  * Tenga facilidad de acceso al servicio
+De los clientes:
+  * No tenga que rellenar mil huecos para poner una queja
+  * Tenga una persona asignada a mi caso
+  * Tenga privacidad en asuntos personales (mis tickets sean personales)
+  * Tenga una manera de asegurar de que soy yo el que escribe
+  * Tenga un sitio en el que ver cuales son mis tickets abiertos
+  * Pueda adjuntar archivos o escaneados
+  * Tener la información disponible sobre cosas asignadas a mis tickets
+De los que atienden:
+  * Pueda identificar de un vistazo cuales son mis tickets asignados, cuales no lo están
+  * Tenga flexibilidad a la hora de poder traspasar tickets a otras personas del equipo
+  * Me pueda asegurar de que el cliente debe estar asignado a mi
+
+===== Diseño =====
+Para poder hacer el diseño de una manera ordenada, voy a ir cubriendo las necesidades de los usuarios mientras van surgiendo.
+
+==== Login único, autenticación y autorización ====
+Por el momento, y con los recursos de los que dispongo como alguien que intenta dar un servicio totalmente externo a la universidad, tengo cubierto el login único y la autenticación.
+
+Esto lo hago a través del usuario LDAP, utilizando el protocolo de autenticación OpenID que proporciona rediris.
+
+=== Instalación y configuración en apache ===
+Por tema de que el método de autenticación sirviera para otros posibles proyectos, decidí que se hiciera a través de un módulo de apache para autenticación de OpenID.
+
+== 1.- Instalación del módulo de autenticación por OpenID para apache ==
+
+El que encontré, [[http://findingscience.com/mod_auth_openid/|mod_auth_openid]], cumple perfectamente todas las necesidades que necesito para //autenticar// usuarios.
+
+Además, esta suficientemente bien hecho como para que admita varias configuraciones posibles, como la opción de admitir únicamente un proveedor de servicio (luego explico).
+
+  - Instalarlo utilizando los pasos explicados aqui [[http://findingscience.com/mod_auth_openid/|Instalación mod_auth_openid]]
+  - Una vez se ha comprobado que carga sin problemas en el servidor (a2enmod auth_openid && service apache2 restart en Debian), se procede a su configuración
+
+== 2.- Configuración de autenticación ==
+
+Yo esto lo hice sin tener en cuenta que no tenía porque tener acceso al fichero de configuración de sitios, y basta con tener acceso habilitado a través de un simple **AllowOverride AuthConfig** en la carpeta en la que estemos.
+
+Empecé mirando la documentación de OpenID en la página web de [[http://www.rediris.es/sir/howto-openid.html|rediris]] y tras probar y experimentar, encontré que para autenticar una persona contra una única entidad, basta con utilizar como proveedor de identificación:
+
+http://ni.rediris.es/@ehu.es/naiz/
+
+Por lo que no os líeis la manta a la cabeza consiguiendo un regexp que haga que solo rediris pueda autenticar (para la propiedad de AuthOpenIDTrusted).
+
+También por si acaso, habilité la propiedad AuthOpenIDSecureCookie para asegurarme de que todo iba cifrado. Por lo tanto, una demo de un fichero de configuración sería:
+  AuthType OpenID
+  Require valid-user
+  AuthOpenIDDBLocation /home/txomon/proyectos/trac/deploy/openid.db
+  AuthOpenIDSingleIdP http://ni.rediris.es/@ehu.es/naiz
+  AuthOpenIDSecureCookie On
+
+Debe tenerse en cuenta que el plugin de openid funciona con sqlite y que si eliminas el fichero, solo se desloguean a todos, pero si que tiene que tener permisos de escritura.
+
+== 3.- Mejora del nombre de usuario ==
+
+La verdad es que esto no es necesario, pero no queda nada bonito que aparezca http://ni.rediris.es/prueba123@ehu.es/naiz/ como nombre de usuario. En este caso, yo lo que he hecho es mirar cuales son las variables que pasa el plugin al entorno, he visto que la variable REMOTE_USER es la que controla el logueo. Esa variable nunca miente, y si no está, es que no está autenticado.
+
+Por lo tanto, como solución espartana en nuestro caso, ya que tenemos que utilizar un //script// como interfaz para hacer que se ejecute nuestra aplicación, pues utilicé el script de python (en este caso) para hacer una modificación de belleza.
+
+Hay que decir que tampoco se me da muy bien python, hago lo que puedo, pero suponiendo que de // http://ni.rediris.es/prueba123@ehu.es/naiz/ // queremos acabar en //prueba123// yo lo hice con estas dos sencillas lineas (duplicadas porque no se exactamente en cual de los dos entornos viene definida):
+  if 'REMOTE_USER' in environ:
+    environ['REMOTE_USER'] = environ['REMOTE_USER'].partition("@")[0].rpartition("/")[2]
+  if 'REMOTE_USER' in os.environ:
+    os.environ['REMOTE_USER'] = os.environ['REMOTE_USER'].partition("@")[0].rpartition("/")[2]
+
+De esta manera, si la variable REMOTE_USER ya ha sido reescrita, puedo asegurar que siga saliendo bien.
+
+=== Instalación de trac! ===
+Mi intención es documentar hasta donde he llegado. En estos momentos, lo único que he hecho ha sido utilizar la configuración por defecto que tiene trac, que es utilizando sqlite, y sin complicarme mucho la vida, aunque si que es verdad que he hecho que todo el tráfico vaya cifrado utilizando un certificado emitido por mi propia [[goo.gl/nEn06|CA]].
+
+Una vez he configurado para que apache sirva la página de trac, y pase todas las peticiones al WSGI (Web Server Gateway Interface) de python (a través del módulo mod_wsgi), solo falta configurar trac!. Voy a dejar a medias este apartado, pues mi intención no es documentar el proceso si no documentar cuales son los pasos para la instalación en un servidor de producción
+
+== 1.- Instalación de trac! ==
+
+
+===== Desarrollo =====
+Por la parte del desarrollo, tengo intención de ir poniendo aquí como me configuro mi entorno de desarrollo, por si alguien más tarde quiere unírseme. Además para que sirva como referencia para mi por si más tarde también quiero configurar el entorno.
+
+La manera de modificar Trac! será a través de plugins, ya que es la opción recomendada por uno de los creadores en una charla que tuve con ellos en el canal de irc.freenode.net #trac .
+
+===== Bitácora =====
+==== Día 1 ====
+  - Empiezo por el principio leyendo http://trac.edgewall.org/wiki/TracDev y haciendo lo que dice.
+
+===== Contribuciones ======

@@ -1,0 +1,91 @@
+====== Cursos SAE septiembre  2009 - Enero 2010 ======
+
+===== Introducción a Kubuntu =====
+[[contribs:materiales_cursos | Materiales de los cursos]]
+
+Cursos impartidos por Dani Gutiérrez (septiembre 2009) y Digna González (Enero 2010), ambos de Itsas Taldea.
+
+====== Cursos SAE junio 2008 ======
+
+===== Introducción a Kubuntu =====
+   * Presentaciones: http://www.slideshare.net/danitxu
+   *  URLs: http://del.icio.us/jdani (grupo curso_sw_libre)
+   * Videos: http://www.youtube.com/jdanitxu
+====Campus====
+  * Bizkaia:
+      *  Castellano, 12 horas, Dani Gutiérrez (ITSAS taldea).
+      *  Centrol de cálculo 0.11, ETSI I T Bilbao, 6, 9 y 10 de junio, 9:00-13:00.
+
+
+====== Cursos SAE febrero 2008 ======
+
+
+===== Introducción al Software Libre =====
+
+
+
+====Materiales para el curso==== 
+
+===Araba===
+
+==BLOQUE 1: Introducción==
+
+  * [[http://www.slideshare.net/txipi/introduccin-al-software-libre-itsas-introduccin/|Introducción]].
+  * [[http://www.uoc.edu/masters/oficiales/img/693.pdf|Libro (Master de Software Libre - UOC)]].
+  * [[http://itsas.ehu.es/manifest|El grupo ITSAS en la universidad]].
+
+==BLOQUE 2: GNU/Linux==
+
+  * [[http://www.slideshare.net/txipi/introduccin-al-software-libre-itsas-gnulinux/|GNU/Linux]].
+  * [[http://www.uoc.edu/masters/oficiales/img/868.pdf|Libro (Master de Software Libre - UOC)]].
+  * Distribución EHUX: http://ehux.ehu.es
+
+==BLOQUE 3: Aplicaciones==
+
+  * [[http://www.slideshare.net/txipi/introduccin-al-software-libre-itsas-aplicaciones/|Aplicaciones]].
+  * [[http://www.uoc.edu/masters/oficiales/img/875.pdf|Libro (Master de Software Libre - UOC)]].
+
+==BLOQUE 4: Cómo saber más==
+
+  * Direcciones de interés:
+    * Alternativas libres: http://alts.homelinux.net/.
+    * CDlibre: http://www.cdlibre.org/
+
+===Bizkaia===
+
+  * [[http://www.mod-pc.com/reviews/opositivo/saeintroduccionslfeb2008/Fichacursobizkaia.pdf|Ficha del curso]].
+  * [[http://www.mod-pc.com/reviews/opositivo/saeintroduccionslfeb2008/Direccionesdeinteres.txt|Direcciones de interés]].
+
+==BLOQUE 1: Primera sesión==
+
+  * [[http://www.mod-pc.com/reviews/opositivo/saeintroduccionslfeb2008/SLyDocumentos.odp|Software Libre y Documentos]].
+  * [[http://www.mod-pc.com/reviews/opositivo/saeintroduccionslfeb2008/OpenOffice.odp|OpenOffice]].
+    * Calc:[[http://www.mod-pc.com/reviews/opositivo/saeintroduccionslfeb2008/OpenOffice/Calc/EjerciciosCalc.ods|Ejercicios]] ([[http://www.mod-pc.com/reviews/opositivo/saeintroduccionslfeb2008/OpenOffice/Calc/EjerciciosCalcSol.ods|Solución]]) y [[http://www.mod-pc.com/reviews/opositivo/saeintroduccionslfeb2008/OpenOffice/Calc/ChuletaCalc.pdf|Chuleta]].
+    *Writer:[[http://www.mod-pc.com/reviews/opositivo/saeintroduccionslfeb2008/OpenOffice/Writer/EjercicioWriter.odt|Ejercicio]].
+  * [[http://www.mod-pc.com/reviews/opositivo/saeintroduccionslfeb2008/PDFCreator.odp|PDFCreator]].
+
+==BLOQUE 2: Segunda sesión==
+
+  * [[http://www.mod-pc.com/reviews/opositivo/saeintroduccionslfeb2008/SOs.odp|Sistemas Operativos]].
+  * [[http://www.mod-pc.com/reviews/opositivo/saeintroduccionslfeb2008/Firefox.odp|Firefox]].
+    * [[http://www.mod-pc.com/reviews/opositivo/saeintroduccionslfeb2008/IdiomaHizkuntza.pdf|Cambiar idioma]] (también para Thunderbird).
+  * [[http://www.mod-pc.com/reviews/opositivo/saeintroduccionslfeb2008/Thunderbird.odp|Thunderbird]].
+    *  [[http://www.mod-pc.com/reviews/opositivo/saeintroduccionslfeb2008/Servidor.odp|Ejemplo datos para configurar correo]].
+
+===Gipuzkoa===
+
+  * [[http://diariolinux.com/sae_ehux.odp|SAE_EHUX: Presentación]].
+  * [[http://diariolinux.com/sae_ehux.odt|SAE_EHUX: Documentación]].
+
+
+====Campus====
+
+  * Araba:
+     *   Castellano, 8 horas, Pablo Garaizar (ITSAS taldea).
+     *   Aula de informática I2, Aulario Las Nieves, 31 de enero, 10:30-13:30/15:30-18:30.
+  * Bizkaia:
+      *  Castellano, 8 horas, Unai Martínez, Oscar Rodriguez y David Cristobal (ITSAS taldea).
+      *  Aula de informática P4, Medicina y Odontología, 7 y 8 de febrero, 9:00-13:00.
+  * Gipuzkoa:
+      *  Castellano, 8 horas, Juanan Pereira (ITSAS taldea).
+      *  Facultad de Informática, 23 y 24 de enero, 10:00-14:00.

@@ -1,0 +1,46 @@
+====== Fiesta de Firmas PGP ======
+
+Durante la Akademy-es 2010 se llevará a cabo una fiesta de firmas PGP con el objetivo de aumentar la red de confianza PGP de los asistentes a la Akademy-es que utilizan claves PGP.
+
+===== ¿Quién puede participar? =====
+
+Para poder participar en la Fiesta de Firmas será necesario cumplir con una serie de requerimientos:
+
+  * Disponer un conjunto de claves PGP :-D
+  * La clave deberá estar publicada en los servidores públicos de claves PGP.
+    * El servidor PGP de Rediris será el servidor de claves PGP de referencia durante el evento: pgp.rediris.es (ver http://www.rediris.es/keyserver/).
+    * Si la clave ha sido subida recientemente y no se puede garantizar que haya sido propagada por el conjunto de servidores PGP se deberá garantizar, como mínimo, que la clave pública PGP esté disponible en el servidor público de claves PGP de Rediris.
+  * Estar apuntado a la Akademy-es 2010
+  * Estar apuntado a la Fiesta de Firmas PGP de la Akademy-es 2010
+
+===== ¿Cuándo me puedo apuntar? =====
+
+Antes de la realización de la Akademy-es 2010 la organización mandará un email a la lista de correo de participantes animando a la participación y con el objetivo de recabar la lista de usuarios y claves PGP a ser verificada por cada participante de la Fiesta.
+
+===== ¿Qué necesito llevar a la fiesta de firmas? =====
+
+  * TÚ mismo (nadie puede sustituirte durante el proceso de verificación de firmas)
+  * Uno o dos documentos identificativos con foto, p.e.: DNI, Carnet de conducir, Pasaporte, ...
+  * Detalles de tus claves PGP que quieras que sean verificadas y firmadas:
+    * Clave ID, p.e. 828D0C80
+    * Huella digital, p.e. 7BFF 4105 F46B 7977 BD96  348C 1007 4FF8 828D 0C80
+    * Tipo, p.e. DSA
+    * Tamaño, p.e. 1024
+  * Listado en formato electrónico o papel de los participantes y claves PGP en la Fiesta de Firmas proporcionado por los organizadores de la Akademy-es.
+
+===== ¿Como funciona la Fiesta de Firmas PGP? =====
+
+**En la Fiesta de Firmas**, los participantes en la Fiesta con el listado de usuarios y claves PGP proporcionado por la organización deberán de verificar los datos proporcionados en dicho listado con el dueño de la clave PGP:
+
+  - Identificar al dueño de la clave (bien es una persona __totalmente__ conocida o gracias al uso de documentos de identificación fiables con foto)
+  - Consultar con el usuario identificado que los datos de sus claves que aparecen en el listado de la organización son correctos (clave ID, huella digital, tamaño y tipo)
+  - Marcar esa clave para ser firmada con posterioridad
+
+**Tras la Fiesta de Firmas** descargar del servidor de claves y firmar con la clave PGP personal las claves que hayan sido verificadas por uno mismo en la Fiesta de Firmas. Posteriormente subir las claves firmadas a un servidor público de claves PGP (preferiblemente al servidor de claves PGP de referencia del evento: pgp.rediris.es).
+
+===== Sobre PGP/GnuPG =====
+
+Para obtener más información sobre Pretty Good Privacy (PGP) y el uso de GNU Privacy Guard (GPG) consultar los siguientes enlaces:
+  * [[http://es.wikipedia.org/wiki/PGP|Pretty Good Privacy (Wikipedia)]]
+  * [[http://es.wikipedia.org/wiki/GNU_Privacy_Guard|GNU Privacy Guard (Wikipedia)]]
+  * [[http://www.dewinter.com/gnupg_howto/spanish/index.html|GNU Privacy Guard Mini-Como]]

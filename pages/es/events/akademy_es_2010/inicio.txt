@@ -1,0 +1,45 @@
+====== Akademy-es 2010 =====
+Asistencia prevista: 86 personas, ?? de Euskadi (actualización a 30/Abril/10)
+
+
+===== Plan de tareas  =====
+
+
+
+
+
+===== Programa, financiación, logos, actas ======
+  *[[equipo|Equipo durante el evento]]
+  *[[programa|Programa y Charlas]]
+  *[[financiacion|Financiación]]
+  *[[difusion|Difusión]]
+  *[[logos|Logos y banners]]
+  *[[correo_inscritos|Correo]] para enviar a personas inscritas
+
+Actas de reunión:
+  *[[acta20100421|Acta reunión 2010/04/21]]
+  *[[acta20100324|Acta reunión 2010/03/24]]
+  *[[acta20100306|Acta reunión 2010/03/06]]
+
+
+===== Previos =====
+**Lugar principal**: ETSI Ind y Telecom. Bilbao - Sala de Conferencias (antigua sala de TV), Planta 0\\
+Alda. Urquijo s/n – 48013 Bilbao\\
+**Fechas**
+  *5 de Marzo - Anuncio Oficial y call for papers y apertura de inscripciones
+  *16 de Abril - Fin de call for papers (si hace falta podemos alargarlo hasta el 23 de Abril)
+  *23 de Abril - Publicacion programa (si hace falta 30 de Abril)
+  *7-8-9 de mayo - aKademy-es 2010
+
+**Albergue de Bilbao**
+  * Se aplican los precios más bajos (temporada baja, menores de 25 o grupo de más de 10 personas).
+  * Tarifas según tipo de habitación (ver [[http://albergue.bilbao.net/cast/introcast.html|web]]).
+  * Necesario carnet de alberguista, aunque se puede sacar allí al momento si no lo tienen. Existe un carnet de alberguista de grupo para asociaciones.
+  * Desayuno incluido en la tarifa.
+  * Toallas no incluidas (a la venta por 3,35€).
+  * Horario: La puerta principal cierra a las 12 de la noche. Después abren durante unos minutos a las siguientes horas: 1:00, 2:00, 3:00, 4:00.
+  * Por ahora para esas fechas hay plazas libres de sobra, pero recomiendan reservar cuanto antes, y establecerían una fecha límite para dar la señal.
+
+**Presupuesto inicial**: ver {{:akademy_es_2010:presupuesto_inicial.ods|enlace}}
+
+**Plan de tareas inicial**: ver {{:akademy_es_2010:tareas.ods|enlace}}

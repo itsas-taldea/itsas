@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="351.48001"
+   height="159.24001"
+   id="svg5001"
+   sodipodi:version="0.32"
+   inkscape:version="0.45"
+   sodipodi:docbase="/home/inigo/documentos/itsas/balea/finales/formal/definitivos"
+   sodipodi:docname="logo_itsas_web.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   inkscape:export-filename="/home/inigo/documentos/itsas/balea/finales/formal/definitivos/logo_itsas_web_grande.png"
+   inkscape:export-xdpi="153.63605"
+   inkscape:export-ydpi="153.63605"
+   sodipodi:modified="TRUE">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2249035"
+     inkscape:cx="164.50388"
+     inkscape:cy="44.31072"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1272"
+     inkscape:window-height="970"
+     inkscape:window-x="4"
+     inkscape:window-y="50"
+     height="159.24001px"
+     width="351.48px" />
+  <defs
+     id="defs5003">
+    <linearGradient
+       id="linearGradient5140">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5142" />
+      <stop
+         style="stop-color:#c8c8c8;stop-opacity:0"
+         offset="1"
+         id="stop5144" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5143"
+       inkscape:collect="always">
+      <stop
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;"
+         id="stop5145" />
+      <stop
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;"
+         id="stop5147" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3182">
+      <stop
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;"
+         id="stop3184" />
+      <stop
+         offset="1"
+         style="stop-color:#c8c8c8;stop-opacity:0.78431374;"
+         id="stop3186" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4172"
+       inkscape:collect="always">
+      <stop
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;"
+         id="stop4174" />
+      <stop
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0"
+         id="stop4176" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9990"
+       inkscape:collect="always">
+      <stop
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;"
+         id="stop9992" />
+      <stop
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;"
+         id="stop9994" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6079">
+      <stop
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;"
+         id="stop6081" />
+      <stop
+         offset="1"
+         style="stop-color:#c8c8c8;stop-opacity:0"
+         id="stop6083" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3240">
+      <stop
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;"
+         id="stop3242" />
+      <stop
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:1;"
+         id="stop3244" />
+    </linearGradient>
+    <linearGradient
+       x1="357.29141"
+       gradientTransform="translate(3.334529,88.37814)"
+       y1="535.32617"
+       inkscape:collect="always"
+       gradientUnits="userSpaceOnUse"
+       y2="421.96814"
+       xlink:href="#linearGradient3240"
+       id="linearGradient3140"
+       x2="356.90372" />
+    <linearGradient
+       x1="335.39856"
+       y1="637.97351"
+       inkscape:collect="always"
+       gradientUnits="userSpaceOnUse"
+       y2="257.96719"
+       xlink:href="#linearGradient3240"
+       id="linearGradient6077"
+       x2="333.29752" />
+    <linearGradient
+       x1="335.39856"
+       gradientTransform="matrix(0.275667,0,0,0.275667,481.87282,437.93014)"
+       y1="637.97351"
+       inkscape:collect="always"
+       gradientUnits="userSpaceOnUse"
+       y2="257.96719"
+       xlink:href="#linearGradient3240"
+       id="linearGradient8030"
+       x2="333.29752" />
+    <linearGradient
+       x1="335.39856"
+       gradientTransform="matrix(0.275667,0,0,0.275667,481.87282,437.93014)"
+       y1="637.97351"
+       inkscape:collect="always"
+       gradientUnits="userSpaceOnUse"
+       y2="257.96719"
+       xlink:href="#linearGradient3240"
+       id="linearGradient8033"
+       x2="333.29752" />
+    <linearGradient
+       x1="335.39856"
+       gradientTransform="matrix(0.275667,0,0,0.275667,481.87282,437.93014)"
+       y1="637.97351"
+       inkscape:collect="always"
+       gradientUnits="userSpaceOnUse"
+       y2="257.96719"
+       xlink:href="#linearGradient3240"
+       id="linearGradient8036"
+       x2="333.29752" />
+    <linearGradient
+       x1="392.37787"
+       y1="621.29828"
+       inkscape:collect="always"
+       gradientUnits="userSpaceOnUse"
+       y2="509.4194"
+       xlink:href="#linearGradient9990"
+       id="linearGradient9996"
+       x2="391.95248" />
+    <linearGradient
+       x1="399.02615"
+       y1="603.24237"
+       inkscape:collect="always"
+       gradientUnits="userSpaceOnUse"
+       y2="518.58881"
+       xlink:href="#linearGradient4172"
+       id="linearGradient4178"
+       x2="398.75882" />
+    <linearGradient
+       x1="391.60339"
+       y1="13.865952"
+       inkscape:collect="always"
+       gradientUnits="userSpaceOnUse"
+       y2="70.640961"
+       xlink:href="#linearGradient3182"
+       id="linearGradient3192"
+       x2="391.60339" />
+    <linearGradient
+       x1="391.60339"
+       y1="13.865952"
+       inkscape:collect="always"
+       gradientUnits="userSpaceOnUse"
+       y2="70.640961"
+       xlink:href="#linearGradient3182"
+       id="linearGradient6137"
+       x2="391.60339" />
+    <linearGradient
+       x1="391.60339"
+       gradientTransform="translate(0,2.4493613e-6)"
+       y1="13.865952"
+       inkscape:collect="always"
+       gradientUnits="userSpaceOnUse"
+       y2="70.640961"
+       xlink:href="#linearGradient3182"
+       id="linearGradient6139"
+       x2="391.60339" />
+    <linearGradient
+       x1="391.60339"
+       gradientTransform="translate(0,2.4493613e-6)"
+       y1="13.865952"
+       inkscape:collect="always"
+       gradientUnits="userSpaceOnUse"
+       y2="70.640961"
+       xlink:href="#linearGradient3182"
+       id="linearGradient6141"
+       x2="391.60339" />
+    <linearGradient
+       x1="391.60339"
+       y1="13.865952"
+       inkscape:collect="always"
+       gradientUnits="userSpaceOnUse"
+       y2="70.640961"
+       xlink:href="#linearGradient3182"
+       id="linearGradient6143"
+       x2="391.60339" />
+    <linearGradient
+       x1="391.60339"
+       y1="13.865952"
+       inkscape:collect="always"
+       gradientUnits="userSpaceOnUse"
+       y2="70.640961"
+       xlink:href="#linearGradient3182"
+       id="linearGradient6159"
+       x2="391.60339" />
+    <linearGradient
+       x1="391.60339"
+       y1="13.865952"
+       inkscape:collect="always"
+       gradientUnits="userSpaceOnUse"
+       y2="70.640961"
+       xlink:href="#linearGradient3182"
+       id="linearGradient6165"
+       x2="391.60339" />
+    <linearGradient
+       x1="581.66492"
+       gradientTransform="translate(0,4.4330102e-6)"
+       y1="522.72162"
+       inkscape:collect="always"
+       gradientUnits="userSpaceOnUse"
+       y2="579.93048"
+       xlink:href="#linearGradient3182"
+       id="linearGradient6172"
+       x2="581.78339" />
+    <linearGradient
+       x1="391.60339"
+       gradientTransform="translate(0,3.3151641)"
+       y1="58.973812"
+       inkscape:collect="always"
+       gradientUnits="userSpaceOnUse"
+       y2="-12.090167"
+       xlink:href="#linearGradient3182"
+       id="linearGradient7150"
+       x2="391.60339" />
+    <linearGradient
+       x1="391.60339"
+       gradientTransform="translate(0,2.4493613e-6)"
+       y1="13.865952"
+       inkscape:collect="always"
+       gradientUnits="userSpaceOnUse"
+       y2="45.318661"
+       xlink:href="#linearGradient3182"
+       id="linearGradient8221"
+       x2="391.60339" />
+    <linearGradient
+       x1="391.60339"
+       gradientTransform="translate(0,2.4493612e-6)"
+       y1="13.865952"
+       inkscape:collect="always"
+       gradientUnits="userSpaceOnUse"
+       y2="70.640961"
+       xlink:href="#linearGradient3182"
+       id="linearGradient8223"
+       x2="391.60339" />
+    <linearGradient
+       x1="391.60339"
+       gradientTransform="translate(0,3.3151616)"
+       y1="58.973812"
+       inkscape:collect="always"
+       gradientUnits="userSpaceOnUse"
+       y2="20.120157"
+       xlink:href="#linearGradient3182"
+       id="linearGradient8229"
+       x2="391.60339" />
+    <filter
+       id="filter5242"
+       inkscape:collect="always">
+      <feGaussianBlur
+         stdDeviation="1.0743635"
+         id="feGaussianBlur5244"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       id="filter5246"
+       inkscape:collect="always">
+      <feGaussianBlur
+         stdDeviation="1.9444517"
+         id="feGaussianBlur5248"
+         inkscape:collect="always" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5143"
+       id="linearGradient4159"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,0,1159.861)"
+       x1="742.49487"
+       y1="601.09509"
+       x2="743.31128"
+       y2="530.77527" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6079"
+       id="linearGradient5138"
+       x1="391.60339"
+       y1="74.589851"
+       x2="391.60339"
+       y2="14.413201"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5140"
+       id="linearGradient5146"
+       x1="391.60339"
+       y1="74.589851"
+       x2="391.60339"
+       y2="14.413201"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter3190">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0825133"
+         id="feGaussianBlur3192" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata5006">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     id="layer1"
+     inkscape:groupmode="layer"
+     transform="translate(-505.75296,-491.30905)">
+    <path
+       sodipodi:nodetypes="cscccccccscsscssssscssssssscc"
+       style="fill:url(#linearGradient6172);fill-opacity:1.0;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="157.12132"
+       d="M 540.88153,513.53 C 524.90729,520.91731 528.3825,495.65413 541.75653,496.155 C 550.0101,496.4673 549.36632,508.53538 552.10028,515.53 C 552.95801,517.17802 557.79993,517.56928 558.41278,516.24875 C 559.59612,490.93297 584.89817,502.51147 569.85028,513.99875 C 592.77636,512.86613 568.60444,478.35691 555.8851,506.32465 C 538.01893,461.02677 505.23498,534.69485 540.88153,513.53 z M 515.84544,568.12599 C 516.10503,571.23539 509.09035,575.04615 505.75296,577.49072 C 532.27883,565.31385 548.05009,561.75607 563.11635,571.01304 C 579.44384,581.04493 615.63767,588.26553 646.14939,560.24875 C 640.86612,562.89223 630.89837,568.83167 630.14901,559.40968 C 629.43378,550.41675 620.92327,547.09579 626.25653,539.7175 C 644.67215,514.24042 618.70221,524.14516 613.35206,529.34875 C 599.38416,520.06936 590.41675,525.62417 604.89939,540.5559 C 613.44197,549.36337 608.07438,556.38915 603.35512,558.28968 C 597.82685,560.51601 593.6437,553.79386 586.86467,542.44828 C 581.43952,533.3686 575.30192,523.02955 557.75653,519.56125 C 529.51484,513.97857 513.4622,539.57877 515.84544,568.12599 z M 613.83957,534.86393 C 623.03706,528.57131 632.3831,524.44019 622.17528,536.58447 C 613.86255,546.47415 626.46866,554.2559 625.69902,563.0019 C 624.57871,575.73289 587.59799,580.44003 565.37433,566.38448 C 543.67672,552.66163 523.41519,568.75067 523.71076,561.34354 C 524.84689,533.00761 540.98378,522.71212 560.64224,528.38447 C 569.53353,530.95 576.2723,538.3207 582.31189,547.67018 C 587.55485,555.78645 594.77921,568.25782 605.23689,564.17375 C 612.78631,561.22546 619.41436,549.7827 608.16903,538.08268 C 599.72135,530.02964 603.20061,526.94565 613.83957,534.86393 z "
+       inkscape:export-filename="/home/inigo/documentos/itsas/balea/finales/formal/_logo_itsas_8_pruebas.png"
+       inkscape:export-ydpi="157.12132"
+       id="path2259" />
+    <flowRoot
+       inkscape:export-xdpi="157.12132"
+       style="font-size:62.16247177px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:80.00000119%;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient8221);fill-opacity:1;font-family:Courier;stroke:#000000;stroke-opacity:1;stroke-width:0.55252776;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
+       transform="matrix(1.8098638,0,0,1.8098638,42.259539,494.24717)"
+       inkscape:export-filename="/home/inigo/documentos/itsas/balea/finales/formal/_logo_itsas_8_pruebas.png"
+       inkscape:export-ydpi="157.12132"
+       id="flowRoot2186"
+       xml:space="preserve"><flowRegion
+         style="fill:url(#linearGradient6139);fill-opacity:1"
+         id="flowRegion2188"><rect
+           style="font-size:62.16247177px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:80.00000119%;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient6141);fill-opacity:1;font-family:Courier;stroke:#000000;stroke-opacity:1;stroke-width:0.55252776;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
+           y="6.7933078"
+           x="303.77982"
+           height="63.567814"
+           width="174.15674"
+           id="rect2190" /></flowRegion><flowPara
+         style="font-size:62.16247177px;fill:url(#linearGradient8223);fill-opacity:1;font-family:Ubuntu-Title;stroke:#000000;stroke-opacity:1;stroke-width:0.55252776;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
+         id="flowPara2200">itsas</flowPara></flowRoot>    <g
+       id="g2214"
+       style="filter:url(#filter3190)">
+      <path
+         id="path6147"
+         inkscape:export-ydpi="157.12132"
+         inkscape:export-filename="/home/inigo/documentos/itsas/balea/finales/formal/_logo_itsas_8_690.png"
+         d="M 540.88153,652.331 C 524.90729,644.94369 528.3825,670.20687 541.75653,669.706 C 550.0101,669.3937 549.36632,657.32562 552.10028,650.331 C 552.95801,648.68298 557.79993,648.29172 558.41278,649.61225 C 559.59612,674.92803 584.89817,663.34953 569.85028,651.86225 C 592.77636,652.99487 568.60444,687.50409 555.8851,659.53635 C 538.01893,704.83423 505.23498,631.16615 540.88153,652.331 z M 515.84544,597.73501 C 516.10503,594.62561 509.09035,590.81485 505.75296,588.37028 C 532.27883,600.54715 548.05009,604.10493 563.11635,594.84796 C 579.44384,584.81607 615.63767,577.59547 646.14939,605.61225 C 640.86612,602.96877 630.89837,597.02933 630.14901,606.45132 C 629.43378,615.44425 620.92327,618.76521 626.25653,626.1435 C 644.67215,651.62058 618.70221,641.71584 613.35206,636.51225 C 599.38416,645.79164 590.41675,640.23683 604.89939,625.3051 C 613.44197,616.49763 608.07438,609.47185 603.35512,607.57132 C 597.82685,605.34499 593.6437,612.06714 586.86467,623.41272 C 581.43952,632.4924 575.30192,642.83145 557.75653,646.29975 C 529.51484,651.88243 513.4622,626.28223 515.84544,597.73501 z M 613.83957,630.99707 C 623.03706,637.28969 632.3831,641.42081 622.17528,629.27653 C 613.86255,619.38685 626.46866,611.6051 625.69902,602.8591 C 624.57871,590.12811 587.59799,585.42097 565.37433,599.47652 C 543.67672,613.19937 523.41519,597.11033 523.71076,604.51746 C 524.84689,632.85339 540.98378,643.14888 560.64224,637.47653 C 569.53353,634.911 576.2723,627.5403 582.31189,618.19082 C 587.55485,610.07455 594.77921,597.60318 605.23689,601.68725 C 612.78631,604.63554 619.41436,616.0783 608.16903,627.77832 C 599.72135,635.83136 603.20061,638.91535 613.83957,630.99707 z "
+         inkscape:export-xdpi="157.12132"
+         style="opacity:0.5;fill:url(#linearGradient4159);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5246)"
+         sodipodi:nodetypes="cscccccccscsscssssscssssssscc" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6149"
+         inkscape:export-ydpi="157.12132"
+         inkscape:export-filename="/home/inigo/documentos/itsas/balea/finales/formal/_logo_itsas_8_690.png"
+         transform="matrix(1.8098638,0,0,-1.8098638,42.259539,671.61383)"
+         style="font-size:62.16247177px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:80.00000119%;writing-mode:lr-tb;text-anchor:middle;opacity:0.5;fill:url(#linearGradient5146);fill-opacity:1.0;filter:url(#filter5242);font-family:Courier;stroke:url(#linearGradient5138)"
+         inkscape:export-xdpi="157.12132"><flowRegion
+           id="flowRegion6151"
+           style="fill:url(#linearGradient5146);fill-opacity:1.0;stroke:url(#linearGradient5138)"><rect
+             id="rect6153"
+             width="174.15674"
+             height="63.567814"
+             x="303.77982"
+             y="6.7933078"
+             style="font-size:62.16247177px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:80.00000119%;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5146);fill-opacity:1.0;font-family:Courier;stroke:url(#linearGradient5138)" /></flowRegion><flowPara
+           id="flowPara6155"
+           style="font-size:62.16247177px;fill:url(#linearGradient5146);fill-opacity:1.0;font-family:Ubuntu-Title;stroke:url(#linearGradient5138)">itsas</flowPara></flowRoot>    </g>
+  </g>
+</svg>

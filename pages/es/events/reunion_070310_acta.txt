@@ -1,0 +1,107 @@
+====== Acta de la reunión de itsas 10-03-2007 ======
+
+Sábado 10-mar-07, 11:30 - Esc. Ing. San Mamés, Bilbao
+Asistentes: 18 personas
+
+
+===== 1. Revisión de la marcha general de itsas =====
+
+Se comenta que hasta la fecha hemos estado recorriendo un camino inicial, y que es a partir de ahora cuando realmente empezaremos a tener actividad como grupo.
+Se constata una participación variada:
+  *Lista: hay 69 suscriptores en modo normal y 30 en modo digest. Puede ser pesado leer todos los mensajes, incluso los que están en modo digest, por lo que se acuerda:
+    - Crear una segunda lista que sea para el uso más activo (como el actual), y dejar la existente para mensajes de importancia (ej. avisos generales), de modo que no perdamos a nadie que esté suscrito.
+    - Crear unas páginas en el wiki o unos vídeos en los que se explique como configurar reglas de filtrado de mensajes para listas en clientes de correo así como en gmail.
+  *Respecto al wiki, está muy bien pero se ve que hay cierta terminología quizás demasiado freaky para el común de la gente. Hay que quitar términos de tipo IWG,...También hay que repensar algunas secciones. Se propone dejar dos nuevas zonas para recoger las buenas y las malas prácticas de la operativa con el software de la EHU/UPV (ej. accesibilidad de páginas web, formatos de los  trabajos a entregar,...).
+
+Se dan varias asimetrías en cuanto a las personas integrantes:
+  *Pocas personas generan un alto porcentaje de mensajes y de contenido en el wiki.
+  *Participan bastantes más alumnos que profesores.
+  *Al igual que en otros espacios sobre sw libre, hay mucha más presencia masculina que femenina.
+  *Tenemos bastante más gente de Bizkaia, menos de Gipuzkoa, y muy poca de Araba.
+
+Las formas de coordinación y animación llevadas hasta la fecha parecen adecuadas.
+
+
+===== 2. Aprobación del manifiesto =====
+
+De las distintas opciones del punto 2 del manifiesto, se opta por la 2c a la que se modifica ligeramente la última línea: ...el modelo de software privativo... dificulta la interoperabilidad... conduce a una alta dependencia y produce una brecha social... un serio freno para la innovación en el desarrollo de software.
+
+Se deja a fecha de marzo de 2007.
+
+Dado que pocas semanas antes de esta reunión desde la comisión del manifiesto se preguntó por propuestas de cambio y no salió ninguna, se establece un plazo de una semana a partir de la difusión del acta, y si no se ve una oposición notable se da por aprobado.
+
+
+===== 3. Definición de las líneas de trabajo =====
+
+Partiendo de las reivindicaciones del manifiesto, de las ideas aparecidas hasta la fecha en la lista, y tras un debate en la reunión, se establecen estas líneas estratégicas a desarrollar de ahora en adelante:
+
+==== 1. Difusión de itsas y establecimiento y potenciación de relaciones externas ====
+Se pretende que nuestras propuestas tengan una presencia pública lo más amplia posible en distintos ámbitos universitarios, sociales y culturales. Además será una manera de ampliar el número de personas que conformamos itsas.
+En esta línea de trabajo resultan de especial importancia las relaciones con otras entidades que puedan estar receptivas o próximas a nuestras ideas, como son:
+  * Otros grupos de sw libre, ej. de universidades
+  * Los órganos con poder decisorio en la Universidad, especialmente los relacionados con TICs
+  * La Administración pública local
+  * Las empresas locales relacionadas con el sw libre
+
+==== 2. Formación y sensibilización ====
+
+A fin de que más personas (alumnado, profesorado,...) entiendan el significado verdadero de la ética hacker, las ventajas inherentes al sw libre (ver [[http://itsas.ehu.es/faq|faqs]]), así como la coherencia de la promoción del sw libre a nivel de una universidad pública, hay que dedicar recursos a explicar la filosofía del sw y los formatos libres, así como a facilitar el uso de los mismos.
+Se trata de formar e informar, para ir ganando en masa crítica.
+Aquí entrarán acciones como jornadas y charlas, espacios para ayudar a instalar e intercambiar sw libre ("install-partys"), actividades relacionadas con la cultura libre, etc. Todas ellas destinadas a los distintos públicos con perfiles de docencia, investigación, estudio, y adaptando la profundidad de los contenidos según los niveles de conocimiento de aquéllos.
+
+
+==== 3. Uso de software libre y formatos abiertos ====
+
+Hace referencia a la incorporación del sw libre y los formatos abiertos a distintos niveles:
+  *En los sistemas actuales, migrando aquellos entornos tecnológicos y organizativos en los que existan sw privativo o formatos cerrados. Esta migración no es siempre viable a corto plazo, y la propuesta es hacerla de forma gradual pero con una dirección firme, incorporando la dimensión del sw libre en los planes futuros de TICs (ej. comparativas de heramientas, licitaciones).
+  *Esta línea afecta al alumnado, al profesorado y al PAS, para las distintas operaciones de docencia, gestión e investigación, y engloba tanto los sistemas de cara al usuario ("front-end", ej. distintas webs) como los que están detrás ("back-end").
+  *Cabe también la inclusión del sw libre en el ámbito de la solidaridad, tanto a nivel local ej. barrios de nuestros pueblos y ciudades, como internacional ej. cooperación Norte-Sur a través de la colaboración con la Oficina de Cooperación de la universidad u otros grupos de solidaridad.
+
+Esta línea conlleva una inversión económica en actividades como desarrollo y adaptación de software, formación, soporte y atención al público. Es por esa necesidad financiera que quizás el trabajo que itsas pueda llevar a cabo en esta estrategia esté algo limitado. No obstante, también existen logros factibles, como puede ser la declaración de validez oficial de un formato abierto para el intercambio de documentos de texto a nivel de toda la universidad.
+
+Algunas acciones propuestas son:
+  * Participar a nivel consultivo en la toma de decisiones de sw y formatos.
+  * Homologar equipos hardware para sistemas operativos libres.
+  * Instalar equipos con arranque dual (privativo y libre).
+  * Emplear sw libre en sistemas privativos.
+  * Implantar sw libre que sea robusto y de calidad.
+  * Definir y medir indicadores del uso de los distintos softwares, ej. moodle.
+
+
+==== 4. Potenciación del sw libre y su filosofía en actividades de I+D y semejantes ====
+
+Se trata de reconocer de forma explícita, premiar o discriminar positivamente aquellos trabajos de grupos de investigación o personas (ej. tesis doctoral, proyectos de fin de carrera) que:
+a) empleen sw libre y formatos abiertos.
+b) generen sw libre para la comunidad, al crear así recursos de conocimiento que amplían el patrimonio público a nivel universal.
+
+
+==== 5. Incorporación del sw libre a los planes de estudio ====
+
+El sw libre tiene un impacto mucho más allá de las carreras tecnológicas al ser una cuestión filosófica, y además constituye un sector creciente, capaz de incidir positivamente en la economía local. Por otra parte, el impacto de las TICs es enorme en numerosos ámbitos de la formación humana.
+En base a éstas y otras razones, se plantea su incorporación como contenido docente en materias varias: economía, sociología, bellas artes, ingeniería,...
+
+
+===== 4. Grupos de trabajo =====
+
+Se establecen estos grupos de trabajo:
+  *Difusión de itsas y relaciones externas.
+  *Organización de Jornadas próximas: se propone, por una parte, organizar unas jornadas propia de itsas en julio, en paralelo con las de e-ghost. Por otra, informarnos y tomar parte en lo posible en las jornadas que va a hacer el grupo iKide con el soporte del CIDIR sobre moodle (para profesorado) ¿hacia junio?, y el CIDIR de tipo install-party de EHUX (para el alumnado) ¿hacia octubre?
+  *Formatos libres: se trata de ir conociendo indicadores de uso en la EHU/UPV, y pensar qué posibles pasos se pueden dar.
+  *Grupo técnico.
+  *Personas para coordinación y dinamización de los grupos, que sean lo más representativas posible de la gente que formamos itsas: de los distintos grupos de trabajo, herrialdes, perfiles profesor/alumno, mujeres y hombres,...
+
+===== 5. Varios =====
+
+Para próximas ocasiones quizás acuda más gente si la reunión no es en sábado sino ej. en viernes.
+
+
+=====  Resumen de Compromisos acordados =====
+
+  *Crear una nueva lista de correo y dinamizar las suscripciones al principio
+  *Reorganizar el wiki:
+    *"Humanizarlo": quitar terminología IWG,...
+    *Dejar una sección para buenas prácticas y otra para malas prácticas, sin que ésta tenga un caracter cáustico.
+    *Revisar otras secciones
+    *Logotipo
+  *Apuntarse a los grupos de trabajo y currar por la causa todo lo que se pueda
+  *Enviar el acta a la lista antigua, una vez aprobada su redacción

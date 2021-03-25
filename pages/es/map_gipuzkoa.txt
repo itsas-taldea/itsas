@@ -1,0 +1,29 @@
+====== Campus de Gipuzkoa ======
+
+^Id^Hizkuntza^Fakultatea^Saila^Estamentua^Beste oharrak^
+|Aitor Cuartango|E,C|CIDIR| |PAS| |
+|Iñigo Aldazabal|C|Centro de Física de Materiales CSIC-UPV/EHU| Servicio de Computación| Responsable del Servicio |
+|Yosu Tamayo|E,C|CIDIR| |PAS| |
+|Jon Ander Hernández (JonAn) |E,C|Fac. Informática| Ingeniería Informática de Sistemas |Ikaslea| |
+|Oier Mees |E,C|Fac. Informática| Ingeniería Informática |Ikaslea| |
+|Ander Martínez |E,C|Fac. Informática| Ingeniería Informática |Ikaslea| |
+|Florencio Fernández Marzo |C|EU de Ingeniería| Ingeniería Química y del Medio Ambiente |Profesor |Grupo iKide de formación y difusión del software libre para la docencia|
+|Iñaki Silanes|E,C|DIPC|Q. Teórica|Post-Doc| |
+|Ion Zabaleta|E,C|CIDIR| |PAS| |
+
+Notas:
+  * Id: puede ser el nombre y apellido, o un nickname.
+  * Lenguas habladas: **E**(uskera), **C**(astellano).
+  * Estamento: profesor/a, alumno/a, investigador/a, etc.
+  * Saila: departamento (o en su defecto titulación).
+  * Beste oharrak: otros comentarios que quieras poner.
+
+
+<note tip>
+Si quieres añadir tu nombre a esta lista tienes dos formas:
+
+  * [[http://itsas.ehu.es/start?do=register|Registrarte]] en el wiki y editar esta página.
+  * Pedir en la [[/participate#lista_de_correo|lista de correo]] (o a otra persona) que añadan tu nombre y tus datos.
+
+¡Ánimo, apúntate! es importante para nosotros y para nuestra imagen como colectivo. ;-)
+</note>

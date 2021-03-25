@@ -1,0 +1,109 @@
+======FAQ: Ohiko galderak======
+
+**[[faq| ... en castellano ...]]**
+
+  * [[#Zer esan nahi du "itsas" izenak?]]
+
+  * [[#Zer da software librea?]]
+
+  * [[#Zergatik erabili software librea?]]
+
+  * [[#Zergatik EZ erabili software pribatiboa?]]
+
+  * [[#Zergatik erabili formatu irekiak?]]
+
+  * [[#Zergatik EZ erabili formatu itxiak?]]
+
+  * [[#Irakaslea naiz, zer zerikusi du honek nirekin?]]
+
+  * [[#Ikaslea naiz, zer zerikusi du honek nirekin?]]
+
+
+
+=====Zer esan nahi du "itsas" izenak?=====
+
+Euskaraz “itsas” hitzak duen esanahi zuzenaz gain, talde mailan bi esangura dituen akronimo bat da:
+
+  *//Izengabeko Taldea Software Askearen Sustapenerako//: Izena proposatzerako orduan egon ziren izenen alternatiba eta proposamen desberdinei egiten dio erreferentzia. Eztabaidan hainbat egun eta gau aritu ondoren, 2006ko azaroaren 18an azkenean, gauerdiz, izen hau irten zen garaile bozketa  lehiakor baten ostean.
+
+  *//Itsas Taldea Software Askearen Sustapenerako//: Era honetan, software librearen munduan hain ezagunak diren akronimo errepikakorren tradizio errotuarekin jarraitzen da, adibiderik ezagunenak GNU, emacs, php edo wine direlarik.
+
+
+=====Zer da software librea?=====
+
+Berau abiarazi, kopiatu, banatu, ikertu, aldatu eta hobetzeko aukera ematen duen lizentzia daukan softwarea da. 
+
+  * Edozein xedetarako, muga gabe programa erabiltzeko askatasuna (//0 askatasuna//)
+ 
+  * Programak nola funtzionatzen duen ikertu eta bakoitzaren beharretara egokitzeko askatasuna, beraren iturburuaren erabilgarritasunari esker (//1 askatasuna//)
+
+  * Hirugarren pertsona batzuei lizentzia berean programaren kopia edo modifikazioak banatzeko askatasuna, bai doan edo zerbait kobratuz (//2 askatasuna//)
+
+
+  * Programa hobetu, zuzendu, norberaren hizkuntzara itzuli eta hobekuntza hauek publikoak egiteko askatasuna, komunitatearen mesederako (//3 askatasuna//)
+
+
+**Garrantzitsua:** "libre" edo “aske” terminoek ez dute zertan “doan” edo “musutruk” hitzen esanahi berdina izan. Bere negozioa software librean oinarritzen duten pertsona eta enpresak daude. 
+
+[[http://www.gnu.org/philosophy/free-sw.es.html|Software librearen]] definizio osatuago bat (gaztelaniaz).
+
+=====Zergatik erabili software librea?=====
+
+
+  * Guztiongana heltzen delako.
+
+  * Gure aukeratzeko askatasuna bermatzen duelako, orain eta etorkizunean.
+
+  * Software proiektuetan partehartzea sustatzen duelako. 
+
+  * Bertako enpresen garapena bultzatzen duelako, ez kanpoko multinazional arrotzena. 
+
+  * Aplikazioa era askean aldatu eta gure beharretara egokitzea ahalbidetzen duelako. 
+
+  * Formatu irekien erabileraren eta aplikazioen arteko bateragarritasunaren alde egiten duelako.
+  
+  * Denborarekin hazten doan gizadi osoaren jakintza errekurtsu bat delako.
+
+=====Zergatik EZ erabili software pribatiboa?=====
+
+
+  * Erabili behar baina lizentzia ezin bada ordaindu, kopia ilegalak egitera bultzatzen gaituelako (era puztuan “piratak” deritzotenak).
+
+  * Batzutan era esklusiboan, aplikazio edo berau fabrikatzen duen enpresa jakin baten menpeko bihurtzen gaituelako, hainbatetan monopolio egoera batera helduz.  
+
+  * Kode itxia delako eta beraz, ezin dugulako aldatu, hobetu edota zuzendu.
+
+  * Enpresaz gain inork ikusi ez duen kodea delako eta, segurtasun arriskuak pairatzen ditugulako. 
+
+  * Formatu itxien erabilera sustatzen duelako.
+
+
+=====Zergatik erabili formatu irekiak?=====
+
+  * Bere espezifikazioak publikoak direlako eta formatu irekiko artxiboak aplikazio desberdinek editatu ahal dituztelako. Esate baterako  [[http://es.wikipedia.org/wiki/Opendocument|OpenDocument]] [[http://www.consortiuminfo.org/standardsblog/article.php?story=20060503080915835|ISO estandarra]] duen formatu ofimatikoa da, hainbat aplikazioetatik editatu daitekeena: OpenOffice, Koffice...
+
+  * Ez gaituelako kanpoko enpresa baten software pribatiboaren menpeko bihurtzen gure dokumentu eta informazioa maneiatzerako orduan.
+
+
+=====Zergatik EZ erabili formatu itxiak?=====
+
+  *Erabiltzailea software pribatibo jakin bat izatera behartzen dutelako, kode itxiko fitxeroak erabili ahal izateko (esate baterako, //Microsoft Word-en// .doc formatua). Hau, larritasun berezikoa litzateke Euskal Herriko Unibertsitateak sorturiko dokumentuen kasuan.
+
+
+=====Irakaslea naiz, zer zerikusi du honek nirekin?=====
+
+
+  * Irakaslegoak jakintza zabaltzea du helburu. Hori dela eta, software librearen filosofiari atxikitzea erabat koerentea litzateke.
+
+  * Erreminta informatikoak (testu-prozesatzaileak, kalkulu-orriak, diseinua...) behar diren jakintzagaietan, irakaslegoak ikaslegoari material hori erabiltzeak ez duela gastu ekonomiko bat gehiago ezta delitu bat ere suposatuko bermatu behar du. Unibertsitateko ordenagailuak ez badaude nahikoa denbora baliagarri eta kanpoko ordenagailuen erabilera beharrezkoa bada (etxekoa esaterako), ezingo zaio ikaslegoari ordaindu behar den erreminta bat erabiltzera, -libre edo pribatibo-, edo kopia ilegalak egitera bultzatu.  
+
+  *Aplikazio informatikoak irakatsiak diren jakintzagaietan, aurreko puntuan adierazitakoa aplikatu. 
+
+  * Irakaslegoa, ikaslegoak jarraitu beharreko eredua da.
+
+
+=====Ikaslea naiz, zer zerikusi du honek nirekin?=====
+
+  * Zure heziketaren parte da software legal eta ilegala era argian desberdintzea. Lan-merkatura irtetean, jarraitu beharreko arauak askoz zorrotzagoak dira eta ez da komenigarria karreran zehar erabiltzen egon zaren softwarea dohainekoa dela sinistea. 
+
+  * Programa libreak, zeinetatik iturburua denontzako ondare aberats bat dela, ikasterako orduan pribatiboak baino askoz  baliabide hobeak direla.

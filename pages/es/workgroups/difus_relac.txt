@@ -1,0 +1,30 @@
+====== Grupo de trabajo: Difusión y relaciones externas ======
+
+  * **Objetivos:**
+    * Presencia pública de nuestro colectivo itsas, difundiendo el manifiesto y las líneas de trabajo
+    * Ampliación de itsas (gente en la lista, en mapas, en grupos de trabajo), tanto gegráficamente (campus, facultades, centros) como orgánicamente (alumnado, profesorado, grupos investigación, CIDIR, PAS)
+    * Establecimiento y potenciación de relaciones con entidades que puedan estar receptivas o próximas a nuestras propuestas: otros grupos de sw libre, órganos con poder decisorio en la Universidad, la Administración pública y las empresas relacionadas con el sw libre.
+
+  * **Estado:** Iniciado. 
+
+  * **Plazos:**
+    * De marzo 2007 a diciembre 2007.
+
+  * **Comisión:**
+    * [[jdanitxu@gmail.com|Dani Gutiérrez]]
+    * [[malkavian666@gmail.com|Javier Ortega Conde (Malkavian)]]
+    * [[beltsassar@telefonica.net|Dani Masides (Beltsassar)]]
+    * [[manu.martinezdelmonge@gmail.com|Manu Martínez]]
+    * [[mik.iturbe@gmail.com|Mikel Iturbe]]
+    *//(¿más?)//
+
+
+
+===== Acciones para la difusión =====
+  * Selección del [[votacion_logo|logotipo de itsas]]
+  * rueda de prensa
+  * Espacios de la EHU/UPV: firma simbólica del manifiesto (personalidades de gobierno, sindicatos, consejos de estudiantes), revista, tablón de anuncios,...
+  * carteles y trípticos
+  * radios ([[http://www.euskadigital.net/|Euskadi Digital]])
+  * revistas (Sólo Linux, Todo Linux, Sólo Liux Programadores, D-Linux, Linux Magazine...)
+  * publicaciones web (Barrapunto, ElOtroLado, HispaMp3, Meneame...)

@@ -1,0 +1,78 @@
+====== Jornadas f4hc  ======
+Jornadas "Freedom for hardware and communications", sobre hardware y comunicaciones libres
+
+Web: http://itsas.ehu.es/f4hc/
+
+====Grupo dinamizador====
+  * JaXvi Quintano
+  * Mikel Gutiérrez
+  * Unai Martínez
+  * Dani Gutiérrez
+
+====Tareas====
+  *Marketing digital <color black/lime>[denok</color>]
+  *Gestión estancia ponentes <color black/lime>[Dani]</color>: Alex Casanova, David Cuartielles, Pau Escrich, David Samblas, Joseba, X Cataluña 
+  *Preparar y entregar justificantes de asistentes y ponentes <color white/red>[?]</color>
+  *Preparar y enviar invitaciones <color black/lime>[denok]</color>
+  *Gestionar inscripciones <color black/lime>[denok]</color>
+  *Gestión cafés <color black/lime>[Dani]</color>
+  *Gestión cena <color black/lime>[Dani]</color>
+  *Infraestructura sitio: proyector, microfonía, wifi, ethernet, cámara <color black/lime>Javi</color>
+  *Grabación en video / videostreaming <color black/lime>Javi</color>
+  *Gestión financiera <color black/lime>[Dani]</color>
+  *Memoria de la actividad: <color black/lime>[Dani]</color>
+  *Publicar presentaciones <color black/lime>[Unai]</color>
+
+====Medios en que se publica====
+  *[[http://www.euskadinnova.net/es/innovacion-social/entrevistas/educacion-hardware-software-tienen-libres/470.aspx|Entrevista a David Cuartielles en Euskadi innova]]
+  *[[http://www.meneame.net/story/jornadas-sobre-hardware-libre-software-libre-telecomunicaciones|Meneame]]
+  *Blogs y webs varias:
+    * http://www.bicubik.net/tag/f4hc/
+    * [[http://saghul.net/blog/2011/07/18/sip-mas-alla-de-la-voip/|Shagul]]
+    * [[http://www.danitxu.com/blog/2011/06/30/jornadas-f4hc-freedom-for-hardware-and-communications/|danitxu]]
+    * [[http://www.elkonsultorio.es/aula-ek/f4hc-freedom-for-hardware-and-communications-78350.html|elkonsultorio]]
+  *Redes sociales: Facebook (en varias páginas personales y como evento), Tuenti (como evento), LinkedIn, Twitter, Identica
+  *Profesorado de la EUITI de Bilbao (enviado correo al LSSI y al DET)
+  *Listas: itsas, guifi eh, aprendices, aske, ezebez, irislibre, DET UPV/EHU, distintas listas en tablones de anuncios
+  *Radio Euskadi digitala
+
+====Documentos varios====
+  *{{:events:prop_f4hc_mayo_2011.pdf|Propuesta}} (2011-5-18)
+  *Memoria: pedir a Dani
+
+====Otras Ideas====
+  *Radiocomunicaciones: [[http://en.wikipedia.org/wiki/GNU_Radio|GNU radio]], Dream radio ¿http://www.drmrx.org/?
+  * Estaciones móviles: [[http://en.wikipedia.org/wiki/OpenBTS|OpenBTS]]
+  * Terminales y sistemas operativos: OpenMoko, Nokia, Android,
+  * Software: skype libre, OpenMeetings
+  * Videostreaming: GissTV
+  * Hw libre para prótesis (Iker de Echániz)
+  * [[http://meeblip.noisepages.com/|Sintetizador]]
+  * Homebrew para Wii: 
+     * PIC: Wiinja y Wiifree
+     * Chip Actel PROAsic3
+  * Cabina Patio Maravillas:
+     * [[http://defiendelo.patiomaravillas.net/2010/06/16/10-100-1000-cabinas-gratuitas|10, 100, 1000 cabinas gratuitas]]
+     * [[http://www.patiomaravillas.net/hamlab/pbx/howto|HowTo Cambina Asterisk]]
+     * [[http://www.taringa.net/posts/hazlo-tu-mismo/4333668/Hacer-una-cabina-telefonica-gratuita-en-la-calle.html|Hilo en Taringa]]
+     * [[http://fixidixi.com/oldt/images/9/96/Oldt.pdf|Manual DIY para la creación de
+espacios telemáticos de acceso
+libre y gratuito v1.4]]
+  *Puredata con Arduino
+  *CNC printer
+  *Consolas (Kinnect, Playstation) y software libre
+  *http://open-rd.org/
+  *Ideas de David Cuartielles en la entrevista del blog de Dani
+
+====Revisión====
+  * Falta de enchufes eléctricos: los asistentes que pasan varias horas en la sala del evento y quieren usar sus portátiles echan de menos puntos de conexión eléctrica. No costaría tirar algunos alargadores.
+  * Fechas: se podría buscar un fin de semana durante el curso para favorecer la asistencia.
+  * Han resultado unas jornadas muy interesantes, sorprende que no haya ido más gente que seguro le habría sacado provecho.
+  * Falta de promoción por parte de la organización, poca publicidad o no bien orientada etc...
+  * Se recuerda la importancia de mantener los horarios según el programa, hay gente que no puede asistir más que a momentos concretos o charlas de su interés y es muy importante tener un horario riguroso para organizarse la asistencia.
+  * Disponibilidad de los materiales de las charlas: si no durante el evento o n streaming, tanto las grabaciones como las presentaciones deberán estar disponibles para su descarga desde la web del evento u otros sitios de compartición de documentación.
+  * Confirmar la inscripción: aunque de cara a la organización la inscripción era solo para tener una idea del número de asistentes de cara al catering y la sala etc... para los asistentes es fundamenta recibir una confirmación cuando hacen la inscripción. Si es tan sencillo como un mail, al menos una respuesta. Podría ser a través de un form de algún tipo.
+  * El catering de los descansos se valora positivamente aunque podría incluirse algo salado.
+  * No ha habido muchos alumnos, se comenta que habría que difundirlo entre estudiantes de módulos de grado medio y superior de electrónica o relacionados además de insistir más en la uni.
+  * En general parece que han sido muy interesantes para los asistentes y más gente les habría sacado provecho. El mérito es sobre todo de la calidad de los ponentes más que de una especial organización. El evento ha sido algo modesto pero de calidad.
+  * Ofrecer a los asistentes de este año la posibilidad de participar en la organización del año que viene

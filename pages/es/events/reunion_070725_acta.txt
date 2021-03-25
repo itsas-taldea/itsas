@@ -1,0 +1,56 @@
+===== Reunión con CIDIR Gipuzkoa =====
+
+**Asistentes**: Jose Ramón Martínez (CIDIR Gipuzkoa), Aitor Cuartango (CIDIR Gipuzkoa), Juanan Pereira (itsas Donostia), Christian Pinedo (itsas Bilbao), Dani Gutiérrez (itsas Bilbao)
+
+**Desarrollo**
+
+
+==== 1. EHUX ====
+Se informa de que hace unas 3 semanas se ha decidido cambiar la estrategia de EHUX. Hasta ahora era una distribución propia que se contrataba a Hispafuentes. 
+Esta línea se modifica por completo, y a partir de ahora deja de ser una distro propia y se pasa a una ubuntu pura, añadiéndole paquetes propios y además dando soporte (vía web, mail y teléfono); el soporte no será para el 100% de los paquetes ubuntu sino a  los que se consideren más propios de uso corporativo de la universidad.
+Todo ello sigue denominándose "EHUX". En resumen:
+	EHUX = ubuntu + paquetes propios + soporte
+Se pedirá a itsas la colaboración para avanzar en la definición: qué paquetes han de estar soportados (ej. kde o gnome o ambos), etc.
+
+Desde itsas valoramos este cambio de rumbo como acertado.
+
+Unido a este punto, se plantea mejorar la web de EHUX que actualmente tiene un formato de blog, incluyendo estas nuevas secciones:
+a) Howto's
+b) Espacio estructurado de preguntas y respuestas ej. para solucionar problemas de instalación y uso.
+
+Hay que pensar si dejar un formato wiki, foro u otro sistema adhoc.
+El CIDIR está abierto a que también sean los propios usuarios quienes puedan publicar en estas secciones, siempre y cuando haya un compromiso de que alguien se responsabilice de la sección (¿itsas? ¿un grupo de profesores?).
+
+==== 2. Software libre en MS Windows y formato OpenDocument ====
+El CIDIR nos informa de que en los equipos que instala con Windows están poniendo OpenOffice.org y Firefox. Animamos a que también instalen Mozilla Thunderbird, a pesar de que se nos dice que hay una tendencia a extender el correo colaborativo vía Exchange, por lo que instalan Outlook.
+
+Como paso de interés hacia la extensión del formato OpenDocument, proponemos que se evalúe la calidad de los plugins que permiten a MS Office abrir documentos opendocument (ej. plugin de Sun), y en caso favorable se preinstalen en los equipos con MS Office.
+
+==== 3. Relación con proveedores hardware ====
+Animamos a que el CIDIR exija compatibilidad 100% con Linux del hardware adquirido. Nos dicen que ése es el procedimiento actual, y que no obstante sucede que en algunos componentes como tarjetas wifi han llegado a tener problemas no sólo en Linux sino también en Windows.
+Por otra parte, en caso de necesidad, estamos abiertos a sondear la disponibilidad de la gente para testear hardware.
+
+
+
+==== 4. Apoyo a PFCs que desarrollen sw libre ====
+Se propone que la Vicegerencia de TICs pueda prestar un apoyo tecnológico (ej. máquinas) e incluso financiero para el desarrollo de Proyectos de fin de carrera que desarrollen software licenciado como libre y que sea de interés para la universidad, especialmente para la vicegerencia de TICs.
+
+En este caso sería necesario definir un protocolo de actuación para desarrollar proyectos, a la luz de la Guía de proyectos de la universidad. También habrá que ver qué áreas pueden resultar de interés (ej. estudios, programación,...); cuantas más, mejor.
+
+A este respecto, el CIDIR de Gipuzkoa trasladará esta petición al Vicegerente de las TIC.
+
+
+==== 5. Formación en software libre ====
+Como complemento a EHUX se propone buscar vías de formación (especialmente en en ubuntu, pero también ej. en open office). Para ello, se informa de que hay dos vías:
+  * Para el PAS, el gabinete de formación.
+  * Para el profesorado, el Servicio de Asesoramiento Educativo
+Queda la tarea de consultar ambos caminos para impulsar la formación en base a argumentos sólidos. Aquí será de interés el apoyo de la vicegerencia de TICs
+
+
+==== 6. Jornada EHUX ====
+Aunque iban a celebrarse en octubre de 2007, por coincidencias con otra jornada más prioritaria se postponen al año que viene. En principio la fecha pensada es mayo de 2008, aunque puede moverse si valoramos otra más conveniente a nivel de presencia de gente. Para la preparación de esta jornada, que habrá de ser con una antelación de 2 meses como mínimo (se recomienda después de la experiencia con el evento de Moodle una organización previa de 3 o hasta 4 meses), se solicita el apoyo de itsas.
+
+==== 7. Varios ====
+Tanto desde el CIDIR como desde itsas se valora positivamente el espíritu colaborativo de esta reunión, y esperamos que sea el camino a recorrer juntos.
+
+Quedamos en volver a reunirnos hacia octubre. Concretaremos la fecha por mail.

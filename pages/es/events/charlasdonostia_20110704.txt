@@ -1,0 +1,34 @@
+===== Jornadas ITSAS en Donostia =====
+El grupo ITSAS para la promoción del software libre en la UPV/EHU, organiza un grupo de charlas para ** 7 de Abril de 2011 **, en la Facultad de Informática de Donostia / ** sala de grados ** :
+\\
+   * [[charlasdonostia_20110407_materiales|Materiales y vídeos de las charlas]]
+   * [[charlasdonostia_20110407_fotos|Fotografías]]
+   * [[#como_llegar|Como llegar a la Facultad de Informática]]
+   * [[#cartel|Cartel]]
+
+===== Programa =====
+
+  * [[http://itsas.ehu.es/events/charlasdonostia_20110407_programa#kestrelhpc|KestrelHPC]]
+  * [[http://itsas.ehu.es/events/charlasdonostia_20110407_programa#librezalesoftware_librea_euskaraz|Librezale: Software Librea euskaraz]]
+  * [[http://itsas.ehu.es/events/charlasdonostia_20110407_programa#introduction_to_pyjamas|Introduction to Pyjamas]]
+  * [[http://itsas.ehu.es/events/charlasdonostia_20110407_programa#launchpaden_web_tresnarekin_software_librea_euskeratu|Launchpaden web tresnarekin software librea euskeratu]]
+  * [[http://itsas.ehu.es/events/charlasdonostia_20110407_programa#streamming_de_canales_de_tdt_en_redes_locales_con_vlc|Streamming de canales de TDT en redes locales  con VLC]]
+  * [[http://itsas.ehu.es/events/charlasdonostia_20110407_programa#bertsioen_kontrolerako_sistema_zentralizatuak_vs_banatuak|Bertsioen kontrolerako sistema zentralizatuak vs banatuak]]
+  * [[http://itsas.ehu.es/events/charlasdonostia_20110407_programa#gnome_3|Gnome 3]]
+  * [[http://itsas.ehu.es/events/charlasdonostia_20110407_programa#servidor_torrent_samba_ssh_http_de_bajo_consumo_electrico_con_un_router_con_openwrt|Servidor (torrent, Samba, SSH,  HTTP) de bajo consumo eléctrico con un router con OpenWRT]]
+  * [[http://itsas.ehu.es/events/charlasdonostia_20110407_programa#babelium_projectpractica_oral_de_segundas_lenguas|Babelium Project: práctica oral de segundas lenguas]]
+  * [[http://itsas.ehu.es/events/charlasdonostia_20110407_programa#itzulpen_automatikoa_software_libreaz|Itzulpen automatikoa software libreaz]]
+
+===== Como llegar =====
+<html>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.es/maps?oe=utf-8&amp;client=firefox-a&amp;ie=UTF8&amp;q=facultad+de+inform%C3%A1tica+de+san+sebastian&amp;fb=1&amp;gl=es&amp;hq=facultad+de+inform%C3%A1tica&amp;hnear=San+Sebasti%C3%A1n&amp;t=h&amp;hl=es&amp;view=map&amp;cid=7711490208580106104&amp;ll=43.307125,-2.011341&amp;spn=0.006295,0.006295&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.es/maps?oe=utf-8&amp;client=firefox-a&amp;ie=UTF8&amp;q=facultad+de+inform%C3%A1tica+de+san+sebastian&amp;fb=1&amp;gl=es&amp;hq=facultad+de+inform%C3%A1tica&amp;hnear=San+Sebasti%C3%A1n&amp;t=h&amp;hl=es&amp;view=map&amp;cid=7711490208580106104&amp;ll=43.307125,-2.011341&amp;spn=0.006295,0.006295&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">Ver mapa más grande</a></small>
+</html>
+
+===== Materiales de las charlas =====
+
+  * [[http://jonan.org/charlas/index.html#20110407_kestrelhpc|Transparencias KestrelHPC]]
+  * [[http://jonan.org/charlas/index.html#20110407_gnome3|Transparencias Gnome 3]]
+
+===== Cartel =====
+
+{{:events:cartel_charlas_donostia_070411.jpg?400|}}

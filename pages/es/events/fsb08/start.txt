@@ -1,0 +1,82 @@
+====== free software Bilgunea'08 ======
+
+
+==== Participantes en la organización ====
+|^ESLE, Euskadiko Software Libre Enpresen Elkartea|Belen Gorosarri |
+|^Fomento de San Sebastián|Ainhoa Aldasoro, Eba Bengoetxea y Eduardo Fabo |
+|^GISA, Gipuzkoako Software Askea Elkartea|Maider Likona, Ales Zabala (Shagi), Luis Pérez y Román|
+|^itsas, Euskal Herriko Unibertsitateko Software libre Elkartea| Dani Gutiérrez|
+|^Universidad de Deusto|Iratxe Esnaola, Ainara Martinez, Pablo Garaizar |
+
+==== Colaboradores en la organización ====
+
+
+
+
+==== Objetivos y destinatarios ====
+Objetivos generales:
+a) **difundir la existencia** del sw libre,
+b)  **explicar en qué consiste** y **cuáles son sus ventajas**,
+c)  **sensibilizar en el uso del sw libre y los formatos abiertos**,
+d) ** potenciar la cultura y el conocimiento libre** en general,
+todo ello dirigido a //personas, grupos y organizaciones que actualmente no estén próximas a estas realidades//.
+
+Para ello, planteamos unos contenidos específicos a estos destinatarios:
+  *[[ciudadania|La ciudadanía]]
+  *[[empresas|Empresas y Personas emprendedoras]]
+  *[[admin_publica|Administración pública]]
+  *[[asoc_colect|Asociaciones y Colectivos]]
+  *[[educacion|Centros educativos y Universidades]]
+
+
+[[actividades_propuestas|Actividades propuestas sin asignar todavía a un destinatario]]
+
+
+
+==== Fechas posibles: ====
+  *9-11 de octubre del 2008
+
+
+==== Lugares posibles: ====
+Donostia:
+  *Gazteleku (perfil técnico)
+  *Kursaal (perfil usuario)
+  *Fomento de San Sebastián
+  *Musika Eskola
+  *O cualquier otro que se considere interesante para el colectivo-actividades planteadas.
+
+
+
+
+
+==== Programa: ====
+[[programa|Ver enlace]]
+
+==== Valoracion ====
+[[valoracion|Valoracion de actividades]]
+
+
+==== Plan de comunicación  ====
+* Web / blog
+* Búsqueda de patrocinadores
+== Tareas y responsables ==
+
+==== Infraestructura del evento ====
+== Tareas y responsables ==
+
+
+==== Planes post-evento ====
+
+
+ 
+Considerar la posibilidad de editar materiales (catalogos, publicaciones, recopilaciones, .....) que permitan que el conocimiento generado en el evento perdure, y posibilite seguir difundiendo el SWlibre.
+
+
+
+==== Reuniones ====
+[[acta_071204|Acta 4/12/07]]
+
+[[acta_080212|Acta 12/02/08]]
+
+[[acta_080311|Acta 12/03/11]]
+

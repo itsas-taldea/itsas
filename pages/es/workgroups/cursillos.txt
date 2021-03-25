@@ -1,0 +1,34 @@
+====== Grupo de trabajo: Formación en Software Libre ======
+
+  * **Objetivos:**
+    * Formar al alumnado y al profesorado en tecnologías basadas en Software Libre.
+    * Coordinarse con el S.A.E. para participar en la formación a docentes en Febrero y Junio.
+
+  * **Estado:** Iniciado. 
+
+  * **Plazos:**
+    * De febrero 2008 en adelante.
+
+  * **Comisión:**
+    * [[jdanitxu@gmail.com|Dani Gutiérrez]]
+    * [[ainhoa.ezeiza@gmail.com|Ainhoa Ezeiza]]
+    * [[juanan.pereira@ehu.es|Juanan Pereira]]
+    * [[garaizar@eside.deusto.es|Pablo Garaizar]] 
+    * [[unaimc@gmail.com|Unai Martinez (Opositivo)]]
+    * [[finxnif@gmail.com|Oscar Rodriguez (Finx)]]
+    * [[david.cristobal@gmail.com|David Cristobal (Osito)]]
+    * [[digna.gonzalez@gmail.com | Digna González]]
+  
+    *//(¿más?)//
+
+
+
+
+
+
+
+
+===== Acciones =====
+  * [[contribs:sae2008|Cursos S.A.E. febrero-septiembre 2008]]
+  * [[contribs:mapcon|Mapeando conociemientos]]
+  * [[workgroups:latex:cursos:|Cursos LaTeX]]

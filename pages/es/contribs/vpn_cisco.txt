@@ -1,0 +1,47 @@
+====== Clientes gnu/linux para VPN Cisco ======
+
+
+==== Clientes ====
+=== Cliente propietario de Cisco ===
+Descripción de parámetros: {{contribs:doc_vpn_cisco.txt|}}
+=== Cliente vpnc ===
+Es un comando que funciona en consola (no gráfico). Comparación de la versión 0.4.0 con el cliente propietario de Cisco v 4.8.00:
+  *Ventajas: está incluido en Ubuntu y no requiere compilar nada
+  *Desventajas: sólo hace túneles por UDP pero no por TCP, y no admite certificados
+Descripción de parámetros: {{contribs:doc_vpnc.txt|}}
+
+Ej. sencillo de fichero /etc/vpnc/ehu.conf:
+
+  IPSEC gateway 158.227.0.11
+  IPSEC ID EHU
+  IPSec secret VPNs
+  Xauth username tu_usuario
+  NAT Traversal Mode cisco-udp
+
+Para conectarse hacer:
+  vpnc ehu
+
+=== Cliente kvpnc ===
+Es un cliente gráfico para KDE.
+Además de la VPN de Cisco, soporta también otras: openvpn, openswan, l2tp,...
+
+
+
+==== Filtrado ====
+Hay que abrir los siguientes protocolos y puertos:
+   * Protocolo UDP, puerto 500. Por defecto, en ambas direcciones (puerto 500 del cliente y puerto 500 del servidor)
+Si se hace NAT-T para encapsular ESP, además:
+  *Para el caso del cliente propietario de Cisco, el puerto UDP 10000 (o el puerto TCP indicado en TcpTunnelingPort si se hace túnel sobre TCP). . Por defecto, en ambas direcciones (puerto 10000 del cliente y puerto 10000 del servidor)
+  *Para vpnc (y kvpnc). Si Nat Traversal Mode es cisco-udp, el puerto UDP 10000. En caso contrario, el que se elija.
+Si no se hace NAT-T, además:
+   * Protocolo AH (protocolo nº 51). Procede si interesa autenticación por cabeceras.
+   * Protocolo EH (protocolo nº 50).
+
+
+==== Otros comentarios ====
+  *Comprobación de la conexión: tras establecer la conexión, ver la IP pública ej. navegando a http://www.cualesmiip.com/
+  *Solución al problema “Address already in use”: si, con el cliente propietario de Cisco, al hacer vpnclient connect ehu aparece el mensaje de error indicado, es debido a que hay otro proceso de vpnclient en ejecución. La solución es matar los procesos vpnclient:
+
+  killall vpnclient
+
+  *Más cuestiones, escribir a [[jdanitxu@gmail.com|Dani Gutiérrez]]

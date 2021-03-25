@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg4034"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   sodipodi:docbase="/home/inigo/imagen/propias/balea"
+   sodipodi:docname="balea202.svg">
+  <defs
+     id="defs4036" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.64205767"
+     inkscape:cx="412.30986"
+     inkscape:cy="508.0321"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1280"
+     inkscape:window-height="980"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     showgrid="true" />
+  <metadata
+     id="metadata4039">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 209.32042,552.35928 C 208.96733,507.14845 209.64165,459.54313 209.48916,414.17906 C 165.24352,391.82225 163.76165,378.05917 149.65013,367.72177 C 126.14739,350.50482 188.8437,333.57963 233.15578,367.92078 C 278.53334,334.82084 340.0714,347.92214 318.88605,367.41218 C 305.68056,379.56094 309.59149,391.73175 259.74172,412.79009 C 259.81385,431.56848 259.3219,454.04176 259.14686,476.54056 C 258.91282,506.6224 278.01347,537.69843 314.85709,537.22483 C 352.09007,536.75124 370.66135,536.43173 371.20033,477.08375 C 371.73932,418.12514 406.75481,367.78219 470.62139,367.47038 C 534.48868,367.15856 570.28998,425.96526 570.44646,476.69716 C 570.60294,527.42906 570.87072,513.27069 570.31144,553.21365"
+       id="path4042"
+       sodipodi:nodetypes="ccscscszzzzz" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4940"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier"
+       transform="matrix(12.24653,0,0,13.7979,-859.8138,-803.8989)"><flowRegion
+         id="flowRegion4942"><rect
+           id="rect4944"
+           width="388.76367"
+           height="125.54974"
+           x="83.699829"
+           y="98.624695"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier" /></flowRegion><flowPara
+         id="flowPara4948">itsas</flowPara></flowRoot>  </g>
+</svg>

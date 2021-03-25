@@ -1,0 +1,26 @@
+====== Otras organizaciones ======
+
+^Id^Hizkuntza^Erakundea^Estamentua^Beste oharrak^
+| [[garaizar@eside.deusto.es | Pablo Garaizar Sagarminaga]] (txipi) |E,C| ESIDE, Facultad de Ingenieria, Universidad de Deusto | irakaslea | [[http://blog.txipinet.com|txipi:blog]]|
+| [[gerente@esle.eu | Belén Gorosarri Rodríguez]] (Belén) |E,C| ESLE, Asociación de Empresas de Software Libre de Euskadi | gerente | |
+| [[jonob23@gmail.com | Jon Oñativia Bravo]] (jonob23) |E,C| ETSIT-UPM/ENST-Paris | ikaslea | |
+|[[christian.pinedo@yahoo.es|Christian Pinedo (zako)]]|E,C|Empresa privada|ingeniero|  |
+|[[igarmer@gmail.com|Iñigo García Merino]]|C|Ex alumno ETSI Bilbao (Teleco) Empresa privada|Ingeniero|  |
+
+
+Notas:
+  * Id: puede ser el nombre y apellido, o un nickname.
+  * Lenguas habladas: **E**(uskera), **C**(astellano).
+  * Organización: facultad, empresa, etc.
+  * Estamento: profesor/a, alumno/a, investigador/a, etc.
+  * Beste oharrak: otros comentarios que quieras poner, ej. investigador en la facultad X.
+
+
+<note tip>
+Si quieres añadir tu nombre a esta lista tienes dos formas:
+
+  * [[http://itsas.ehu.es/start?do=register|Registrarte]] en el wiki y editar esta página.
+  * Pedir en la [[/participate#lista_de_correo|lista de correo]] (o a otra persona) que añadan tu nombre y tus datos.
+
+¡Ánimo, apúntate! es importante para nosotros y para nuestra imagen como colectivo. ;-)
+</note>

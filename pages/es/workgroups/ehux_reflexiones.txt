@@ -1,0 +1,55 @@
+====== Reflexiones sobre EHUX ======
+
+<note important>
+El debate se debe producir en la lista de correo. Esta web es para ir definiendo el escrito final.
+</note>
+
+===== Universidad del País Vasco y software libre =====
+
+
+
+==== Introducción ====
+  * Introducción sobre el documento
+
+Una de las apuestas más importantes que ha realizado la Universidad del País Vasco para impulsar y apoyar el uso creciente del software libre en el ámbito de la universidad ha sido la creación de una distribución de software libre propia de nombre EHUX. El principal objetivo de esta distribución es //"disponer de una distribución de software libre acorde a sus necesidades y soportada técnicamente por los Centros de Informática para la Docencia e Investigación"//. Sin embargo, esta distribución que ha nacido a la sombra de otras proyectos similares (Linex,  Guadalinex, ...) produce cierto recelo entre los usuarios noveles de software libre de la universidad.
+
+En este breve documento los miembros de **itsas**, grupo de software libre de la Universidad del Pais Vasco, pretendemos mostrar las principales carencias que a nuestro juicio presenta EHUX y ofrecemos nuestra visión del camino que se debería seguir para impulsar el software libre y facilitar su adopción en todos los estamentos de la universidad.
+
+
+
+
+
+
+==== EHUX: Nuestra crítica ====
+
+=== Deficiencia y críticas al modelo de EHUX ===
+
+El recurso de crear una nueva distribución de Linux con ámbito universitario es una tendencia muy en alza durante los últimos años. Analizando lo que conlleva a efectos prácticos, y teniendo en cuenta experiencias análogas en otras universidades, los miembros de **itsas** opinamos que:
+
+  * EHUX es una distribución que nadie ha demandado ni solicitado, en definitiva: **no es necesaria**.
+    * Citamos también que nadie ha demandado nunca una "distribución" de Microsoft Windows para su uso en la UPV/EHU y sin embargo Windows se usa en casi la totalidad de equipos y recibe soporte íntegro por parte del CIDIR, lo cual demuestras que **no** es necesario que la UPV/EHU disponga de su propio sistema operativo para dar soporte sobre él. 
+    * YT. Creo que es incorrecto un grupo de profesores de la FISS solicitarón una distribución hace algunos años y de ahí surgio EHUX.
+
+
+  * EHUX está basada prácticamente en su totalidad en la distribución [[http://www.ubuntu.com|Ubuntu]] de la que sólo le diferencia el fondo de escritorio y la inclusión de unos pocos programas, motivos que en ningún caso justifican otra distribución.
+    * No obstante, el CIDIR **sólo** da soporte al usuario si usa EHUX y no Ubuntu. Esto es otro agravante a las dificultades que se imponen a los usuarios de GNU/Linux puesto que, por su inexistente promoción,  EHUX es un sistema desconocido incluso entre los alumnos de la UPV/EHU, no así Ubuntu, que cuenta con un gran nivel de aceptación internacional.
+
+  * Crear una distribución de Linux es muy fácil hoy en día, sobre todo si consiste en realizar pequeños cambios a otra ya existente (Ubuntu). Sin embargo el hecho de crear una distribución parece servir de argumento a los responsables de informática de la UPV/EHU para "demostrar" su  compromiso con el Software Libre.
+    * En **itsas** pensamos que un compromiso serio con el Software Libre implica una serie de tareas como son garantizar el uso de formatos y protocolos abiertos en la UPV/EHU, la instalación de equipos con GNU/Linux en la universidad, permitir cursar las asignaturas con software libre y GNU/Linux en vez de requerir inevitablemente el uso de Windows y programas privativos, etc. Consideramos totalmente innecesario marear al usuario de GNU/Linux con una distribución que **no** ha tenido una demanda real. 
+
+  * Hay mucho que hacer por el Software Libre, como por ejemplo participar en el desarrollo, mejora y traducción de programas de toda índole (matemáticas, ciencia, electrónica, simulación, dibujo, maquetación, composición y un largo etc). La UPV/EHU ha olvidado estas necesidades -tareas menos llamativas- y ha optado por crear una nueva distribución que no aporta nada, y cuya existencia se traduce en que usuarios de otras distribuciones Linux no tengan soporte por parte del CIDIR. Mientras tanto quienes optan por el software privativo Windows no tienen ningún problema durante su ciclo universitario.
+
+
+
+==== EHUX: Nuestra visión ====
+  * Lo que nosotros proponemos como mejora a EHUX y a la comunidad
+  * Dar soporte a una distribución de amplia difusión (Ubuntu, Debian, Fedora).
+  * Generar paquetes para la distribución soportada oficialmente que permitan personalizar  las aplicaciones de dicha distribución para que funcionen  correctamente con los diferentes elementos de infraestructura de la Universidad.
+  * Realizar traducciones al Euskera que puedan ser reutilizadas por toda la comunidad y no solamente por los usuarios de una única distribución (pe EHUX).
+  
+
+  * ¿Por que le puede interesar al CIDIR?
+    * Propaganda
+    * Mayor difusion (mayores clientes potenciales)
+    * Mayor facilidad de utilización
+    * Se sabe mas ciertamente cual es la aportación **real** de EHUX

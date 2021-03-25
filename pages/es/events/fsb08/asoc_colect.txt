@@ -1,0 +1,23 @@
+===== Asociaciones y Colectivos =====
+
+
+
+
+==== Exposiciones (in) formativas ====
+  * El sw libre como modelo solidario; otra clave a incorporar en el cotidiano de los grupos sociales (mujer, euskera, ecología... y sw libre).
+  * Del sw privativo al sw libre: qué áreas se pueden cubrir, pistas de cómo puede ser el cambio.
+  * Reciclaje de ordenadores: Presentar dos maneras de dar nueva vida a esas maquinas viejas que se suelen desechar:
+    * Servidor casero: Podemos tener un ordenador viejo conectado a Internet para poder compartir la conexion con otros ordenadores e instalarle programas para poder acceder a los contenidos que crea la asociacion desde Internet.
+    * Utilizar un ordenador moderno para dar vida a 10 ordenadores viejos, LTSP: Presentaremos una manera de crear una red de ordenadores para poder poner los viejitos como ordenadores de uso general. Una solucion muy buena para montar salas para conectarse a Internet, oficinas donde se utilizan proramas parecidos etc.
+
+==== Experiencias ====
+  * (alguna asociación que emplee sólo sw libre)
+  * indymedia
+  * cubainformacion.tv
+==== Recursos ====
+  *Lista de grupos de sw libre de Euskadi
+
+
+==== Talleres prácticos ====
+Los que aun estan sin asignar en   [[actividades_propuestas]]
+

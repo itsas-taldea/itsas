@@ -1,0 +1,62 @@
+====== Campus de Bizkaia ======
+
+^Id^Hizkuntza^Fakultatea^Saila^Estamentua^Beste oharrak^
+|[[jdanitxu@gmail.com|Dani Gutiérrez]]|E,C|E.T.S.I. Bilbao|Electrónica y Telecomunicaciones|Irakaslea|[[http://www.danitxu.com|danitxu.com]]|
+|[[ibc@aliax.net|Iñaki Baz Castillo (ibc)]]|C|E.T.S.I. Bilbao| |Ikaslea|[[http://kde.aliax.net|Mi web sobre KDE]]|
+|[[finxnif@gmail.com|Oscar Rodriguez (Finx)]]|E,C|E.U.I.T.I. Bilbao|Ingeniería Técnica en Informática de Gestión |Ikaslea| |
+|[[kendersec@gmail.com|David Martinez (kender)]]|E,C|E.U.I.T.I Bilbao|Ingeniería Informática de Gestión|Ikaslea| |
+|[[oscar.dc0@gmail.com|Oscar Díaz (dargor)]]|C|E.T.S.I Bilbao| Electrónica y Telecomunicaciones | Alumno | |
+|[[jtbanfrj@bipt106.bi.ehu.es|Jon de Andrés (nefertum)]]|C|E.T.S.I Bilbao|Electrónica y Telecomunicaciones | Alumno | |
+|[[malkavian666@gmail.com|Javier Ortega Conde (Malkavian)]]|C|Elcano (Bilbao)| Diplomatura en Empresariales| Alumno | [[http://malkavian.homelinux.org|MalkavianWiki]]|
+|[[ignacio.diaz-emparanza@ehu.es|Ignacio Díaz-Emparanza (williams)]]|C|Económicas y EE (Sarriko)| Economía Aplicada III (Econometría y Estadística)| Profesor | |
+|[[naroagonz@gmail.com|Naroa Gonzalez (sycorax)]]|C|E.T.S.I. Bilbao|Electrónica y Telecomunicaciones| | |
+|[[inigoalonso@inigoalonso.com|Iñigo Alonso]]|C|E.T.S.I. Bilbao|Ingeniería Industrial|Alumno|[[http://inigoalonso.com/|Página personal]]|
+|[[jon.matias@ehu.es|Jon Matias]]|C|E.T.S.I. Bilbao|Electrónica y Telecomunicaciones|Ikerlaria| |
+|[[pablo.vitoria@ehu.es|Pablo Vitoria (Zamu)]]|C|Ciencia y Tecnología|Química Inorgánica|Profesor| |
+|[[jose@we.lc.ehu.es|José Mª Alcaide]]|C|Ciencia y Tecnología|Electricidad y Electrónica|Profesor| |
+|[[gbbaghej@ehu.es|Jon Agirre (Propeller)]]|C|Unidad de Biofísica|Bioquímica y Biología Molecular|Investigador predoctoral|[[http://lostsymmetry.blogspot.com|Blog sobre Cristalografía de macromoléculas]] |
+|[[eneko.sanchez@gmail.com|Eneko Sánchez]]|E,C|Zientzia eta Teknologia|Fisika|Ikaslea| |
+|[[alfredo.beaumont@gmail.com|Alfredo Beaumont]]|E,C|E.T.S.I. Bilbao|Electronika eta Telekomunikazioak|Ikerlari eta irakaslea|[[http://www.alfredobeaumont.org/blog.cgi|Blog]]|
+|[[patxii@gmail.com|Francisco Soria (patxitek)]]|C|E.T.S.I. Bilbao|Electrónica y Telecomunicaciones|Alumno| |
+|[[fernando.tusell@ehu.es|Fernando Tusell (ft)]]|C|Económicas y Emp (Sarriko)|Economía Aplicada III (Econometría y Estadística)|Profesor| |
+|[[hackercasta@esdebian.org|Iker Castaños Chavarri (Hackercasta)]]|E,C|E.U.I.T.I Bilbao|Ingeniería Técnica Informática de Gestión|Alumno y profesor| |
+|[[luisjavier.rodriguez@ehu.es|Luis Javier Rodríguez Fuentes (luisja)]]|C|Ciencia y Tecnología|Electricidad y Electrónica|Profesor| |
+|[[digna.gonzalez@gmail.com|Digna González Otero]]|C|E.T.S.I. Bilbao|Ingeniería de Telecomunicaciones|Alumna| |
+|[[mik.iturbe@gmail.com|Mikel Iturbe Urretxa]]|E,C|Zientzia eta Teknologia|Fisika|Ikaslea|[[http://www.goiena.net/blogak/zubia|Nire bloga]] |
+|[[beltsassar@telefonica.net|Daniel Masides Monzón (Beltsassar)]]|C|Ciencias Sociales y de la Comunicación|Periodismo|Alumno| |
+|[[msalas_86@euskalnet.net|Marta Salas Cerezo]]|C,E|Bellas Artes|Bellas Artes|Alumna| |
+|[[imanol@gorosabel.net|Imanol Gorosabel Fernández (JaCkFlAsH)]]|C,E|E.T.S.I. Bilbao|Ing. Tec. Telec. esp. Telemática|Alumno| |
+|[[natxo.rodriguez@ehu.es|Natxo Rodriguez]]|C,E|B.B.A.A Leioa|Bellas Artes|Irakaslea| |
+|[[pablo.fernandezr@ehu.es|Pablo Fernández]]|E,C|E.U.I.T.I. Bilbao|Electrónica y Telecomunicaciones |Irakaslea| |
+|[[joseluis.pizarro@ehu.es|José Luis Pizarro]]|C|Ciencia y Tecnología|Mineralogía y Petrología|Profesor|[[http://cibercristal.blogsome.com/|CiberCristal]]|
+|[[basoko@k-main.com|David Basoko (krck)]]|C|E.T.S.I Bilbao|Electrónica y Telecomunicaciones | Alumno | |
+|[[flametongue@gmail.com|Ibai Raigoso]]|E,C|E.U.I.T.I. Bilbao|Ingeniería Técnica en Informática de Gestión | Ikaslea |[[http://www.i-gestion.net|I-Gestión]]|
+|[[jorge.virto@ehu.es|Jorge Virto (jv)]]|C|Económicas y Emp (Sarriko)|Economía Aplicada III (Econometría y Estadística)|Profesor| |
+|[[ktulur@gmail.com|Iván Mosquera (ktulur)]]|C|E.U.I.T.I Bilbao|Ingeniería Técnica en Informática de Gestión|Alumno| [[http://ivanmosquera.net|Blog]]|
+|[[igorlor@gmail.com|Igor Lopez Orbe]]|E,C|E.T.S.I. Bilbao|Ingeniería Técnica de Telecomunicaciones. Telemática|Ikaslea| |
+|[[unaimc@gmail.com|Unai Martinez (Opositivo)]]|E, C|E.U.I.T.I Bilbao|Industria Ingeniari Teknikoa, Industria Elektronika Espezialitatea|Ikaslea|[[http://confesionesdeuntranseunte.blogspot.com|Confesiones de un transeunte]]|
+|[[an.endless.dreamer@gmail.com|Urko Guinea (Dreamer)]]|C|E.U.I.T.I. Bilbao|Ingeniería Técnica en Informática de Gestión |Alumno| |
+|[[jportillo@gmail.com|Javier Portillo]]|C|ETSI BIlbao|Dept. Ingeniería de Sistemas y Automática |Profesor| |
+|[[gorka.prieto@ehu.es|Gorka Prieto]]|C|E.T.S.I. Bilbao|Electrónica y Telecomunicaciones|Profesor| |
+|[[esti.lata@gmail.com|Esti Lata Randez]]|C|E.T.S.I. Bilbao|Ingeniería de Telecomunicaciones|Alumna| |
+|[[alona.otaegi@ehu.es|Aloña Otaegi]]|E, C|Bilboko I.I.T.U.E.|Elektronika eta Telekomunikazioak|Irakaslea| |
+|[[mikelguti@gmail.com|Mikel Gutierrez (mikelium)]]|E, C|E.U.I.T.I. Bilbao|Industria Ingeniari Teknikoa, Industria Elektronika Espezialitatea|Ikaslea| |
+|[[unai.ugalde@ehu.es|Unai Ugalde]]|E, I, C|Bilboko I.I.T.U.E.|Elektronika eta Telekomunikazioak|Irakaslea|[[http://www.ehu.es/unai.ugalde|web orria (estatiko samarra)]]|
+
+
+Notas:
+  * Id: puede ser el nombre y apellido, o un nickname.
+  * Lenguas habladas: **E**(uskera), **C**(astellano), **I**(nglés).
+  * Estamento: profesor/a, alumno/a, investigador/a, etc.
+  * Saila: departamento (o en su defecto titulación).
+  * Beste oharrak: otros comentarios que quieras poner.
+
+
+<note tip>
+Si quieres añadir tu nombre a esta lista tienes dos formas:
+
+  * [[http://itsas.ehu.es/start?do=register|Registrarte]] en el wiki y editar esta página.
+  * Pedir en la [[/participate#lista_de_correo|lista de correo]] (o a otra persona) que añadan tu nombre y tus datos.
+
+¡Ánimo, apúntate! es importante para nosotros y para nuestra imagen como colectivo. ;-)
+</note>

@@ -1,0 +1,54 @@
+====== Grupo de trabajo: Tech ======
+
+  * **Objetivos:**
+    * Administración de nuestros canales telemáticos: lista de distribución, wiki, irc.
+    * Administración del servidor.
+    * Coordinación en la publicación de contenidos, cuidando unos ciertos estándares de estilo.
+
+  * **Estado:** Iniciado. 
+
+  * **Plazos:**
+    * De diciembre 2006 a diciembre 2056.
+
+  * **Comisión:**
+    * [[ibc@aliax.net|Iñaki Baz]]
+    * [[christian.pinedo.zamalloa@gmail.com|Christian Pinedo]]
+    * [[jdanitxu@gmail.com|Dani Gutiérrez]]
+    * [[kendersec@gmail.com|kender]]
+
+
+
+===== Listas de correo =====
+
+  * **Responsables:** Dani Gutierrez, Christian Pinedo
+  * **Moderadores:** kender
+
+En la actualidad disponemos de dos listas de correo para facilitar el funcionamiento del grupo:
+
+  * **itsas**. Se trata de la lista de anuncios y de bajo tráfico.
+  * **itsas-core**. Se trata de la lista de correo para el trabajo en el grupo y con perspectivas de tener bastante tráfico.
+
+==== Pendiente ====
+
+  * Realizar manuales o vídeos de como configurar los clientes de correo para manejar las listas de correo fácilmente (configuración de filtros, hilos, ...)
+
+===== Web =====
+
+  * **Responsable:** [[ibc@aliax.net|Iñaki Baz]]
+
+  * Atender, valorar y dar salida a las [[tech_TODO|propuestas de modificación del wiki]].
+  * Velar por la [[:/wiki/format_guide|guía de formato]].
+  * Estadísticas de la web de **itsas**.
+
+
+===== Servidor =====
+
+  * **Responsable:** Christian Pinedo
+
+Actualmente el servidor de **itsas** se trata de un Pentium-MMX sobre el que corre la web del grupo gracias a Debian GNU/Linux. En función de las necesidades del grupo se podría instalar software adicional como subversion, rosseta, ... Si tienes alguna sugerencia o solicitud no dudes en ponerte en contacto con la comisión.
+
+
+
+===== IRC =====
+
+  * **Responsable:** [[kendersec@gmail.com|kender]]

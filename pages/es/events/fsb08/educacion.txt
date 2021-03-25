@@ -1,0 +1,34 @@
+===== Centros educativos y Universidades =====
+
+
+
+
+
+==== Exposiciones (in) formativas ====
+  *El sentido del conocimiento libre en el ámbito de la enseñanza, y por extensión del sw libre y los formatos abiertos.
+  *La importancia de emplear sw libre en centros educativos infantiles: no educación en la dependencia del sw privativo.
+  *Impulsar el uso de licencias copyleft para distintos ámbitos: material producido en la universidad (Proyectos de fin de carrera, tesis, trabajos para asignaturas), música, arte en general.
+  *Otras ventajas: licencias "piratas", virus,...
+  *Software libre en el aula: Presentacion de recursos disponibles para dar clase.
+    *Como hacer una presentación
+    *Como hacer un trabajo para entregar en clase
+    *Inkscape
+    *Video
+  *Plataformas de e-learning: Que herramientas hay, donde se utilizan...
+    *Moodle
+    *Como montar Moodle en la ikastola
+    *Como usar Moodle
+  *Educación 2.0
+    *Edublog
+    *Como utilizar wikis en educación
+  *Uso de Wink para realizar talleres para Educacion
+
+==== Experiencias ====
+  * El caso moodle en las Universidades de Deusto, Mondragón y UPV:
+==== Recursos ====
+  * Lista de grupos de sw libre de universidades de Euskadi
+
+==== Talleres prácticos ====
+  * Trabajo con OpenOffice (II): Como realizar tareas sencillas orientadas a actividades educativas. 
+
+  * Taller de Moodle

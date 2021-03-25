@@ -1,0 +1,79 @@
+====== Bilera 2007/12/04 ======
+
+==== Participantes ====
+    * Maider Likona (gisa)
+    * Roman Muñoz (gisa)
+    * Ales Zabala (gisa)
+    * Iratxe Esnaola (deusto donosti)
+    * Eduardo Fabo (fomento)
+    * Ainhoa Aldasoro (fomento)
+    * Eba Bengoetxea (fomento)
+    * Belen Gorosarri (esle)
+    * Pablo Garaizar (deusto bilbo)
+    * Dani Gutierrez (itsas)
+
+==== Borrador convenio foro software libre ====
+Fomento pide establecer organismo de comunicación para trabajar en promover el
+software libre.
+Tendríamos que terminar de definir el convenio entre todos.
+El convenio está abierto a otros grupos.
+Opiniones de los distintos grupos:
+    * Gisa se muestra de acuerdo con el convenio.
+    * Esle todavía no ha decidido, pero en principio creen que no habrá ningún problema.
+    * Itsas no está seguro que pueda firmar, por como está constituido. Si pueden, están de acuerdo con firmar.
+    * E-ghost no cree que realmente pueda entrar entero en el convenio, que puede ser interesante limitarse a colaborar con el grupo del campus de donosti. En cuestiones de constitución están en una situación parecida a itsas.
+    * De parte del campus de donosti, son un grupo 'externo' al campus, por lo que como institución no lo ven viable.
+
+
+
+
+==== Evento software libre ====
+=== Lluvia de ideas ===
+Dar prioridad a decidir temáticas (público objetivo).
+
+Definir un responsable de cada uno de los organismos.
+
+Con un 'briefing' definido en fomento pueden empezar a definir el presupuesto disponible.
+
+Decidir el lugar puede esperar a más adelante.
+
+El objetivo principal del evento es dar a conocer el software libre. Como tenemos bastantes tipos de publico objetivo, podríamos definir un sub-objetivo para cada tipo de objetivo.
+
+A nivel técnico intentamos mantenernos a un nivel bastante bajo. Hay que intentar involucrar a mucha gente, dando imagen de que es fácil, sencillo, etc.
+
+Una de las propuestas es no hablar de software libre, hablarlo como nuevas tecnologías, obviando el hecho de que sea software libre.
+
+Hay que intentar "meter" en el vocabulario de la gente el término "software libre"
+
+El objetivo de este evento es hacer más agradable el término "software libre"
+No hay por qué incidir en el término en sí, siempre que los temas y productos que se traten siempre sean software libre.
+
+Tiene que haber un mensaje atractivo para cada segmento.
+
+Es posible que haya que hacer un evento para cada publico objetivo.
+=== Decisiones ===
+Colectivos diferentes que pensamos abarcar:
+    * Ciudadanía
+    * Empresas
+    * Administración
+    * Asociaciones
+    * Universidad/Educativo
+Dividir cada colectivo en diferentes partes:
+    * Formación
+    * Experiencias
+    * Recursos
+    * Taller práctico
+
+Crear una página en el wiki para cada colectivo, en el que se trabajen:
+    * El lema de cada uno
+    * Descripción del colectivo
+    * Actividades
+    * Partes del colectivo (formación, experiencias, recursos, talleres, etc.)
+
+En vez de elegir grupos para cada objetivo, cada uno irá modificando las partes de la wiki que más controle.
+
+Nos damos todos de alta en la wiki, si hay problemas le comentamos a Dani y nos da él de alta.
+
+Para el 29 de enero del 2008 a las 16:00 ponemos fecha límite para tener rellenados los diferentes apartados.
+
+Los de Gisa quedamos un día con Eba de Fomento para ayudarles a gestionar la lista de correo, que no se termina de aclarar.

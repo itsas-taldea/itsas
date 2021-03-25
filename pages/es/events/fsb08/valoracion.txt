@@ -1,0 +1,275 @@
+===== Valoracion =====
+
+
+
+
+==== Link a la actividad "Como migrar a GNU/Linux y no morir en el intento" ====
+
+[[ciudadania#exposiciones_(in)_formativas]]
+
+=== Fecha y hora propuestos ===
+Esta pensado para la ciudadania, aunque podria ser el primer dia tambien.
+
+=== Lugar ===
+Preferiblemente zona de exposiciones, aunque puede ser en el auditorio
+
+=== Responsable ===
+Maider Likona
+
+=== Del 1 al 4, valoracion ===
+1
+
+
+==== Link a la actividad " Conocimiento colaborativo libre: el caso Wikipedia." ====
+[[ciudadania#experiencias]]
+=== Fecha y hora propuestos ===
+Estaba en el apartado ciudadania
+=== Responsable ===
+=== Del 1 al 4, valoracion ===
+1 
+
+
+
+==== Link a los 7 talleres para la ciudadania  ====
+[[ciudadania#talleres_practicos]]
+
+=== Fecha y hora propuestos ===
+Maider los repartiria por los tres dias
+
+=== Responsables ===
+ - Simplifica tu vida: Maider
+ 
+=== Del 1 al 4, valoracion ===
+1
+
+
+==== Link a "SW libre como uso racional de recursos..."  ====
+[[admin_publica#exposiciones_(in)_formativas]]
+=== Fecha y hora propuestos ===
+Primer dia
+=== Responsable ===
+=== Del 1 al 4, valoracion ===
+1
+
+==== Link a "Grado de implantacion de SW libre ..."  ====
+[[admin_publica#exposiciones_(in)_formativas]]
+=== Fecha y hora propuestos ===
+Primer dia
+=== Responsable ===
+=== Del 1 al 4, valoracion ===
+1
+
+
+==== Link a "Casos de liberacion de codigo"  ====
+[[admin_publica#experiencias]]
+=== Fecha y hora propuestos ===
+=== Responsable ===
+=== Del 1 al 4, valoracion ===
+1
+
+==== Link a "Actuaciones de e-administracion"  ====
+[[admin_publica#experiencias]]
+=== Fecha y hora propuestos ===
+=== Responsable ===
+=== Del 1 al 4, valoracion ===
+1
+
+
+
+
+
+==== Link a las charlas para asociaciones y colectivos  ====
+[[asoc_colect#exposiciones_(in)_formativas]]
+
+Aqui hay tres planteadas:
+
+==1) El software libre como modelo solidario ==
+Auditorio
+== 2) Del soft prop. al soft libre ==
+Auditorio
+== 3) Reciclaje de ordenadores ==
+
+Hay tres charlas planteadas, se pueden unificar para explicar como dar nueva vida a los ordenas viejitos?
+[[actividades_propuestas#charla|Info sobre la charla LTSP]]
+
+[[actividades_propuestas#charlas|Servidor casero y servidor para asociaciones]]
+
+=== Fecha y hora propuestos ===
+Primer dia. El de LTSP podria ser interesante para empresas tambien.
+=== Responsables ===
+Maider
+
+=== Del 1 al 4, valoracion ===
+ - 1) 1 
+ - 2) 1
+ - 3) 1
+
+
+
+
+
+==== Link a "Experiencias de asoc. con soft. libre"  ====
+[[asoc_colect#experiencias]]
+[[actividades_propuestas]]
+== 1) Indymedia ==
+== 2) Cubainformacion.tv ==
+[[programa#Actividad:_Exposición_proyecto_cubainformacion.tv]]
+== 3) Bertsozale Elkartea ==
+=== Fecha y hora propuestos ===
+Primer dia
+=== Responsable ===
+Dani
+=== Del 1 al 4, valoracion ===
+ - 1) 1
+ - 2) 1
+ - 3) 1
+
+
+
+==== Link a "Primer contacto con Linux y GNOME"  ====
+[[actividades_propuestas#talleres]]
+
+=== Fecha y hora propuestos ===
+Esta orientado a la ciudadania, aunque no es muy ludico que digamos, asi que no se si tercer dia o no.
+=== Responsable ===
+=== Del 1 al 4, valoracion ===
+1
+
+
+==== Link a "Carteleria para asociaciones  ====
+[[actividades_propuestas#talleres]]
+=== Lugar ===
+Zona de exposiciones
+=== Fecha y hora propuestos ===
+Primer dia
+=== Responsable ===
+Mar
+=== Del 1 al 4, valoracion ===
+1
+
+
+==== Link a "Install-party"  ====
+[[actividades_propuestas#talleres]]
+=== Fecha y hora propuestos ===
+Haria una cada dia
+=== Responsables ===
+ - Maider 
+ - 
+ - 
+
+=== Del 1 al 4, valoracion ===
+1
+
+
+
+==== Link a "Paneles informativos"  ====
+[[actividades_propuestas#talleres]]
+[[actividades_propuestas#paneles_multimedia]]
+=== Lugar ===
+Zona de exposiciones
+=== Responsable ===
+
+=== Del 1 al 4, valoracion ===
+1
+
+
+==== Link a "videotutoriales"  ====
+[[actividades_propuestas#zona_multimedia]]
+=== Lugar ===
+Zona multimedia
+=== Responsable ===
+
+=== Del 1 al 4, valoracion ===
+1
+
+==== Link a "talleres de audio"  ====
+[[actividades_propuestas#talleres_de_audio]]
+
+== 1) Conseguir un CD partiendo de lo que he tocado ==
+== 2) Edicion de partituras ==
+
+=== Lugar ===
+Zona multimedia
+=== Fecha y hora propuestos ===
+Primer dia
+=== Responsable ===
+Alguien de la Musika eskola de Donosita (unai?)
+=== Del 1 al 4, valoracion ===
+1
+
+
+==== Link a "Caso real de migracion"  ====
+[[actividades_propuestas#charlas]]
+=== Lugar ===
+Auditorio
+=== Fecha y hora propuestos ===
+Primer o segundo dia
+
+=== Responsable ===
+Mikel
+
+=== Del 1 al 4, valoracion ===
+1
+
+
+==== Link a "Virtualizacion"  ====
+=== Lugar ===
+Auditorio
+=== Fecha y hora propuestos ===
+Segundo dia
+=== Responsable ===
+Luis
+=== Del 1 al 4, valoracion ===
+1
+
+
+==== Link a "integracion con Active Directory"  ====
+[[actividades_propuestas#charlas]]
+=== Lugar ===
+Auditorio
+=== Fecha y hora propuestos ===
+Segundo dia
+=== Responsable ===
+=== Del 1 al 4, valoracion ===
+
+
+==== Link a "Soluciones anti-spam"  ====
+[[actividades_propuestas]]
+=== Lugar ===
+Auditorio
+=== Fecha y hora propuestos ===
+Segundo dia
+=== Responsable ===
+=== Del 1 al 4, valoracion ===
+1
+
+==== Link a la actividad  ====
+=== Lugar ===
+=== Fecha y hora propuestos ===
+=== Responsable ===
+=== Del 1 al 4, valoracion ===
+
+==== Link a la actividad  ====
+=== Lugar ===
+=== Fecha y hora propuestos ===
+=== Responsable ===
+=== Del 1 al 4, valoracion ===
+
+==== Link a la actividad  ====
+=== Lugar ===
+=== Fecha y hora propuestos ===
+=== Responsable ===
+=== Del 1 al 4, valoracion ===
+
+==== Link a la actividad  ====
+=== Lugar ===
+=== Fecha y hora propuestos ===
+=== Responsable ===
+=== Del 1 al 4, valoracion ===
+
+==== Link a la actividad  ====
+=== Lugar ===
+=== Fecha y hora propuestos ===
+=== Responsable ===
+=== Del 1 al 4, valoracion ===
+

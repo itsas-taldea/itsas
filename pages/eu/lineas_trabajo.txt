@@ -1,0 +1,54 @@
+====== Lanerako jardunbide nagusiak ======
+
+**[[lineas_trabajo| ... en castellano ...]]**
+
+{{itsas_jardunbide_nagusiak.odt|odt  formatua}}
+{{itsas_jardunbide_nagusiak.rtf|rtf formatua}}
+{{itsas_jardunbide_nagusiak.pdf|pdf formatua}}
+
+Gure adierazpenetik, ideia desberdinetatik eta posta zerrendan edota bileretan azaldutako eztabaidetatik abiatuta, ondorengo lerro estrategikoak zehaztu dira:
+
+===== 1. itsasen ezagutaraztea, gizarteratzea eta kanpo-harremanen ezarkuntza eta sustatzea =====
+
+Gure proposamenek unibertsitate, gizarte eta kultura esparru desberdinetan ahalik eta presentzia publikorik handiena izatea nahi dugu. Gainera, **itsas** osatzen dugunon kopurua gehitzeko bidea izango da.
+Lan egiteko jardunbide honetan garrantzi berezia dute gure ideien aurrean harkorragoak diren eta hurbilago dauden beste erakunde batzuk, esate baterako:
+  * Software librearen aldeko beste talde batzuk, adibidez beste unibertsitate batzuetakoak.
+  * Unibertsitatean erabakitzeko ahalmena duten organoak, bereziki informazio eta komunikazio teknologien gaia jorratzen dutenak.
+  * Bertako administrazio publikoa.
+  * Bertako software librearekin erlazionaturiko enpresak.
+
+===== 2. Heziketa eta sentsibilizazioa =====
+
+Hacker etikaren esanahia, software librearen abantailak eta unibertsitate publikoan software librea sustatzearen koherentzia ahalik eta jende (ikasleak, irakasleak...) gehiagok uler dezan, baliabideak erabili behar dira software eta formatu irekien filosofia azaltzeko, eta horien erabilera bultzatu egin behar da.
+
+Heztean eta informatzean datza, masa kritikoa gero eta zabalagoa izateko. Horretarako, jardunaldi edota hitzaldiak, software librea instalatu eta konpartitzeko espazioak (install-party delakoak), kultura librearekin loturiko jarduerak... egin beharko lirateke. Guzti hauek era askotako jendeari zuzenduta leudeke, hau da, irakaskuntza, ikerketa, ikasketa arloetakoei, edukien sakontasuna jasotzaileen ezagutza mailaren arabera moldatuz.
+
+===== 3. Software libre eta formatu irekien erabilera =====
+
+Maila desberdinetarako software libre eta formatu irekien gehikuntzaz dihardu:
+
+  * Gaur egungo sistemetan, formatu itxi edo software pribatiboa dagoen inguru teknologiko eta antolatzaileak migratuz. Migrazio hau ez da beti eramangarria epe laburrera	eta era maila-katu baina finkoan egitea da proposamena, software librea kontuan hartuz etorkizuneko komunikazio eta informazio teknologien planetan (tresnen konparaketa, lizitazioetan, etab).
+  * Jardunbide honek AZPan, irakasleengan eta ikasleengan du eragina, hain zuzen ere,  irakaskuntza, ikerkuntza eta  kudeaketa eragiketetarako; eta erabiltzaileari begira dauden sistemak (esaterako, “front-end”, web orrialdeak) eta atzean daudenak (“back-end”) hartzen ditu kontuan.
+  * Software librea solidaritatearen alorrean ere sar daiteke, bai hemen (gure herri eta hirietako auzoetan), zein nazioartean (Iparralde-Hegoalde kooperazioa unibertsitateko Lankidetzarako Bulegoaren edo elkartasunerako beste talde batzuen bidez) Jardunbide honek inbertsio ekonomikoa dakar softwarearen garapen eta adaptazioan, heziketan, laguntza teknikoan eta arreta zerbitzuan. Ekonomia arloko gabezia dela-ta, beharbada **itsas**ek estaregia honetan egin dezakeen lana mugatuta egongo da. Hala ere, izan daiteke lorpenik ere, esate baterako, unibertsitate mailan, testuen trukerako formatu irekiari balio ofiziala ematea.
+
+Hona hemen proposaturiko ekintza batzuk:
+  * Software eta formatuekin zerikusia duten erabakietan aholkuak eman.
+  * Sistema eragile libreentzako hardware ekipoak homologatu.
+  * Abiatze dualeko ekipoak instalatu (libre eta pribatiboa)
+  * Sistema pribatiboetan software librea erabili.
+  * Librea eta sendoa den softwarea inplementatu.
+  * Software desberdinen erabilpenaren neurgailu eta adierazleak definitu eta neurtu (esaterako, Moodle).
+
+
+===== 4. Ikerkuntza eta garapeneko jardueretan software librea eta bere filosofia indartzea =====
+
+Ondoko baldintza hauetariko bat betetzen duten lanak (esate baterako, doktoretza tesia, karrera bukaerako egitasmoak,…) era esplizituan aitortzea, saritzea edo positiboki diskriminatzean datza:
+  * Software libre eta formatu irekiak erabiltzen dituzten lanak.
+  * Komunitaterako software librea garatzen duten lanak, honela guztiontzako ondare unibertsalak diren jakintzarako baliabideak sortuz.
+
+
+===== 5. Ikasketa planetan software librea txertatzea =====
+
+Software libreak karrera teknologikoetatik haratago ere badu eragina, auzi filosofikoa delako eta gainera, haziz doan sektorea da, bertako ekonomian era positiboan eragin dezakeena. Bestalde informazio eta komunikazio teknologien eragina itzela da giza heziketan.
+
+Arrazoi hauengatik eta beste batzuengatik, hainbat materiatan –soziologia, arte ederrak, ingeniaritza…- irakaskuntzarako gaitzat hartzea planteatzen da.

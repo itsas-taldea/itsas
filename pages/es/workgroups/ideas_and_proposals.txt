@@ -1,0 +1,43 @@
+====== Ideas y propuestas ======
+
+
+Listado de ideas, propuestas, sugerencias, etc que se realizan en nuestros canales de comunicación.
+
+El objetivo de estas ideas sería el de constituir un futuro grupo de trabajo. En caso de que no fuese así deberían ser eliminadas para dejar sólo la información útil.
+
+<note tip>
+Si tienes una buena idea proponla en la [[:participate#lista de correo|lista de correo]].
+El objetivo es que sea consensuada mínimamente antes de aparecer listada como propuesta.
+</note>
+
+
+===== Listado de ideas y propuestas =====
+
+
+==== Ubuntu soportada por la UPV ====
+
+Se propone que la UPV dé soporte para (K)Ubuntu y no sólo a EHUX, distro que por otra parte no se usa ni se conoce y carece de la repercusión y buen recibo de la que disfruta Ubuntu.
+
+Los paquetes específicos para la UPV contenidos en EHUX podrían ser incluidos en un repositorio propio para que los alumnos y profesores puedan actualizar su (K)Ubuntu con el software requerido por la UPV.
+
+==== Generar documentación ====
+
+Creo que hay mucho que aprender de E-Ghost. Ellos además de sus canales de comunicación tienen recetas en su web. Estaría bien que tuvieramos HOWTOs sobre las cosas que puede llegar a necesitar un alumno de la UPV que vaya a usar Ubuntu: Coenectarse a la VPN, configurar su cuenta de correo, conectarse a la Wireless...etc
+
+==== Plantillas ofimáticas ====
+
+Generar plantillas y hojas de estilo para poder hacer presentaciones y proyectos de fin de carrera usando openoffice.org y LaTeX.
+
+  * **Iñaki Baz (ibc):** Una idea estupenda, y también creo que innovadora. Y si innovamos y ofrecemos cosas que no se tenían antes el software libre y formatos abiertos serán más "digestibles".
+
+==== Listado de aplicaciones de software libre ====
+
+Incluir una aplicación para listar cómodamente aplicaciones libres de cara a presentarlas como alternativas oficiales al software propietario empleado en la UPV.
+Nota: la idea no es hacerlo en el propio wiki (un listado es incómodo en una tabla tan estática), sino usar una aplicación de gestión de contenidos externa. El tema está ya en mente (un poco de paciencia).
+
+
+==== Uso de formatos abiertos en la UPV ====
+
+Crear un grupo de trabajo IWG para abordar el tema de los formatos abiertos en la UPV, reemplazando a los propietarios.
+Se podría empezar por la ofimática, donde el OpenDocument es claro referente a demandar.
+También habría que diseñar bien los medios a usar: crear un documento oficial (¿en el wiki?) para reclamar el uso de estos formatos, o un documento por cada formato, planificar la difusión de este mensaje, charlas...).

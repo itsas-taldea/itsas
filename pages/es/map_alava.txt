@@ -1,0 +1,26 @@
+====== Campus de Álava ======
+
+^Id^Hizkuntza^Fakultatea^Saila^Estamentua^Beste oharrak^
+|[[pablo@si.ehu.es|Pablo González Nalda]]|E,C|[[http://www.ehu.es/eui/|Escuela Univ. de Ingeniería]]|[[http://ji.ehu.es/|Lenguajes y Sistemas Informáticos]]|Profesor|[[http://lsi.vc.ehu.es/pablogn/|Mi sitio oficial]]\\ [[https://www.ehu.es/ehusfera/pablogn/|Mi diario (blog) en EHUsfera]]|
+|[[mikel.larranaga@ehu.es|Mikel Larrañaga Olagaray]]|E,C|[[http://www.ehu.es/eui/|Escuela Univ. de Ingeniería]]|[[http://ji.ehu.es/|Lenguajes y Sistemas Informáticos]]|Profesor|[[http://lsi.vc.ehu.es/mikell/|Mi sitio oficial]]|
+|[[jm.valle@ehu.es|José Manuel Valle Melón]]|C|[[http://www.ehu.es/eui/|Escuela Univ. de Ingeniería]]|[[|Ing. Min. y Met. y CCMM (Topografía)]]|Profesor|[[http://www.vc.ehu.es/docarq|Mi sitio oficial]]|
+|[[txomin.villarroel@ehu.es|José Domingo (Txomin)]]|E,C|[[http://www.irakasleen-ue-gasteiz.ehu.es/p057-8658/eu/|Irakasleen U. E.]]|[[http://www.irakasleen-ue-gasteiz.ehu.es/p057-8658/eu/|Matematika eta zientzia esperimentalen didaktika]]|Irakaslea|[[http://ikastorratza.civiblog.org/|Nire txokoa]]|
+|[[ainhoa.ezeiza@ehu.es|Ainhoa Ezeiza]]|E,C|[[http://www.irakasleen-ue-gasteiz.ehu.es/p057-8658/eu/|Irakasleen U. E.]]|[[http://www.irakasleen-ue-gasteiz.ehu.es/p057-8658/eu/|Hizkuntza eta Literaturaren didaktika]]|Irakaslea|[[http://ikide.org/|iKide Taldea, ikaskuntza plataformetan irakasleak formatzeko lan-taldea]]|
+|[[aconde011@ikasle.ehu.es|Angel Conde Manjón]]|C|[[http://www.ehu.es/eui/|Escuela Univ. de Ingeniería]]|[[http://ji.ehu.es/|Lenguajes y Sistemas Informáticos]]|Alumno|[[http://neuw.no-ip.org/|Mi sitio oficial]]|
+
+Notas:
+  * Id: puede ser el nombre y apellido, o un nickname.
+  * Lenguas habladas: **E**(uskera), **C**(astellano).
+  * Estamento: profesor/a, alumno/a, investigador/a, etc.
+  * Saila: departamento (o en su defecto titulación).
+  * Beste oharrak: otros comentarios que quieras poner.
+
+
+<note tip>
+Si quieres añadir tu nombre a esta lista tienes dos formas:
+
+  * [[http://itsas.ehu.es/start?do=register|Registrarte]] en el wiki y editar esta página.
+  * Pedir en la [[/participate#lista_de_correo|lista de correo]] (o a otra persona) que añadan tu nombre y tus datos.
+
+¡Ánimo, apúntate! es importante para nosotros y para nuestra imagen como colectivo. ;-)
+</note>←

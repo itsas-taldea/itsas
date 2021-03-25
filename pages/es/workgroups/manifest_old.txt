@@ -1,0 +1,178 @@
+====== Manifest IWG (versiones antiguas del Manifiesto) ======
+
+  *[[#version_1.0idlj|1.0 iñigo/dani/luisja]]
+  *[[#version_0.21d|0.21 dani]]
+  *[[#version_0.1i|0.1 iñigo]]
+  *[[#version_0.1i-lj|0.1 iñigo - modificada por luisja]]
+  *[[#version_0.1d|0.1 dani]]
+
+===== Versión 1.0idlj =====
+Nota: versión consensuada entre Iñigo, Dani, LuisJa, a excepción del punto 2. Las diferencias fundamentales entre 2a y 2b son:
+-Si el sw privativo genera o no dependencia
+-Si hacer o no referencia en ese punto a las patentes de sw, cuando parece que es otra problemática no ligada al sw privativo
+++++
+
+**itsas** es un grupo de la EHU/UPV que pretende impulsar la creación y el uso del software libre, los formatos y protocolos abiertos y los ideales del acceso libre a la cultura y al conocimiento, en el ámbito de nuestra universidad pública.
+
+**itsas** es un grupo heterogéneo, con miembros de Facultades y Escuelas pertenecientes a los diferentes estamentos de la universidad (profesorado, alumnado, investigación, PAS). También forman parte de este grupo personas externas a la EHU/UPV, pues la naturaleza del grupo es totalmente abierta y se da la bienvenida a quien quiera colaborar. Nuestra forma de trabajo es presentar y coordinar propuestas consensuadas mediante el debate abierto.
+
+Las personas que formamos parte de **itsas**,
+Manifestamos:
+  * 1. Que las tecnologías de la información y la comunicación influyen, cada vez más, en el desarrollo cultural y profesional de las personas.
+  * 2a. Que el modelo de software privativo, dominante en la actualidad y basado en su modelo de código y formatos cerrados, dificulta la interoperabilidad de aplicaciones y plataformas, no favorece la adaptación ni la mejora continua de las aplicaciones, conduce a una alta dependencia, y además su política de patentes de software es perjudicial para la innovación y el desarrollo de la actividad informática.
+  * 2b. Que el modelo de software privativo, dominante en la actualidad, basado en el código y los formatos cerrados, impide la interoperabilidad de aplicaciones y plataformas, no favorece la adaptación ni la mejora continua de las aplicaciones, no garantiza la seguridad de los datos y produce, en cambio, una brecha social entre quienes pueden y quienes no pueden pagarlo.
+  * 2c. Que el modelo de software privativo, dominante en la actualidad y basado en su modelo de código y formatos cerrados, dificulta la interoperabilidad de aplicaciones y plataformas, no favorece la adaptación ni la mejora continua de las aplicaciones, conduce a una alta dependencia y produce una brecha social entre quienes pueden y quienes no pueden pagarlo. Este modelo junto con las patentes de software suponen un serio freno para la innovación y el desarrollo de la industria del software.
+  * 3. Que existe una alternativa: el modelo del software libre, cuya filosofía es licenciar software que se pueda usar, estudiar, mejorar y distribuir de forma libre, sin incurrir en problemas legales.
+  *4. Que el software libre es un activo para la humanidad que va creciendo en el tiempo en beneficio de todas las personas, y tiende a reducir la brecha digital al promover el avance del conocimiento compartido, universal, a un bajo coste y sin restricciones.
+  *5. Que además, a nivel económico, esta filosofía conlleva un modelo de negocio viable y que propicia el desarrollo de empresas locales, de modo que el beneficio revierte más en la comunidad a la que pertenecen sus clientes, consumidores y usuarios.
+  *6. Que las universidades, como generadoras de conocimiento y potenciadoras del pensamiento crítico, deben reflexionar sobre las implicaciones sociales de los conocimientos que transmiten y las formas que eligen para transmitirlos, y tienen el deber ético de compartir del conocimiento. Esto concierne especialmente a las universidades de carácter público.
+
+Reivindicamos:
+  *7. Que la EHU/UPV sea consecuente con su lema "eman ta zabal zazu", interpretado como la necesidad de generar conocimiento (investigar) y compartirlo (enseñar y publicar), principios coherentes con el movimiento del software libre.
+  *8. Que los recursos económicos y humanos destinados a la adquisición y mantenimiento de software en la EHU/UPV sean asignados mediante criterios en los que prime el software libre, auditable y no condicionante, frente al privativo, reintegrando esos recursos preferentemente en el ámbito local.
+  *9. Que la EHU/UPV garantice la posibilidad de uso de estándares, protocolos y formatos abiertos dentro de la propia universidad, asegurando la interoperabilidad independientemente de la plataforma y aplicaciones que se utilicen.
+  *10. Que se generen campañas de sensibilización, tanto entre el alumnado como entre el profesorado, para promover los principios y usos anteriormente indicados.
+
+**itsas**, Enero 2007
+
+===== Versión 0.21d =====
+Nota: modificación de 0.20 a 0.21: se numeran los párrafos por facilitar su discusión.
++++++++
+P1. En el siglo XXI los conocimientos y aplicaciones tecno-científicas, y más concretamente las del área de las tecnologías de información y comunicaciones, impregnan gran parte de la vida de la sociedad y es creciente la dependencia del ser humano hacia las mismas.
+
+P2. El conocimiento, elemento fundamental para el desarrollo humano, implica un poder de facto, unas veces con carácter más tácito y otras más explícito.
+
+P3. A nivel mundial, las transferencias financieras y de recursos naturales desde el Sur hacia el Norte no fueron acompañadas de un flujo de conocimiento en sentido inverso. Ello ha causado y perpetúa una dependencia para el desarrollo en base a la explotación de la riqueza local. En ocasiones, la subordinación al conocimiento externo lleva a escenarios catastróficos, como es la situación de algunos países de África donde la población muere por enfermedades sanables con fármacos indisponibles debido a las patentes creadas en el Norte.
+
+P4. A nivel local y dentro del campo del software, constatamos una realidad en la que la cuota de mercado de unas pocas multinacionales extranjeras es muy alta. El elevado porcentaje de uso de sus productos desde hace aproximadamente dos décadas ha creado una gran dependencia cultural de personas, colectivos, empresas y organismos, y en el saber popular no hay más de dos o tres marcas al hablar de programas básicos como el sistema operativo, la ofimática, el navegador, u otros más avanzados como los lenguajes de programación o las bases de datos.
+
+P5. Tales multinacionales constituyen un oligopolio sustentado en el código y los formatos cerrados que imposibilitan otras alternativas, así como en las patentes de software que frenan el desarrollo del conocimiento humano debido a la naturaleza propia de la evolución del software. Además, gracias al bajo coste marginal de este tipo de productos, el beneficio es enorme.
+
+P6. Pero hoy en día existen ya alternativas libres y abiertas. Estas alternativas son impulsadas por el movimiento del software libre, originado en la década de los 70, cuya filosofía es licenciar software que se pueda usar, estudiar, adaptar, mejorar, y distribuir entre la comunidad de forma libre, sin incurrir en problemas legales. Además, a nivel económico conllevan un modelo de negocio viable y que propicia el desarrollo de empresas locales, de modo que el beneficio revierte más en la comunidad a la que pertenecen sus clientes, consumidores y usuarios.
+
+P7. Desde la universidad, como entidad generadora de conocimiento, quisiéramos huir de la tecnocracia acrítica y de la visión de una tecno-ciencia supuestamente neutral, para reflexionar sobre el deber ético de compartir el conocimiento especialmente con quienes más puedan necesitarlo.
+
+P8. En este contexto nace **itsas**, grupo de la UPV/EHU que pretende impulsar la adopción del software libre, los estándares abiertos y los ideales de la cultura libre en el ámbito de la universidad. Se trata de un grupo heterogéneo, con miembros dispersos por las diferentes facultades y pertenecientes a los diferentes estamentos de la universidad (profesores, investigadores, alumnos, etc). También hay personas externas a la UPV/EHU, pues la naturaleza del grupo es totalmente abierta y se da la bienvenida a cualquier persona que quiera colaborar en impulsar estos ideales en nuestra universidad. 
+
+P9. Desde **itsas** expresamos nuestra convicción de que:
+
+    *El software libre es un activo para la humanidad (más cuanto mayor sea su uso potencial), que va creciendo en el tiempo, ya que promueve el avance del conocimiento, así como el acceso universal y sin restricciones al mismo.
+    *El carácter público de nuestra universidad, y su lema “eman ta zabal zazu” interpretado como la necesidad de generar conocimiento (investigar) y compartirlo (enseñar y publicar), son coherentes con los principios del software libre.
+    *Los recursos financieros y humanos dedicados al software en esta universidad pública han de ser asignados con criterios en los que prime el software libre, auditable y no condicionante frente al privativo, y según los cuales la riqueza revierta en lo local en vez de ir al exterior.
+
+P10. Queremos apostar por la creación, la formación y el uso del software libre, los formatos abiertos y en general, por la cultura libre y el conocimiento universal sin restricciones en ésta, nuestra universidad pública.
+
+**itsas**, Euskal Herriko Unibertsitatea / Universidad del País Vasco
+Diciembre 2006
+
+
+===== Versión 0.1i =====
+
+Las personas que formamos parte de **itsas**(1),
+
+
+**Manifestamos,**
+
+
+  *M1. que las tecnologías de la información y la comunicación influyen en la vida de todas las personas, haciéndolas dependientes de su correcto funcionamiento.
+
+  *M2. que el control de dichas tecnologías ha generado un nuevo poder fáctico supranacional.
+
+  *M3. que hoy día ese poder está detentado por quienes, al amparo de la legislación vigente (Leyes de Propiedad Intelectual), son propietarios de ideas y conceptos, negando al resto de la Sociedad el acceso libre a los mismos.
+
+  *M4. que ese poder es ajeno a las democracias, insensible a la voluntad popular y perjudicial para el futuro desarrollo de la Sociedad, al tiempo que está agudizando, cuando no provocando, injustas desigualdades.
+
+  *M5. que quienes sustentan su negocio en soluciones cerradas presionan a otras empresas y administraciones para imponer legislaciones que restringen aún más las legítimas libertades de la Ciudadanía.
+
+  *M6. que existen alternativas a esta situación, impulsadas por el movimiento del software libre, cuya filosofía es licenciar software que se pueda usar, estudiar, mejorar, y distribuir de forma libre, sin incurrir en problemas legales.
+
+  *M7. que además, a nivel económico, esta filosofía conlleva un modelo de negocio viable y que propicia el desarrollo de empresas locales, de modo que el beneficio revierte más en la comunidad a la que pertenecen sus clientes, consumidores y usuarios, al tiempo que fomenta la colaboración internacional de las empresas.
+
+  *M8. que las universidades, como generadoras de conocimiento y potenciadoras del pensamiento crítico, son entidades capacitadas para reflexionar sobre las implicaciones que tiene en el futuro lo que en ellas se enseña y sobre el deber ético de compartir el conocimiento, en especial aquellas de carácter público.
+
+
+**Reivindicamos,**
+
+  *R1. que la UPV/EHU sea consecuente con su lema "eman ta zabal zazu", interpretado como la necesidad de generar conocimiento (investigar) y compartirlo (enseñar y publicar), principios coherentes con el movimiento del software libre.
+
+  *R2. que los recursos económicos y humanos destinados a software en la UPV/EHU sean asignados mediante criterios en los que prime el software libre, auditable y no condicionante frente al privativo, reintegrando esos recursos prioritariamente en el ámbito local.
+
+  *R3. que se fortalezca el uso de estándares y formatos abiertos dentro de la propia UPV/EHU, haciendo más fácil y efectiva la colaboración entre todos sus miembros, así como con personas, entidades y empresas ajenas.
+
+  *R4. que se generen campañas de sensibilización, tanto entre el alumnado como el profesorado, para fomentar el uso de estos principios, estándares y formatos.
+
+
+**Concluimos,**
+
+  *C1. que queremos impulsar la creación, la formación y el uso del software libre, los formatos abiertos y en general, la cultura libre y el conocimiento universal sin restricciones en ésta, nuestra universidad pública.
+
+
+(1) **itsas** es un grupo de la UPV/EHU que pretende impulsar la adopción del software libre, los estándares abiertos y los ideales de la cultura libre en el ámbito de la universidad. Se trata de un grupo heterogéneo, con miembros dispersos por las diferentes facultades y pertenecientes a los diferentes estamentos de la universidad (profesores, investigadores, alumnos, etc). También forman parte de **itsas** personas externas a la UPV/EHU, pues la naturaleza del grupo es totalmente abierta y se da la bienvenida a cualquier persona que quiera colaborar en impulsar estos ideales en nuestra universidad. Lo mismo que quien comparte lo manifestado en este documento es libre de colaborar o no con **itsas**, para formar parte activa del grupo no es necesario suscribir el manifiesto, cada cual es libre de tener sus propias opiniones, el grupo **itsas** es sólo la forma que tenemos de coordinarnos y mediante el debate abierto, presentar propuestas consensuadas que garanticen un espectro de actuación e implantación más amplio.
+
+
+===== Versión 0.1i-lj =====
+
+**itsas** es un grupo de la UPV/EHU que pretende impulsar la adopción del software libre, los estándares abiertos y los ideales de la cultura libre en el ámbito de la universidad. Se trata de un grupo heterogéneo, con miembros dispersos por las diferentes facultades y pertenecientes a los diferentes estamentos de la universidad (profesores, investigadores, alumnos, etc). También forman parte de **itsas** personas externas a la UPV/EHU, pues la naturaleza del grupo es totalmente abierta. Se da, por tanto, la  bienvenida a cualquier persona que quiera colaborar en impulsar estos ideales en nuestra universidad. El grupo **Itsas** se constituye como la forma de presentar y coordinar mediante el debate abierto propuestas consensuadas que promuevan la implantación del software libre en la UPV/EHU.
+
+
+Las personas que formamos parte de **itsas**,
+
+
+**Manifestamos:**
+
+  *M1. Que las tecnologías de la información y la comunicación influyen en el desarrollo cultural y profesional de las personas.
+
+  *M2. Que existen alternativas al modelo de software privativo dominante en la actualidad.
+
+  *M3. Que el modelo del software libre, cuya filosofía es licenciar software que se pueda usar, estudiar, mejorar y distribuir de forma libre, sin incurrir  en problemas legales, es una alternativa social y culturalmente eficaz.
+
+  *M4. Que además, a nivel económico, esta filosofía conlleva un modelo de negocio viable y que propicia el desarrollo de empresas locales, de modo que el beneficio revierte más en la comunidad a la que pertenecen sus clientes, consumidores y usuarios, al tiempo que fomenta la colaboración internacional de las empresas.
+
+  *M5. Que las universidades, en especial aquellas de carácter público, como generadoras de conocimiento y potenciadoras del pensamiento crítico, son entidades capacitadas para reflexionar sobre las implicaciones que tiene en el futuro lo que en ellas se enseña y sobre el deber ético de compartir el conocimiento.
+
+
+**Reivindicamos:**
+
+  *R1. Que la UPV/EHU sea consecuente con su lema "eman ta zabal zazu", interpretado como la necesidad de generar conocimiento (investigar) y  compartirlo (enseñar y publicar), principios coherentes con el movimiento del software libre.
+
+  *R2. Que los recursos económicos y humanos destinados a la adquisición y mantenimiento de software en la UPV/EHU sean asignados mediante criterios en los que prime el software libre, auditable y no condicionante frente al privativo, reintegrando esos recursos prioritariamente en el ámbito local.
+
+  *R3. Que se garantice el uso de estándares y formatos abiertos dentro de la propia UPV/EHU, asegurando la interoperabilidad y haciendo más fácil y efectiva la colaboración entre todos sus miembros, así como con personas, entidades y empresas ajenas, independientemente de la plataforma y aplicaciones que utilicen.
+
+  *R4. Que se generen campañas de sensibilización, tanto entre el alumnado como entre el profesorado, para promover los principios de acceso libre al conocimiento e interoperabilidad de plataformas y aplicaciones, principios que subyacen en la adopción de software libre y formatos y protocolos abiertos.
+
+
+**Concluimos:**
+
+  *C1. Que nuestro objetivo es impulsar la creación y el uso de software libre,  formatos y protocolos abiertos, y en general, el acceso libre a la cultura y al conocimiento, sin restricciones, como medio de promover el desarrollo cultural y profesional de las personas en nuestro entorno.
+
+===== Versión 0.1d =====
+
+En el siglo XXI los conocimientos y aplicaciones tecno-científicas, y más concretamente las del área de las tecnologías de información y comunicaciones, impregnan gran parte de la vida de la sociedad, y es creciente la dependencia del ser humano hacia las mismas.
+
+Todo conocimiento implica un poder de facto, unas veces con carácter más tácito y otras más explícito.
+
+A nivel mundial, las transferencias financieras y de recursos naturales desde el Sur hacia el Norte no fueron acompañadas de un flujo de conocimiento en sentido inverso. Ello ha causado y perpetúa una dependencia para el desarrollo en base a la explotación de la riqueza local, como es el caso del petróleo en Bolivia. En ocasiones, la subordinación al conocimiento externo lleva a escenarios catastróficos, como es la situación de algunos países de África donde la población muere por enfermedades sanables con fármacos indisponibles debido a las patentes creadas en el Norte.
+
+A nivel local y dentro del campo del software, constatamos una realidad en la que la cuota de mercado de unas pocas multinacionales extranjeras es muy alta. El elevado porcentaje de uso de sus productos desde hace aproximadamente dos décadas ha creado una gran dependencia cultural de personas, colectivos, empresas y organismos, y en el saber popular no hay más de dos o tres marcas al hablar de programas básicos como el sistema operativo, la ofimática, el navegador, u otros más avanzados como los lenguajes de programación o las bases de datos.
+
+Tales multinacionales constituyen un oligopolio sustentado en el código y los formatos cerrados que imposibilitan otras alternativas, así como en las patentes de software que frenan el desarrollo del conocimiento humano debido a la naturaleza propia de la evolución del software. Además, gracias al bajo coste marginal de este tipo de productos, el beneficio es enorme.
+
+Pero hoy en día existen ya alternativas libres y abiertas. Estas alternativas son impulsadas por el movimiento del software libre, originado en la década de los 70, cuya filosofía es licenciar software que se pueda usar, estudiar, adaptar, mejorar, y distribuir entre la comunidad de forma libre, sin incurrir en problemas legales. Además, a nivel económico conllevan un modelo de negocio viable y que propicia el desarrollo de empresas locales, de modo que el beneficio revierte más en la comunidad a la que pertenecen sus clientes, consumidores y usuarios.
+
+Desde la universidad, como entidad generadora de conocimiento, quisiéramos huir de la tecnocracia acrítica y de la visión de una tecno-ciencia supuestamente neutral, para reflexionar y asumir la conciencia de algunas cuestiones:
+
+    *La urgencia de resituar la ciencia y la tecnología al servicio de la persona, denunciando realidades perversas como es el caso del I+D para la destrucción humana (caso de la industria militar).
+    *La apuesta por modelos en los que la distribución de la riqueza sea más horizontal, y se potencie las empresas locales frente a las multinacionales extranjeras.
+    *El deber ético de compartir el conocimiento especialmente con quienes más puedan necesitarlo.
+
+Por todo ello desde itsas, grupo para la promoción del software libre dentro de la EHU/UPV, expresamos nuestra convicción de que:
+
+    *El software libre es un activo para la humanidad (más cuanto mayor sea su uso potencial), que va creciendo en el tiempo.
+    *El carácter público de nuestra universidad, y su lema “eman ta zabal zazu” interpretado como la necesidad de generar conocimiento (investigar) y compartirlo (enseñar y publicar), son coherentes con los principios del software libre.
+    *Los recursos financieros y humanos dedicados al software en esta universidad pública han de ser asignados con criterios en los que prime el software libre, auditable y no condicionante frente al privativo, y según los cuales la riqueza revierta en lo local en vez de ir al exterior.
+
+Queremos apostar por la creación, la formación y el uso del software libre, los formatos abiertos y en general, por la cultura libre y el conocimiento universal sin restricciones en ésta, nuestra universidad pública.
+
+Euskal Herriko Unibertsitatea / Universidad del País Vasco
+Diciembre 2006

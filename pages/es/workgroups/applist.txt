@@ -1,0 +1,17 @@
+====== Grupo de trabajo: Lista de aplicaciones ======
+
+  * **Objetivos:**
+    * Crear y mantener una lista de aplicaciones de software libre que sean de guía para la comunidad de la EHU/UPV.
+
+  * **Estado:** Iniciado. 
+
+  * **Plazos:**
+    * De enero 2007 a abril 2007.
+
+  * **Comisión:**
+    * [[oscar.dc0@gmail.com|Oscar Díaz]]
+
+  * **Metodología para la elaboración de la lista: **
+    * Se indaga acerca de las aplicaciones existentes que se usan en la EHU/UPV y de posibles alternativas a éstas.
+    * Se realiza una lista de aplicaciones candidatas para determinados campos y/o tareas, y se experimenta con cada aplicación propuesta.
+    * Por cada aplicación probada se escriben opiniones, comentarios y enlaces de interés. Incluso si es necesario se eliminarán de la lista aplicaciones que no cumplan con las necesidades requeridas.

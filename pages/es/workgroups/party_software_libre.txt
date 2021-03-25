@@ -1,0 +1,141 @@
+====== Grupo de trabajo: Partys de Software Libre 07 ======
+
+  * **Objetivos:**
+    * Organizar una //party// en la universidad con el objetivo de potenciar el uso de software libre en la Universidad del País Vasco.
+
+  * **Estado:** Iniciado. 
+
+  * **Plazos:**
+    * De febrero 2007 a diciembre 2007.
+
+  * **Comisión:**
+    * [[christian.pinedo.zamalloa@gmail.com|Christian Pinedo Zamalloa]]
+    * [[oscar.dc0@gmail.com|Oscar Daniel Díaz (dargor)]]
+    * [[manwe@aholab.ehu.es|Jon Bonilla]]
+    * [[aitor.cuartango@gmail.com|Aitor Cuartango]]
+    * //(¿más?)//
+
+
+===== Objetivos =====
+
+====Free Week====
+=== Mayo 2007 ===
+
+En mayo en Bellas Artes van a organizar unas jornadas Free Week, con el siguiente calendario provisional:
+  * Lunes 21
+    * Mañana. Introducción (web 2.0) e intercambio de música en el Hall.
+    * Tarde. Software Libre... Install Party. NOS.
+  * Martes 22
+    * Mañana. Taller de literatura colectiva.
+    * Tarde. Alternativas al copyright y SGAE. Proyección de documental.
+  * Miércoles 23
+    * Mañana. El Colectivo Abisal realizará una entrevista para charlar sobre la cultura libre, y a partir de ahí generarán un fancine.
+
+=== Hoja de ruta ===
+
+TBD
+
+=== Nuestra Participación ===
+
+TBD
+
+==== Jornadas de Moodle ====
+=== Junio 2007 ===
+
+El grupo iKide con el soporte del CIDIR está planificando unas jornadas sobre Moodle para profesores de la Universidad para junio. Se nos ha ofrecido la oportunidad de colaborar en el acto ofreciendo una charla inicial sobre Software Libre que permita explicar a los profesores los principios del Software Libre y su vinculación con Moodle.
+
+Es una buena oportunidad para potenciar el software libre entre el profesorado y a la vez dar a conocer a **itsas**.
+
+=== Hoja de ruta ===
+
+  - <del>Definir nuestra participación con el grupo iKide</del>
+    * Charla introductoria sobre el software libre
+  - <del>Fijar el calendario</del>
+    * 27 y 28 de Junio
+  - Asignar el responsable de **itsas**
+    * //¿Dani?//
+
+=== Nuestra Participación ===
+
+  - **Charla introductoria sobre el Software Libre**
+    * Temario: Principios e historia del software Libre. Explicación de forma amena de conceptos como GNU, Linux, libertades, ... Englobar Moodle dentro del movimiento del software libre.
+    * Fecha: ¿?
+    * Ubicación: ¿?
+    * Duración aproximada: ¿?
+    * Ponente: ¿?
+
+
+==== Jornadas de Software Libre del CIDIR ====
+=== Octubre 2007 ===
+
+El CIDIR se está planificando una //install party// de EHUX orientada al alumnado para mediados de octubre 2007.Es una buena oportunidad para potenciar el software libre entre el profesorado y a la vez dar a conocer a **itsas**.
+
+=== Hoja de ruta ===
+
+  - Nuestra participación con el CIDIR:
+En la reunión de Dani con los directores de los CIDIRes y el Vicegrrente de las TIC, se propone una organización conjunta ITSAS-CIDIR de las jornadas de EHUX.
+
+ - Las fechas son 4 jueves - 5 viernes de Octubre.
+ - Se dispone de salas y técnicos informáticos y de multimedia para ayudar en las jornadas. Así como de la Red wifi de la universidad.
+
+
+=== Programa Preliminar ===
+
+**JUEVES::Background e Install**
+
+9:00 - 9:30 Acreditación
+9:30 - 10:00   Inauguración  (Vicegerente de las TIC, director del CIDIR, alguien de ITSAS )
+Presentación  (Vicegerente de las TIC, director del CIDIR, alguien de ITSAS )
+
+10:00 - 10:30 Presentación de ITSAS. Charla sobre SL ...Manifiesto? o mejor decir algo breve sobre el manifiesto en la presentación? Se podría usar la charla de las conferéncias de Moodle y adaptarla un poco. Dani??
+
+10:30 - 11:00 Charla sobre Linux - Historia, GPL, Distros... Voluntarios??
+
+CAFE
+
+11:30 - 12:15 Charla informativa sobre Linux y Euskadi  (EUSKAL GNU, Iniciativas del Gobierno vasco, traducciones al euskera) "Que se cuece en Euskadi con el SL?"  Dooteo??
+
+12:15 - 13:00 Cómo usar SL en la UPV/EHU y no morir en el intento. Experiencias sobre el usao del SL en la EHU. Juanan??
+
+COMIDA
+
+15:00  INSTALL PARTY
+ Se hará una instalación de EHUX3 en pantalla gigante, seguida por quien quiera poner EHUX en su portátil, todo esto atendido por voluntarios y gente del CIDIR que ayudará con los problemas individuales de la gente. Voluntario para la instalación general??  voluntarios para ayudar a la gente??
+
+
+**VIERNES :: Talleres**
+
+9:30 - 10:00 Presentación de los talleres. Voluntarios??
+10:00 - 11:00 TALLERES
+CAFE
+11:30 - 12:30 TALLERES
+12:30 - 13:00 Clausura de las jornadas
+
+TALLERES:
+Aquí se pueden sugerir talleres de cosas que cada uno podríamos enseñar a usar:
+- digikam
+- OpenOffice
+- La Red
+- K3B
+- Gimp
+- Edición de Vídeo y Audio
+
+Voluntarios??
+
+===Más Ideas===
+
+....
+
+==== Jornadas itsas ====
+=== Julio 2007 ===
+
+En la reunión de itsas se presentó la idea de organizar unas jornadas con charlas similares a las del e-ghost o integradas con ellos.
+
+=== Hoja de ruta ===
+
+  - Discutir la posibilidad de organización de las jornadas
+  - Fijar el formato y fecha de las jornadas
+  - Call for presentations
+    * Solicitar presentaciones y ponentes
+    * Solicitar temás de interés 
+

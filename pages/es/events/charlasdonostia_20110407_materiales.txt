@@ -1,0 +1,2 @@
+  * [[http://jonan.org/charlas/index.html#20110407_kestrelhpc|Transparencias KestrelHPC]]
+  * [[http://jonan.org/charlas/index.html#20110407_gnome3|Transparencias Gnome 3]]

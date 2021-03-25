@@ -1,0 +1,152 @@
+Reunión 2010/03/06
+Lugar: irc.freenode.net canal #aka-es
+Asistentes: abeaumont (tarde), afiestas, apol, opositivo, pgquiles(marcha antes) y tsdgeos
+
+===== Orden del día =====
+
+  - Acabar web
+  - Política de privacidad
+  - Patrocinadores
+  - Mover web a KDE España
+  - Varios
+
+===== 1. Acabar web =====
+
+==== 1.1 Sección Inscripción ====
+
+opositivo ha realizado las siguientes sustituciones:
+
+  * 'Empresa (opcional)' por 'Empresa/Organización (opcional)'
+  * 'DNI' por 'Documento Oficial de Identidad'
+
+=== Validación DNI ===
+
+tsdgeos plantea la necesidad de la validación, puesto que el formato no es válido para documentos que no sean DNIs. Comenta la posibilidad de quitar la validación y añadir una nota al pie: "Es muy importante que el documento sea correcto para poder entrar al evento". \\ \\ 
+
+opositivo indica que de ese plugin se ha encargado Iñigo. En caso de ser posible, considera mejor que la validación se realice en función del tipo de documento, dando la opción de seleccionarlo. O incluso crear varios campos de los cuales sólo sea obligatorio rellenar uno, y que el formato dependa del campo. \\ \\ 
+
+Se decide comentarlo con Iñigo. Si puede cumplirse la propuesta de opositivo antes del domingo, se llevará a cabo. En caso contrario se pondrá la nota propuesta por tsdgeos. \\ \\ 
+
+==== 1.2 Sección Anuncio ====
+
+opositivo ha realizado las siguiente sustituciones:
+
+  * '¿Qué es Itsas?' por 'Información sobre Itsas'
+  * 'software libre' por 'Software Libre'
+
+=== ¿Qué es KDE? ===
+
+tsdgeos plantea que puede mejorarse la sección '¿Qué es KDE?'. La idea es que KDE es la gente, no el software. Propone el siguiente texto: http://pastie.org/857190 \\ \\ 
+
+pgquiles propone modificar la primera frase y escribir '...equipo multidisciplinar internacional...' en lugar de '...equipo internacional...'. Se acepta la propuesta. \\ \\ 
+
+pgquiles comenta que en las notas de prensa suele poner 'Sobre' en lugar de 'Información de'. Para no darle más vueltas, se decide dejarlo como está. \\ \\ 
+
+opositivo plantea añadir '(del mismo nombre)' tras '...para crear un entorno de escritorio...'. tsdgeos especifica que técnicamente el escritorio ya no se llama KDE. Ante el desacuerdo sobre cuál es el nombre de éste, se opta por no ponerlo.
+
+=== Información sobre KDE España ===
+
+apol propone extender la definición de KDE España. tsdgeos indica que ya está el enlace a la web, además de que los 'sobre' no los lee casi nadie. opositivo opina que lxs visitantes seguramente utilizarán el enlace en lugar de leer la descripción. Se decide dejarlo como está.
+
+=== Traducciones ===
+
+opositivo pregunta si se van a realizar traducciones completas de toda la página. Se decide que que sólo se traducirá por completo a euskera. El anuncio, sin embargo, estará en castellano, euskera, inglés, catalán y gallego. \\ \\ 
+
+tsdgeos pregunta cómo hacerlo. opositivo indica que se añadirán enlaces en la parte superior del artículo.
+
+==== 1.3 Compatibilidad con navegadores ====
+
+tsdgeos ve que la web se ve mal con Konqueror, el logo de arriba no está bien posicionado con el resto de la web. opositivo se responsabiliza de mirarlo.
+
+==== 1.4 Home ====
+
+tsdgeos indica que ve 'una página rara'. opositivo aclara que la sección 'Modificaciones' la ha utilizado el grupo de desarrollo para comunicarse, no estará cuando se publique la web. \\ \\ 
+
+opositivo pregunta por el plugin de twitter. tsdgeos indica que su único 'pero' es que no es software libre, mientra que identi.ca sí lo es. opositivo aclara que no hay plugin disponible para integrar identi.ca en dokuwiki y se ve incapaz de adaptar el existente para que funcione. Como hay varios usuarios que utilizan twitter, y otros que, pese a utilizar identi.ca publican automáticamente en twitter también, se decide dejar el plugin. \\ \\ 
+
+opositivo pregunta si se va a aladir algún contenido a la home. tsdgeos propone un texto corto con enlaces a las secciones más importantes: anuncio, inscripción, CFP, etc. Enlaza como ejemplo la home de Akademy-es 2008(http://www.kde-espana.es/akademy-es2008/). opositivo se responsabiliza de redactarlo y publicarlo.
+
+==== 2. Política de privacidad ====
+
+tsdgeos comenta que él envió una propuesta de tres puntos (http://pastie.org/857208) e Iñigo una "de esas que da miedo" (http://pastie.org/857209). opositivo propone mostrar ambas, la de tsdgeos como resumen y la de Iñigo por si alguien quiere leer el texto completo. \\ \\ 
+
+tsdesgeos pregunta, en relación con el texto de Iñigo, si utilizamos cookies. Ninguno de los asistentes lo sabe. \\ \\ 
+
+tsdgeos indica que la sede social de KDE España es la siguiente: \\ \\ 
+
+KDE-España 
+Càtedra de Programari Lliure de la UPC 
+Escola Politècnica Superior d'Enginyeria de Manresa 
+Av. Bases de Manresa nº 61-73 
+08242 Manresa \\ \\ 
+
+pgquiles comenta que quitaría 'continuo' de 'Su uso continuo de cualquier porción...' ya que el uso del sitio implica aceptar todo. \\ \\ 
+
+tsdgeos comenta el 'dolor' de traducir todo el texto a euskera. opostivo indica que si nos da tiempo lo hacemos, si no, se enlaza y lo hacemos más adelante. Apunta que nunca viene mal tener algo así ya traducido. \\ \\ 
+
+pgquiles comenta que en la política de privacidad hay que poner el número de registro del fichero en la AGP. Como todavía no lo tenemos, indica que basta con poner 'los datos serán incorporados a un fichero propiedad de KDE España, con número (en trámite)'. \\ \\ 
+
+Ante la duda de opositivo, pgquiles indica que regitro implica decir dónde (físicamente) va a estar el fichero y quién lo custodia. Dice también que lo normal es que 'el marrón se lo coma' apol, como secretario. \\ \\ 
+
+pgquiles infica que si no tienes política de privacidad alguna, se entiende que no has hecho nada al respecto. Si la tienes, y no registras el fichero, estás cometiendo negligencia, así que es más grave. \\ \\ 
+
+opositivo pregunta si nos supone mucho esfuerzo hacerlo bien. pgquiles responde que no, no supone apenas esfuerzo, sólo hay que tener cuidado con quién custodia el fichero y dónde se almacena. \\ \\ 
+
+pgquiles indica que su hosting de VPSLink NO cumple los requisitos para almacenarlo (no cumple el acuerdo de puerto seguro). afiestas comenta que puede conseguir un servidor temporal sin mucho esfuerzo, si se necesita. \\ \\ 
+
+//pgquiles abandona la reunión// \\ \\ 
+//llega abeaumont a la reunión// \\ \\ 
+
+tsdgeos comenta que es mejor no registrarlo ni poner política de privacidad, ya que "somos unos negados con el papeleo" y es mejor no hacerlo que hacerlo mal o tarde. \\ \\ 
+
+Se decide no hacer nada al respecto y retirar los enlaces de la página de inscripción.\\ \\ 
+
+==== 3. Patrocinadores ====
+
+Se plantea el desconocimiento/desacuerdo general sobre los tipos de patrocinio y su aplicación práctica. \\ \\ 
+
+Nota de opositivo: como con esto hemos dado bastantes vueltas, voy a poner directamente las conclusiones. Si alguien quiere más información al respecto, puede plantearlo en la lista. \\ \\ 
+
+opositivo se responsabiliza de actualizar esta información en la wiki de Itsas. \\ \\ 
+
+== Todos los patrocinadores ==
+
+Aparecerán en la sección 'Patrocinadores' de la web y en el material promoiconal. El tamaño y orden del logo dependerá de su 'categoría'.
+
+== Silver Sponsor ==
+
+- 200€
+
+== Social Event Sponsor ==
+
+- 300€
+- Aparece también en la sección 'Programa Social'
+
+== Gold Sponsor ==
+
+- 500€
+- Aparece también en el footer de la página
+- Su logotipo será más grande y aparecerá antes que los 'Silver Sponsor' en la sección 'Patrocinadores' y en el material promocional
+
+== Platinum Sponsor ==
+
+- 1200€
+- Aparece también en el footer de la página
+- Su logotipo será más grande y aparecerá antes que los 'Gold Sponsor' en el footer
+- Su logotipo será más grande y aparecerá antes que los 'Gold Sponsor' en la sección 'Patrocinadores' y en el material promocional
+- Posibilidad de charla en horario preferente si está relacionada con KDE, Qt, entornos de escritorio libres
+
+==== 4. Mover web a KDE España ====
+
+tsdgeos pregunta a opositivo si considera que merece la pena mover la web ahora o más adelante, de cara a probar el tema de las suscripciones. opositivo responde que, debido a que hay que terminar cosas del formulario de inscripción y mirar la compatibilidad con Konqueror, mejor terminar de desarrollarla donde está. Se decide poner como fecha límite la noche del domingo 7 de marzo para mover la web.
+
+==== 5. Varios ====
+
+afiestas pregunta si las charlas serán grabadas. opositivo comenta que el aula está preparada para ello, por lo que da por supuesto que se hará, ya que de otro modo no tendría sentido utilizar ese aula en concreto. Desconoce si se ofrecerá la posibilidad de streaming. tsdgeos indica que no es necesaria la posibilidad de streaming, ya que no es espera que mucha gente lo siga y podrán ver las charlas varios días después. \\ \\ 
+
+
+abeaumont pregunta cuándo podrá publicitarse el evento. Se decide que el martes. Se decide enviar collejas cibernéticas a aquellas personas que no cumplan con el 'silencio administrativo'. \\ \\ 
+
+opositivo pregunta si se debe hacer alguna referencia a las ayudas a ponentes y asistentes en la web. tsdgeos comenta que, dado el 'fracaso' en la búsqueda de patrocinadores, no merece la pena publicitarlo mucho. Se decide no hacer mención. En caso de mejorar la financiación, ya se decidirá más adelante. \\ \\ 
+
+opositivo menciona la falta de actualización de la sección de patrocinadores en la wiki de Itsas. Nota de opositivo: agradecería que las personas encargadas actualizarais el estado, aunque sea poniendo 'No he obtenido respuesta'.

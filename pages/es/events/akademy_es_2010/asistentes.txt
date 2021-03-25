@@ -1,0 +1,91 @@
+^N^Nom Ap               ^Cena V^Comida S^Cena S^Comida D^Vegeta^ACK comidas^Pagado^ACK pago|
+|1|Agustín Benito Bethencourt|0|1|1|1|0|1|-15|A devolver por ponente|
+|1|Albert Astals Cid| 1 | 1 | 1 | 1 | 0 | 1 |0| ponente |
+|1|Alberto Alvarez Retuerto|0|0|0|0|0|1|0| - |
+|1|Aleix Pol Gonzalez|1|1|1|0|0|1|0| ponente |
+|1|Alejandro Fiestas Olivares|1|1|1|1|0|1|0| ponente |
+|0|Alexandra Ortiz de Zárate Aránguiz| | | | | | | | |
+|1|Alfredo Beaumont|1|1|1|1|0|1|0| ponente |
+|0|Álvaro Villalba Navarro| | | | | | | | |
+|1|Angel Abad Contreras|1|1|1|1|0|1|20|1|
+|1|Antonio Larrosa Jiménez|1|1|1|1|0|1|20| 1 |
+|1|Aritz Legarretaetxebarria Torrealday|0|1|0|0|0|1|5| 1|
+|0|Arkaitz Lira Luque| | | | | | | | |
+|1|Baltasar Ortega Bort|0|1|1|1|0|1|0| ponente |
+|1|Borja Tornero Álvarez|0|1|0|0|0|1|5|paga en mano|
+|1|Christian Pinedo Zamalloa|1|1|1|1|0|1|20 |1 |
+|1|Cristian González Otero|1|0|0|0|0|1|5|1 |
+|0|dabid martinez perez| | | | | | | | |
+|1|Daniel López López|0|1|1|1|0|1|15| |
+|1|David Barahona Ruiz|0|0|0|0|0|0|0| - |
+|1|Denis Sánchez Argoitia|0|0|0|0|0|0|0| - |
+|1|Digna María González Otero|1|1|1|1|0|1|20|1 |
+|1|Eduardo Robles Elvira|1|1|1|1|0|1|0|1|
+|1|Eduardo San Rufo Ecay|0|1|1|0|0|1|10 |1|
+|1|Emet-Jon Velasco|1|1|1|1|0|1|20|paga en mano|
+|0|Endika Gutiérrez Salas| | | | | | | | |
+|1|Estanis Bardeci Mulas|0|0|0|0|0|1|0| - |
+|0|eunate ramirez de miguel| | | | | | | | |
+|1|F. Javier Aguirre Iglesias|1|1|1|1|0|1|20| 1|
+|1|Gorka J. Palacio Arko|1|0|1|1|0|1|15|1 |
+|1|Gorka Prieto Agujeta|1|1|1|0|0|1| 15 |1|
+|1|HÉCTOR OLMEDO RODRÍGUEZ|0|0|0|0|0|0|0| - |
+|1|Igor Lopez Orbe|0|0|0|0|0|1|0| - |
+|1|Iker Sagasti Markina|0|1|1|0|0|1|10| |
+|1|Iñigo Alonso Fernández|0|0|0|0|0|1|0| - |
+|1|Iñigo García Merino|1|1|1|1|0|1|20|1|
+|0|Jaroslaw Filiochowski Dziegielewski| | | | | | | | |
+|1|Javier Ortega Conde|1|1 |1 |1 |0 |1 |20 |1 |
+|1|Javier Quintano Merino|1|1|1|1|0|1|20|0|
+|0|Javier Rodriguez Fernandez| | | | | | | | |
+|1|Jon Ander Hernández Pradera|0|1|0|0|0|1|5|1 |
+|0|Jon Ander Peñalba Esteban| | | | | | | | |
+|1|Jon de Andres Frias|0|1|0|0|0|1|5|1 |
+|1|jONE UNZUETA CRESPO|0|0|0|0|0|0|0| - |
+|1|Jorge Acosta|0|0|0|0|0|1|0| - |
+|0|Jorge Conde García| | | | | | | | |
+|1|Jose Luis López de Ciordia|0|0|0|0|1|0|0| - |
+|1|Joseba Martos Sánchez|0|0|0|0|0|1|0| - |
+|1|Jose Daniel Gutiérrez Porset|1|1|1|1|0|1|0| |
+|0|JOSE LUIS TEJEDOR VICENTE| | | | | | | | |
+|0|Jose Malanda Uriarte| | | | | | | | |
+|0|JOSE MANUEL SAMPAYO FERNANDEZ| | | | | | | | |
+|1|José Manuel Santamaría Lema|1|1|1|1|0|1|20|1 |
+|0|JOSE MARIA RODRIGUEZ MARTINEZ| | | | | | | | |
+|1|José Millán Soto|1|1|1|1|0|1|20|1 |
+|1|Josep Maria Ferrer Puigdomenech|0|1|0|0|0|1|5|1 |
+|0|Josu Gil Arriortua| | | | | | | | |
+|1|Juan Felipe Mogollón Rodríguez|0|1|0|0|0|1|5| 1|
+|1|Juan Miguel Galán Gómez|1|1|1|1|0|1|20|1|
+|0|Jurgi Agilar| | | | | | | | |
+|0|Kepa Arrutia López| | | | | | | | |
+|1|MªAmparo Edo Claramonte|0|1|1|1|0|1|15|1 |
+|1|Marcos Dione|1|1|1|1|0|1|20|paga en mano|
+|0|Maria Montañes Climent| | | | | | | | |
+|0|Marta Gil Estremiana| | | | | | | | |
+|0|Marti Ferrer Montañes| | | | | | | | |
+|0|Miguel Zubiaga Olabarria| | | | | | | | |
+|0|Mikel Carmona Mendez| | | | | | | | |
+|0|Mikel Olasagasti| | | | | | | | |
+|1|Miquel Canes Gonzalez|0|1|1|1|0|1|15| |
+|1|Oier Mees|0|1|0|0|0|1|5|1 |
+|1|Olaiz Ríos Velasco|0|0|0|0|0|1|0| - |
+|1|Oscar Daniel Díaz Castillo|0|1|1|1|0|1|15|1|
+|0|oscar macho real| | | | | | | | |
+|0|Oscar Martinez Llobet| | | | | | | | |
+|1|Paulo Omaetxebarria Ibarra|0|0|0|0|0|1|0| - |
+|1|Phillipe Domínguez Antigüedad|0|1|1|0|0|1|10|Paga en mano|
+|1|Rafael Fernández López|1|1|1|1|0|1|-20|Ha pagado pero se le devolverá|
+|0|RAMON POMBO ALONSO| | | | | | | | |
+|0|Raúl Amigorena Eguíluz| | | | | | | | |
+|1|Raúl Sánchez Siles|1|1|1|1|0|1|20|1 |
+|1|Ruben Egiguren Vila|0|0|0|0|0|0|0| - |
+|1|Sandra Salinas Calle|1|1|1|1|0|1|20|1|
+|1|Ugaitz Gondra Urrutia|1|1|1|1|0|1|20|paga en mano|
+|1|Unai Martinez Corral|1|0|1|0|0|1|10| 1|
+|1|Victor Blazquez Francisco|0|1|1|1|0|1|15|1 |
+|0|Victor Martinez Bahillo| | | | | | | | |
+|1|Xabier Rodríguez Rodríguez|0|1|0|0|0|1|5| |
+|0|Xandra Gomez Sabugal| | | | | | | | |
+|1|Xavier Gonzalez del Aguila|0|1|1|1|0|1|-15|Ha pagado pero se le devolverá|
+|0|zuzen de la cueva ayestaran| | | | | | | | |

@@ -1,0 +1,43 @@
+======Difusión======
+
+===== Difusión mediática y propaganda =====
+  *Programa @Bildua (Unai)
+  *Programa [[http://enredando.euskadigital.net/|Enredando]] de [[http://euskadigital.net/|Euskadi Digital]] (100.4 FM Bilbao). Se ha hecho propaganda del evento y se hará una entrevista y quizás emisión de alguna de las charlas en directo o diferido.
+
+
+
+===== Coordinación interna =====
+
+Herramientas de coordinación interna, para informar sobre novedades, cambios en el programa, ... y generar debate y participación.
+
+Métodos abiertos/participativos:
+
+  * Twitter
+    * Anuncios oficiales de la organización: [[http://twitter.com/AkademyEs2010|usuario AkademyEs2010]]
+    * Discusión general sobre la Akademy: [[http://twitter.com/#search?q=%23AkademyEs2010|etiqueta #AkademyEs2010]]
+  * Facebook
+    * [[http://www.facebook.com/event.php?eid=110591358981743|Evento de la Akademy-es 2010]]
+
+
+Métodos cerrados:
+
+  * Lista de correo de la organización
+  * Lista de correo de los participantes a la Akademy-es 2010
+
+El más clásico:
+
+  * Un par de gritos en la sala de charlas
+
+===== Apariciones en medios =====
+  *Tablones de la UPV/EHU
+  *http://zuzeu.com/2010/05/04/kde-akademy-2010-bizkaiko-hiriburuan/
+  *http://www.elmundo.es/elmundo/2010/05/07/paisvasco/1273247649.html
+  *http://www.eitb.com/noticias/tecnologia/detalle/414186/akademy-es-2010-se-celebra-este-fin-semana-bilbao/
+  *http://www.bizkaiaformacion.com/blog/Formacion/software-libre-503.html
+  *http://www.hoytecnologia.com/noticias/expertos-software-libre-bilbao/171110
+  *http://www.zaraobedigital.com/v3/index.php?option=com_content&view=article&id=10495:expertos-en-software-libre-de-todo-el-estado-se-reunen-este-fin-de-semana-en-bilbao&catid=42:bizkaia&Itemid=37
+  *http://otxarkoaga.es/?p=3639
+  *http://asturix.com/es/noticias/64-akademy-es-2010.html
+  *http://www.meneame.net/story/comenzo-la-akademy-es-2010
+  *http://www.thedeveloperchronicles.com/linux/comenzo-la-akademy-es-2010
+  *http://www.softwarelibre.net/comenzó_la_akademyes_2010

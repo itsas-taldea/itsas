@@ -1,0 +1,62 @@
+====CURSO DE INTRODUCCIÓN AL SOFTWARE LIBRE====
+===UPV-EHU 2009/2010 (1)===
+
+Curso promovido por Gestión Cultural de Bizkaia e Itsas. 
+Duración: 15 horas en 5 sesiones de 3 horas en un día a la semana
+
+==ÍNDICE==
+
+__1ª sesión:__
+
+  *Presentación del curso y de Itsas.
+  *Inquietudes de los alumn@s, origen, interés etc...
+  *Conceptos básicos:
+    *Qué es software
+    *Qué es libertad
+    *las 4 libertades del software libre
+    *Hª del software libre
+
+  *Licencias de software
+  *Formatos y standares
+
+__2ª sesión:__
+
+  *Qué es el sistema operativo.
+  *GNU/Linux vs. otros S.O. - GNU/Linux sistema operativo libre.
+  *Distribuciones de Linux
+  *Instalación de GNU/Linux
+    *Descarga de la distro y grabación de la ISO.
+    *Arranque desde el CD.
+    *Asistente de instalación
+      *Comprendiendo el particionado.
+      *Gestor de arranque, arranques duales.
+      *pantallas del wizard...
+
+__3ª sesión:__
+
+  *Uso del sistema operativo libre U(K)buntu
+  *Escritorio
+    *conceptos de kernel+sistema gráfico+entorno de ventanas+escritorio Gnome, KDE, Xfce etc...
+    *manejo del escritorio
+      *menús/zonas del entorno principales
+      *configuraciones del escritorio y sistema, preferencias, "panel de control" ...
+  *instalación de software, sistema de paquetes (deb, rpm, tar ...), uso de paquetes Deb, apt, aptitude, synaptic, etc...
+  *repositorios, ramas, actualizaciones, ciclos de vida...
+  *la línea de comandos, importancia, comandos básicos
+  *privilegios, usuarios, el usuario root...
+  *jerarquía del sistema de ficheros, /, /bin, /home, /etc, /...
+
+__4ª sesión:__
+
+  *Formatos y standares que solemos usar.
+  *Aplicaciones libres también en otros S.O.
+  *Uso de principales aplicaciones en GNU/Linux para el user de escritorio
+    *Ofimática
+    *Internet
+    *Multimedia
+
+__5ª sesión:__
+
+  *Más recursos
+  *Dudas
+  *Ejercicios prácticos de la vida real.

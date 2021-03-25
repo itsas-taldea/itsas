@@ -1,0 +1,6 @@
+==== Presentación Itsas  ====
+Presentación de Itsas utilizada en la charla de Noviembre de 2010. Licencia CC by-sa{{:contribs:itsas.pdf|}}
+
+=== PDF y fuentes LaTeX beamer: ===
+  - {{{{:contribs:itsas.pdf|}}
+  - {{:contribs:presentacionitsas_1.zip|}}

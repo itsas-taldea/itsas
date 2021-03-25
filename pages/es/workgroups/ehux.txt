@@ -1,0 +1,20 @@
+====== Grupo de trabajo: Reflexiones sobre EHUX ======
+
+  * **Objetivos:**
+    * Abordar el tema de la distribución EHUX y realizar un escrito con nuestras conclusiones sobre dicho proyecto.
+    * Se pretende empezar desde cero en su valoración y aportar argumentos válidos sobre su metodología de trabajo, el tipo de contrato, aportación del proyecto, etc.
+
+  * **Estado:** No iniciado. 
+
+  * **Plazos:**
+    * De ??? ??? a ??? ???.
+
+  * **Comisión:**
+    * //Por decidir...//
+
+
+
+===== Metodología del proyecto =====
+
+  * Debate en la lista **itsas-core** sobre EHUX, ¿qué debería ser y qué debería dejar de ser?
+  * Redacción de un documento con las conclusiones: [[workgroups:ehux:reflexiones||Reflexiones sobre EHUX]]

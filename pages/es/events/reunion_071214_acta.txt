@@ -1,0 +1,72 @@
+====== Acta de la reunión de itsas 14-12-2007 ======
+Viernes 14-dic-07, 17:00
+*Campus de Gipuzkoa: Sala de videoconferencia - Edificio Korta (sótano), Donostia
+*Campus de Bizkaia: Sala de videoconferencia - Esc. Técnica Superior de Ingeniería, Bilbao
+
+Asistentes: 20 personas
+
+
+===== 1. Información de acciones en curso =====
+
+==== Cursos de formación en moodle y en gnu/linux ====
+Ainhoa ha impulsado unos cursos de formación relacionados con el software libre para el profesorado a través del SAE. Concretamente:
+  * Moodle: introducción (euskera y castellano), y en Gipuzkoa avanzado (euskera y castellano). Impartidos por ikide.
+  * Introducción al sw libre (castellano). Impartidos por varias personas de itsas.
+Se darán en los tres herrialdes, tanto en febrero como en junio, y tendrán duración de 8 horas cada uno.
+Se indica el interés de dar algún contenido en los cursos de verano, pero el plazo se ha cerrado recientemente. Por otra parte, Ignacio comenta que en Sarriko se hizo un curso de introducción a gnu/linux, y hubo unas 10 personas interesadas. Ha pensado en dar algún curso de análisis de datos con sw libre.
+Siguiendo con el espíritu de compartir el conocimiento, estaría bien que quienes den los cursos dejen públicos los materiales.
+
+== Compromisos: ==
+  *Mantener o ampliar nuestra disposición con el SAE a futuro.
+  *Estar al tanto de otras convocatorias, ej. cursos de verano.
+  *Dar los cursos en castellano y también en euskera.
+
+
+
+
+
+==== Relaciones con el CIDIR ====
+Juanan, Aitor y Dani informan de los temas que se están tratando con el CIDIR de Gipuzkoa, que es nuestro interlocutor hacia la Vicegerencia de TICs de la universidad, .
+Respecto a la **organización de un encuentro CIDIR-itsas**, puede ser de interés invitar a otras universidades, además por supuesto de Deusto y Mondragón. Hay que planificarlo para que no coincida con otro encuentro que se está organizando (ver apartado de bilgune sw libre 2008 más abajo).
+Colaboración desde itsas para pruebas de **compatibilidad de hardware de la universidad con gnu/linux**: se considera que la homologación debería ser principalmente tarea de personal del CIDIR.
+Se informa de que en los equipos nuevos con Windows se está instalado un plugin para el Microsoft Office de modo que pueda abrir documentos OpenOffice.
+== Compromisos: ==
+  *Seguir informando de lo que se trate en las reuniones, y colaborando en el momento que se vea necesario
+
+==== Moodle ====
+Tras el éxito de la jornada celebrada en el 2007 se va a hacer un evento moodle para el profesorado en Mondragón hacia abril-mayo de 2008.
+Dentro de la UPV-EHU se ven dificultades para impulsar moodle (ej. foro de profesores), algunas relacionadas con el campus virtual y ekasi.
+== Compromisos: ==
+  *Sumarnos a propuestas y campañas que pueda hacernos el grupo impulsor de moodle, ikide
+
+
+
+
+==== Congreso o bilgune sw libre 2008 ====
+Entre ESLE, Fomento de San Sebastián, GISA y universidades varias se está preparando un encuentro para abril o mayo de 2008, que tiene los objetivos de difundir el software libre en distintos ámbitos sociales, económicos, educativos y políticos.
+== Compromisos: ==
+  *Seguir informando de lo que se trate en las reuniones, y colaborando en el momento que se vea necesario
+
+===== 2. Próximas acciones =====
+
+
+==== Oficialización de itsas como asociación ====
+Se comenta la posibilidad de oficializar itsas dentro de la universidad, constituyéndonos como  asociación. Las ventajas serían que tendríamos más representatividad oficial, podríamos acceder a subvenciones, y si se dan cursos podría haber créditos.
+Se ven pegas, ej. que la gente se acerque sólo por los créditos (para los créditos de libre elección en pro del sw libre se comenta la modalidad de plantear trabajos dirigidos), efectos colaterales de disponer de dinero,...
+No se considera algo prioritario: mejor invertir nuestras energías en dar charlas o en que más gente se sume.
+A pesar que no hay consenso tampoco se da el tema por cerrado.
+== Compromisos: ==
+  *Juanan: mirar los pasos a dar para constituirnos como asociación.
+  *Debatir en la lista si asociarnos o no.
+
+
+==== Ampliación de itsas ====
+Se ve importante que itsas se amplíe, especialmente con alumnos y alumnas.
+== Compromisos: ==
+  *Pasar 10 minutos al inicio de las presentaciones en el segundo cuatrimestre para explicar qué es itsas y animar a la gente a que se apunte.
+  *Potenciar los Proyectos de Fin de Carrera relacionados con sw libre.
+  *Dar una charla al mes a partir de enero o febrero, al menos en las escuelas y facultades relacionadas con TICs.
+
+
+
+Y sin más cuestiones, se levanta la sesión deseando un 2008 lleno de éxitos para el software libre.

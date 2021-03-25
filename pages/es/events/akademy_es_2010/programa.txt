@@ -1,0 +1,80 @@
+====== Programa ======
+=====Viernes=====
+  *17:00 Acreditación. Entrega de kit de bienvenida (bolsa ayuntamiento, material Euskaltel, CD de Kubuntu,...)
+  *18:00 Apertura. ¿Xabier Arrieta?
+
+  *18:15-19:05 Charla: //Viejas y nuevas tecnologías KDE: KIO, KWallet, KConfig XT vs Nepomuk, Akonadi, Plasma, Phonon// - Alex Fiestas
+  *19:15-20:05 Charla //Estrategias de migración del escritorio Windows hacia Linux: KDE for Windows// - Dani Gutiérrez
+
+  *21:00 Salida del barco "Euskal Herria" desde el muelle del museo marítimo
+  *23:00 Llegada al Ayuntamiento de Bilbao, ¿Tech-trivial en la Ekoetxea?
+=====Sábado=====
+  *9:30-10:20 Charla: //Introducción a Qt// - Aleix Pol
+  *10:30-11:20 Charla: //Clutter// - Alfredo Beaumont
+  *11:20-11:40 Coffe break
+  *11:40-12:30 Charla: //Qt Quick// - Alex Fiestas
+  *12:40-13:30 Lightning talks 1 (Talk y Kanban, Ideal Library, BugBuster, KDE l10n, localización de KDE para euskera)
+  *13:30-15:30 Comida (14:30-15:30 Asamblea KDE España)
+  *15:30-16:20 Charla: //Herramientas de Valgrind// - Albert Astals
+  *16:30-17:20 Charla: //KDevelop 4.0// - Aleix Pol
+  *17:20-17:40 Coffe Break
+  *17:40-18:20 Charla: //Spokify// - Rafa Fernández
+  *18:30-19:10 Charla: //Cifrado de punto a punto en HTML5 con KHTML// - Eduardo Robles
+  *19:10-20:00 Lightning talks 2 (BlueDevil, Kamoso, Kalgebra, Okular, plugins para okular)
+  *21:00 Cena de friki-confraternización en el Hika Ateneo.
+  *22:30 Espectáculo musical.
+
+=====Domingo=====
+  *9:30-10:20 Charla //Desktop4ALL, acceso a escritorios a través de clientes ligeros// - Xavier González
+  *10:30-11:20 Charla //KDE como opción de escritorio para la empresa// - Agustín Benito
+  *11:20-11:50 Coffe break/Signing party
+  *11:50-12:40 Charla //KDE SC 4.4// - Baltasar Ortega
+  *12:50-13:40 Charla //KDE España// - Rafa Fernández, Albert Astals
+  *14:00 Pintxos por el Casco viejo.
+
+=====Pendientes de meter=====
+   *Documental "Patent absurdity" (30 min)
+  * Fiesta de firmas PGP
+      * [[pgp_planning|Planning]]
+      * [[pgp_web|Boceto de la página web]] del evento para la página oficial de Akademy-es
+      * [[pgp_email|Email]] de anuncio del evento en la lista de correo de participantes a la Akademy-es
+  * Fiesta CAcert 
+      * Planning
+      * Boceto de la página web del evento para la página oficial de la Akademy-es
+
+
+
+
+
+====== Propuestas de Charlas ======
+=====Charlas/Presentaciones/Ponencias=====
+^Fecha recepción^Persona^Tema|
+|10-04-17|Eduardo Robles|Cifrado de punto a punto en HTML5 con KHTML|
+|10-04-16|Alex Fiestas|Qt Quick|
+|10-04-16|Alex Fiestas|Viejas y nuevas tecnologías KDE: KIO, KWallet, KConfig XT vs Nepomuk, Akonadi, Plasma, Phonon|
+|10-04-15|Aleix Pol|Introducción a Qt|
+|10-04-14|Aleix Pol|KDevelop 4.0|
+|10-04-14|Agustín Benito|KDE como opción de escritorio para la empresa|
+|10-04-14|Baltasar Ortega|KDE SC 4.4|
+|10-04-14|Alfredo Beaumont|Clutter|
+|10-04-13|Albert Astals|Herramientas de Valgrind|
+|10-04-12|Dani Gutiérrez|Estrategias de migración del escritorio Windows hacia Linux: KDE for Windows|
+|10-04-11|Rafa Fernández, Albert Astals|KDE-España|
+|10-04-11|Rafa Fernández|Spokify|
+|10-03-30|Xavier Gonzalez|Desktop4ALL, acceso a escritorios a través de clientes ligeros|
+|10-03-21|Pedro Sánchez|KRAV, entorno de detección del fraude en Banca Electrónica|
+|10-03-25|Deni Sánchez|Linux en el mundo de la investigación: 1) en el mundo de la robótica en un entorno de Tiempo Real. 2)software para cluster desarrollado en el CEIT|
+
+
+=====Lightning talks=====
+^Fecha recepción^Persona^Tema|
+|10-04-16|Alex Fiestas|BlueDevil, nuevo stack de Bluetooth para KDE|
+|10-04-16|Alex Fiestas|Kamoso|
+|10-04-14|Alfredo Beamount|localización de KDE para euskera (ver charla KDE l10n)|
+|10-04-14|Aleix Pol|Talk y Kanban|
+|10-04-14|Aleix Pol|Kalgebra|
+|10-04-13|Albert Astals|Plugins para Okular|
+|10-04-13|Albert Astals|Okular|
+|10-04-13|Albert Astals|KDE l10n|
+|10-04-11|Rafa Fernández|Ideal Library|
+|10-04-11|Rafa Fernández|BugBuster|

@@ -1,0 +1,39 @@
+====== Tech TODO ======
+
+Aspectos pendientes para mejorar el wiki. En caso de querer añadir un comentario se sugiere usar una subentrada y poner la firma (último icono de la barra de herramientas de texto). Ejemplo:
+<code>
+  * Poner alineación justificada para el texto básico.
+    * Yo pondría justificada siempre.  --- //Pepe Sánchez (09-12-2006 18:43)//
+</code>
+
+
+===== Aspecto =====
+
+  * Hacer que el "note" (plugin que genera notas de color) sea más ancho o que, de alguna forma, aparezca claramente separado del anterior encabezamiento (cuando proceda). Ej. en participate
+
+  * Logotipo con ballena o el que se decida.
+
+  * Retocar algunos CSS, por ejemplo el de los resultados de búsquedas (no deja separación entre párrafos) y el de login.
+
+  * Reportar un error al auto del plugin "note" ya que genera un </p> al dejar una línea en blanco.
+
+===== Contenido =====
+
+  * Bilingüismo (se deja para más adelante).
+
+  * Crear un IWG para %%FAQ%%.
+
+  * Añadir una sección "Ideas y propuestas" que albergaría ideas que surgen en la lista y demás medios. El objetivo sería disponerlas en una nueva sección "workgroups/ideas_and_proposals" para constituir en el futuro un IWG.
+
+
+===== Varios =====
+
+  * Plugins de interés:
+    * Mostrar carpetas
+    * Crear páginas
+      * **Iñaki:** Realmente no tiene sentido crear una carpeta, ya que Dokuwiki borra cualquier carpeta que esté vacía. Lo correcto es crear una página directamente en una carpeta (aunque no exista todavía). 
+
+  * Taggear recursos (wiki web 2.0).
+    * **Iñaki:** Se propone una aplicación web de gestión de contenidos que se acoplará al wiki próximamente.
+
+  * Pedir direcciones de correo: itsas@list.ehu.es  info@itsas.ehu.es

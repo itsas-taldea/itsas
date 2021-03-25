@@ -1,0 +1,19 @@
+====== Nor gara ======
+
+
+**itsas** unibertsitate mailan **software librea**, **estandar irekiak** eta **kultura librea**ren idealak **bultzatu** nahi dituen //UPV/EHU-ko Software Libre Taldea// dugu.
+
+Ideiok //**[[/manifest|adierazpen]]**//ean bildu ditugu.
+
+Talde heterogeneoa dugu, fakultate ezberdinetan zehar banatutako kideak dituena, eta unibertsitateko estamentu ezberdinekoak direnak (irakasleak, ikertzaileak, ikasleak, etab.). UPV/EHU kanpoko kideak ere badaude gure artean.
+
+Taldearen izaera guztiz irekia da, eta gure ongi etorria du [[participate|laguntzera]] datorren edonor, laguntzera eta aipatutako idealak gure unibertsitatean bultzatzera.
+
+**itsas** osatzen dugun **pertsona eta taldeen mapa** sortzen ari gara. Kanporuntz **itsas**en aniztasuna ezagutzera emateaz gain, honen helburua non gauden jakitea dugu. Bilaketa lana errazagoa izan dadin, mapa lau ataletan batu dugu:
+
+  * [[/map_alava|Arabako Campusa]]
+  * [[/map_bizkaia|Bizkaiko Campusa]]
+  * [[/map_gipuzkoa|Gipuzkoa Campusa]]
+  * [[/map_others|Beste erakundeak: unibertsitateak, enpresak...]]
+
+Anima zaitez eta  eta [[/participate|parte hartu]]!

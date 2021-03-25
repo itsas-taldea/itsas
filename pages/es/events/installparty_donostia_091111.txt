@@ -1,0 +1,31 @@
+===== Install Party / Donostia =====
+
+Aprovechando el lanzamiento de las últimas distribuciones Ubuntu Karmic Koala 9.10 y Fedora 12 Constantine, desde Itsas queremos invitaros a todos aquellos que tengáis curiosidad y ganas de probar un sistema operativo Linux, a un sencillo e informal taller desde donde intentaremos poner nuestra mejor voluntad para enseñar brevemente lo más básico: su filosofía como sistema y su funcionamiento, sus ventajas e inconvenientes, además de ayudar en la configuración y puesta apunto de todas aquellas "máquinas peleonas".
+
+\\
+    * Día : Miércoles 11 de Noviembre
+    * Horario : 15:00 - 18:00
+    * Lugar : Seminario 2.2
+
+\\
+
+Agradeceremos enormemente que nos mandéis un email indicándonos de antemano sugerencias, inquietudes así como información sobre vuestra máquina. ;-)
+
+== Organizado por ==
+  * Oier Mees
+  * Jon Ander Hernández
+  * Juanan Pereira
+
+== Con la especial ayuda de ==
+  * Aitor Cuartango
+  * Kepa
+  * Endika  
+  * Del consejo de estudiantes de la FISS
+
+==== Fotografías del evento ====
+
+[[installparty_donostia_091111_fotos|Fotografías del evento]]
+
+==== Cartel ====
+
+{{events:cartel_installparty_donostia_091111-es.jpg?300|}}

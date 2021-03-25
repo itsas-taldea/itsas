@@ -1,0 +1,48 @@
+Description
+Host #IPSec host
+
+EnableBackup #Habilitar o no otro servidor si no funciona la conexion con Host
+BackupServer #IP del servidor de backup
+
+Username
+UserPassword
+enc_UserPassword #UserPassword encriptada
+SaveUserPassword #Guardar la password en el perfil o no
+
+AuthType #Para IKE. 1: PSK; 3: certificado digital con firma rsa
+
+#Solo para PSK
+GroupName #IPSec ID 
+GroupPwd
+enc_GroupPwd #GroupPwd encriptada
+
+#Certificados X.509; solo si AuthType=3
+CertStore #Tipo de certificado. 0: ninguno; 1: Cisco
+CertName
+CertPath
+CertSubjectName #DN
+CertSerialHash #Hash del certificado
+SendCertChain #Envio de cadenas de certificados
+
+#Conexion por dialup
+EnableISPConnect #Conexion mediante dialup
+ISPConnectType #Uso de ISPConnect o ISPCommand
+ISPConnect #Entrada para DUN
+ISPCommand #Comando para hacer la llamada
+ISPPhonebook #?
+
+#NAT-T
+EnableNat #Modo NAT-T
+TunnelingMode #Tunel sobre UDP (por puerto 10000) o TCP para el caso de EnableNat=1
+TcpTunnelingPort #Valido solo si EnableNat=1 y TunnelingMode=1
+
+#Login Windows
+NTDomain #Dominio para autenticacion via srv. dominio
+EnableMSLogon #Para windows 9x
+MSLogonType=0 #Para windows 9x
+
+#Otras
+EnableLocalLAN #Acceso a la LAN mientras se esta conectado
+DHGroup #IKE DH Group: dh1 (768 bits), dh2 (1024 bits), dh5 (1536 bits)
+ForceKeepAlives #Envia paquetes IKE y ESP
+PeerTimeout #Segundos antes de cerrar la conexion si no hay respuesta remota

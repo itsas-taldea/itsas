@@ -1,0 +1,34 @@
+====== Orden del día de la reunión 20-05-2007 ======
+
+  * **Servidor:** ''irc.freenode.net''
+  * **Canal:** ''#itsas''
+  * **Fecha:** ''20-05-2007, 21.30''
+
+  * **Moderador:** 
+  * **Secretario:**
+  * **Acta de la reunión:** [[irc_070520_acta]]
+
+
+===== Puntos del orden del día =====
+
+  - **Definir el logotipo de itsas.** A ver si se miran otra vez las últimas versiones con las que andaban Iñigo, Beltsassar, Marta,... y decidimos. Igual se pueden colgar en el wiki, al igual que hicimos con las versiones de aquel famoso manifiesto.
+    * http://amolapacificapaloma.googlepages.com/itsas No es el wiki, pero bueno... si falta algo avisad por favor, y si hay más que añadir, mejor.
+    * __Tiempo estimado: min.__
+  - **Informar de la reunión** de Dani con los responsables del CIDIR. Nos han pedido colaboración para la definición de la siguiente versión de EHUX que saldrá próximamente.
+    * __Tiempo estimado: min.__
+  - **Próximas actividades** donde podríamos dejarnos ver:
+    * El lunes que viene FreeWeek en Leioa
+    * 27 y 28 junio, Donostia -MoodleMoot
+    * junio/julio próxima reunión con el CIDIR.
+    * julio, Deusto - semana eside-eghost.
+    * octubre, Donostia - ehux party
+    * __Tiempo estimado:min__
+  - **Balance del curso**. Antes de los exámenes y de las vacaciones de verano es buen momento para mirar hacia atrás para ver por donde hemos caminado y qué hemos conseguido.
+    * __Tiempo estimado: min.__
+
+
+
+
+
+
+

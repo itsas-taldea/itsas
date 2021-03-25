@@ -1,0 +1,27 @@
+====== Contribuciones ======
+
+En esta página se recogen las contribuciones que personas y grupos de la EHU/UPV van realizando a la comunidad de software libre. Las contribuciones podrán consistir en software, documentación u otros materiales, siempre y cuando su licencia sea GPL, BSD, FDL, Creative Commons o semejantes.
+Algunos ejemplos son:
+  * Proyectos de fin de carrera
+  * Tesis doctorales y trabajos de investigación relacionados
+  * Grupos de investigación
+  * Desarrollos potenciados desde Vicegerencia de TICs
+  * Otras aportaciones
+
+Listado:
+^Fecha^Persona/Equipo^Tipo de Recurso^Título y Comentarios^
+|23-11-2010|Iker Castaños, Unai Martinez, Javier Ortega|Presentación|[[http://itsas.ehu.es/contribs/sl_gestion_negocios|Presentaciones utilizadas en las jornadas "Software libre en la Gestión de negocios"]]|
+|02-11-2010|Digna González|Presentación|[[contribs:presentacion_itsas|Presentación sobre Itsas con fuentes en LaTeX]]|
+|26-07-2010|Ivan Mosquera Paulo, Mikel Villamañe Girones|PFC |[[http://ivanmosquera.net/index.php/2010/07/26/ikuspro-es-libre/|Ikuspro: simulador gráfico de programas]]|
+|02-02-2010|Digna González|Presentaciones|[[contribs:materiales_cursos|Materiales para cursos re-actualizados y editables]]|
+|04-12-2009|Unai Martínez|Presentación/charla|OpenOffice: Edición de fórmulas y utilización de estilos en Writer \\ Vídeo de la charla en [[http://www.vimeo.com/7766306|Vimeo]], descargable desde [[http://www.archive.org/details/OOoformulasestilos|Archive.org]] y presentación de la parte de fórmulas disponible en [[http://www.slideshare.net/opositivo/openoffice-edicin-de-frmulas|Slideshare]] |
+|02-12-2009|jaXvi|PDF resumen|[[contribs:materiales_cursos|PDF con el esquema del curso de intro a GNU/Linux del 11/12-2009]]|
+|08-10-2009|Dani|Varios|[[contribs:materiales_cursos|Materiales para cursos actualizados y editables]]|
+|22-06-2009|Dani Gutiérrez,Digna González|Varios|Curso Introducción a Kubuntu. [[http://delicious.com/jdani/PresentacionesSwLibre|Presentaciones]], [[http://itsas.ehu.es/_media/carta_linux_jun09.odt|carta previa]] y [[http://itsas.ehu.es/_media/checklist_programa.odt|Checklist+programa]]|
+|14-05-2009|Juanan Pereira|Presentación|[[http://diariolinux.com/category/firma-digital/|Materiales Jornadas Itsas Donostia]]|
+|14-05-2009|Jon Ander Hernández|Presentación|[[http://jonan.org/charlas|Materiales Jornadas Itsas Donostia]]|
+|23-01-2008|Juanan Pereira, Unai Martínez, Pablo Garaizar|Documentación|[[contribs/sae2008|Materiales de los cursos de Introducción al Software Libre]]|
+|16-01-2008|Dani Gutiérrez|Documentación|[[contribs/vpn_cisco|Clientes gnu/linux VPN Cisco]]|
+|24-07-2007|etxekalte|Extensión para Firefox| [[contribs/ehu_mail_notifier|Ehu Mail Notifier: Notificador de nuevos correos en la cuenta de la EHU/UPV]]|
+|28-06-2007|Dani Gutiérrez|Presentación|{{http://www.slideshare.net/danitxu/la-importancia-estratgica-del-sw-libre-para-el-futuro-de-moodle|“La importancia estratégica del software libre para el futuro de moodle”}}|
+|08-06-2007|Iñaki Silanes|Plantillas|[[workgroups/plantillas_proyecto_fin_de_carrera|Plantillas latex de uso para tesis y proyectos de fin de carrera]]|

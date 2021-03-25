@@ -1,0 +1,113 @@
+====== FAQ: Preguntas frecuentes ======
+
+**[[faq_euskera| ... euskaraz ...]]**
+
+  * [[#¿Qué significa el nombre "itsas"?]]
+
+  * [[#¿Qué es el software libre?]]
+
+  * [[#¿Por qué usar software libre?]]
+
+  * [[#¿Por qué NO usar software privativo?]]
+
+  * [[#¿Por qué usar formatos abiertos?]]
+
+  * [[#¿Por qué NO usar formatos cerrados?]]
+
+  * [[#Soy profesor/a, ¿qué tiene esto que ver conmigo?]]
+
+  * [[#Soy alumno/a, ¿qué tiene esto que ver conmigo?]]
+
+
+===== ¿Qué significa el nombre "itsas"? =====
+ 
+La palabra "itsas" en euskera significa //mar//. A nivel del grupo, es un acrónimo que tiene dos significados posibles:
+
+  * //Izengabeko Taldea Software Askearen Sustapenerako//, o //grupo sin nombre para la promoción del software libre//. Hace referencia a las muchas alternativas de nombres que hubo para la creación del grupo. Hubo varios días y noches de discusión, y finalmente el 18 de noviembre de 2006 a las 0:00 horas salió elegido este nombre, tras una disputada votación.
+
+  * //Itsas Taldea Software Askearen Sustapenerako//, o //grupo Itsas para la promoción del software libre//. De esta forma se continua con la tradición de los acrónimos recursivos tan habituales en el mundo del software libre; ejemplos más conocidos son GNU, emacs, php o wine.
+
+
+===== ¿Qué es el software libre? =====
+
+Es el software cuya licencia te da la libertad de ejecutar, copiar, distribuir, estudiar, cambiar y mejorar dicho software. De modo más preciso, se refiere a cuatro libertades:
+
+  * La libertad de usar el programa, con cualquier propósito y sin restricciones (//libertad 0//).
+
+  * La libertad de estudiar cómo funciona el programa y adaptarlo a tus necesidades, gracias a la disponibilidad del código fuente (//libertad 1//).
+
+  * La libertad de distribuir bajo la misma licencia copias o modificaciones a terceros, sea gratuitamente o cobrando una cantidad (//libertad 2//).
+
+  * La libertad de mejorar el programa, corregirlo, traducirlo a tu lengua y hacer públicas las mejoras para beneficio de la comunidad (//libertad 3//).
+
+**Importante:** "libre" no significa necesariamente "gratis". Hay empresas y personas que basan su negocio en el software libre.
+
+[[http://www.gnu.org/philosophy/free-sw.es.html|Definición completa]] del software libre.
+
+
+===== ¿Por qué usar software libre? =====
+
+  * Porque todo el mundo podemos acceder a él. 
+
+  * Porque garantiza nuestra libertad de elección, ahora y en el futuro. 
+
+  * Porque potencia la participación en proyectos de software. 
+
+  * Porque favorece el desarrollo de empresas locales frente a las multinacionales extranjeras. 
+
+  * Porque nos permite modificar la aplicación libremente y adecuarla a nuestras necesidades. 
+
+  * Porque fomenta el uso de formatos abiertos y compatibilidad entre aplicaciones.
+
+  * Porque es un recurso de conocimiento para toda la humanidad, que va creciendo en el tiempo.
+
+
+
+===== ¿Por qué NO usar software privativo? =====
+
+  * Porque si se necesita usar y no se puede pagar la licencia, se induce a hacer copias ilegales (exageradamente llamadas "piratas").
+
+  * Porque nos hace depender, a menudo de forma exclusiva,  de una determinada aplicación o de la empresa que lo fabrica, llegando a veces a una situación de monopolio.
+
+  * Porque es código cerrado y no podemos aprender de él, modificarlo, mejorarlo o corregirlo.
+
+  * Porque es código no auditable, y corremos riesgos de seguridad.
+
+  * Porque generalmente fomenta el uso de formatos cerrados.
+
+
+
+===== ¿Por qué usar formatos abiertos? =====
+
+  * Porque sus especificaciones son públicas y los archivos de formato abierto pueden ser editados por diversas aplicaciones. Por ejemplo, [[http://es.wikipedia.org/wiki/Opendocument|OpenDocument]] es un formato ofimático [[http://www.consortiuminfo.org/standardsblog/article.php?story=20060503080915835|estandarizado por ISO]] y manejable desde distintas aplicaciones: OpenOffice, Koffice,... 
+
+  * Porque no dependemos del software privativo de una empresa para manejar nuestra información y documentos. Pudiendo llegar incluso a desaparecer el software dejándonos así en la estacada.
+
+
+===== ¿Por qué NO usar formatos cerrados? =====
+
+  * Porque obligan al usuario a disponer de un determinado software privativo para el manejo de los ficheros de código cerrado (por ejemplo, el formato .doc de //Microsoft Word//). Ello resultaría de especial gravedad en el caso de los documentos generados por la Universidad Pública Vasca/Euskal Herriko Unibertsitatea.
+
+
+
+
+===== Soy profesor/a, ¿qué tiene esto que ver conmigo? =====
+
+  * El personal docente tiene la misión de difundir conocimiento. Por ello, resulta coherente su adhesión a la filosofía del software libre.
+
+  * En el caso de asignaturas que requieran herramientas informáticas (ej. procesadores de texto, hojas de cálculo, diseño,...), el personal docente debe garantizar al alumnado que ello no le suponga un coste económico extra ni un delito. Si los equipos de la universidad no están disponibles el tiempo necesario o tienen riesgos de seguridad, y se requiere el uso de equipos externos (ej. en casa), no se deberá caer en la injusticia de obligar al alumnado a usar una herramienta no gratuita (habiendo una alternativa), sea libre o privativa, o de incitar las copias ilegales.
+
+  * En el caso de asignaturas en las que se enseñan aplicaciones informáticas, se aplica lo anteriormente indicado.
+
+  * El personal docente debe ser el ejemplo que los alumnos sigan.
+
+
+
+
+===== Soy alumno/a, ¿qué tiene esto que ver conmigo? =====
+
+  * Es parte de tu formación distinguir de forma cristalina la diferencia entre software legal e ilegal. Cuando salgas al mercado laboral, las reglas son mucho más estrictas que en tu entorno actual y no es conveniente que creas que el software que has usado durante la carrera es gratuito porque hayas podido piratearlo sin problemas.
+
+  * Debes saber que los programas libres, de los que su código fuente representa un rico legado para todos, son mucho mejor medio para el aprendizaje que los privativos, puesto que permiten ser examinados y al estar muy revisados por mucha gente tienden a ser buen ejemplo de aprendizaje.
+
+  * Es de suponer que vas a la universidad para capacitarte para el mercado laboral. Si conoces el mundo del software privativo y además el del software libre, tendrás más líneas que poner en el currículum y una mayor capacitación.

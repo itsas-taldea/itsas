@@ -1,0 +1,73 @@
+====== Reunión de itsas en marzo de 2007 ======
+<note important>
+**Hora y Sitio**:
+Sábado 10 de marzo, 11:00
+Escuela Técnica Superior de Ingeniería (Bilbao), en la puerta de la c/Luis Briñas
+</note>
+
+
+===== Puntos a tratar =====
+
+  * Revisión de la marcha del grupo hasta la fecha:
+      -nº de personas y participación (profesor@s, alumn@s, ...)
+      -herramientas de comunicación (lista y wiki)
+      -formas de coordinación.
+
+  * Aprobar el [[:workgroups/manifest|Manifiesto]].
+
+  * Ir definiendo las líneas de trabajo concretas. Hasta la fecha existen [[:workgroups/ideas_and_proposals|algunas ideas anotadas]].
+
+  * Personas para llevar a cabo las tareas de:
+      -[[:workgroups/start|Grupos de trabajo]], para llevar a la práctica las líneas definidas.
+      -Dinamizadores de la marcha general.
+
+===== Personas apuntadas para la comida =====
+  - Christian Pinedo (zako)
+  - Dani Gutiérrez
+  - Jon Bonilla
+  - Naroa González
+  - Javier Ortega (Malkavian)
+  - Iñigo Alonso
+  - Iñaki Baz Castillo
+  - David Martinez (kender)
+  - Oscar Díaz (dargor)
+  - Ainhoa Ezeiza (Grupo iKide)
+  - Manu Martínez
+  - Oscar Rodriguez (Finx)
+  - Andrés sociólogo
+  - Yosu Tamayo
+  - Jon Ander Hernández (JonAn)
+  - Belén Gorosarri
+  - David Olmos
+  - Daniel Masides
+  - Marta Salas Cerezo
+
+
+
+===== Previos al encuentro =====
+
+Al respecto de que la fecha sea en marzo, creemos que es adecuada porque desde finales de enero hasta mediados de febrero hay exámenes, y la última semana de febrero puede venir bien para acabar de atar las cosas (fletar un autobús, elegir restaurante, etc).
+
+Como hasta ahora nuestra única actividad pública fue en Bilbao se pide, por favor, el esfuerzo de todo/as para acudir a **Donosti** y hacer del acto algo más simbólico e interesante.
+
+
+
+==== Sondeo del sitio y la fecha ====
+<note important>
+El plazo de la votación finaliza el **lunes 26 de febrero**.
+</note>
+
+A continuación se presenta una tabla donde se pide a cada integrante de **itsas** que marque las opciones que le sean factibles. Se pide por favor que **no** se marque únicamente la opción preferida, sino **todas las posibles** para lograr un mejor consenso.
+
+<doodle disable | Tabla de asistencia>
+^ Sábado 3 marzo ^ Sábado 10 marzo ^ Donosti comida ^ Donosti cena ^ Bilbao comida ^ Bilbao cena ^
+</doodle>
+
+<note tip>
+Si quieres cambiar tu selección tan sólo debes votar de nuevo escribiendo el mismo nombre completo y variando las casillas seleccionadas.
+</note>
+
+<note important>
+Debido al escaso número de personas de Gipuzkoa que se han apuntado a la convocatoria, finalmente se ha decidido realizarla **en Bilbao el sábado 10 de marzo**.
+</note>
+

@@ -1,0 +1,30 @@
+﻿CHECKLIST
+
+-Comprobar proyector conectado a PC del profe con kubuntu
+
+Propuesta 1: Instalación completa en equipos de la UPV con descarga y grabación. Comprobar requisitos:
+  -Lector de CD/DVD
+  -Arranque desde BIOS. Anotar secuencia de teclas.
+  -N copias de CD/DVD
+  -Acceso con navegador a web de descarga, y velocidad rápida
+
+Propuesta 2: Actualización a Kubuntu. Uso y administración de Kubuntu en equipos de la UPV. Comprobar requisitos:
+  -PCs con algún *Ubuntu.
+  -Usuario y contraseña para el curso con permiso de administración (instalación de aplicaciones, etc.)
+
+Otras propuestas:
+  -Máquina virtual: sólo viable si PCs con buenos recursos.
+  -Instalación en portátiles: sólo viable si hay conexión a Internet por cable y no por wifi.
+
+
+PROGRAMA
+
+Día 1:
+  -Presentaciones individuales de la gente: procedencia, conocimientos, expectativas
+  -delicious.com y slideshare.net
+  -Marcar descansos
+...
+Día último:
+  -Evaluación
+
+

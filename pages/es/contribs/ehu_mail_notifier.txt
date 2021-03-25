@@ -1,0 +1,66 @@
+====== EHU Mail Notifier ======
+
+
+
+
+===== Descripción =====
+EHU Notifier es una extensión para Mozilla Firefox que sirve para ver el número de correos que hay sin leer en la cuenta de correo de la UPV/EHU y que permite acceder directamente a ella. Esta extensión nació para aprender algo sobre la tecnología de Firefox (y de Mozilla en general) y para evitar tener que estar metiendo siempre el nombre de usuario, contraseña, servidor e idioma en esa incómoda página que existe para acceder al correo.
+
+Página del proyecto en Google Code: [[http://code.google.com/p/ehu-mail-notifier/]]
+
+===== Características =====
+    * Chequea de forma periódica la cuenta y muestra el número de mensajes no leídos
+    * Con el ratón encima muestra los remitentes y los asuntos de los mensajes no leídos
+    * Recuerda todos los datos del usuario: nombre de usuario, contraseña, servidor e idioma
+    * Abre directamente la página de la bandeja de entrada
+    * Disponible en euskera, castellano e inglés
+
+
+
+===== Revisiones =====
+    * 0.8.0
+      * Adaptación al nuevo webmail basado en Horde e IMP
+      * Actualización de servidores disponibles 
+    * 0.7.3
+       * Resuelto un error grave introducido en la versión 0.7.2 que impedía guardar las preferencias o cambiar las ya establecidas
+    * 0.7.2
+       * Resuelto un error con la detección del idioma que impedía que funcionara bien en Ubuntu
+    * 0.7.1
+       * Resuelto un error que impedía que funcionara bien con el servidor mailin.ehu.es
+    * 0.7
+       * Limpieza de código
+       * Reestructuración y mejoras en la localización
+       * Ahora con el ratón encima muestra un popup con el remitente y el asunto de los mensajes no leídos
+       * Cambio en el código de colores: azul si hay mensajes sin leer, negro si no hay y rojo si hay algún problema o si la extensión no está configurada aún 
+    * 0.6.1
+       * Resuelto un error que impedía que funcionara correctamente con la apariencia "CLASSIC" del correo
+    * 0.6
+      * Compatible con Firefox 2.0
+      * Cambio de icono cuando hay mensajes nuevos sin leer
+      * Ahora directamente abre la página de la bandeja de entrada con lo que además deja de aparecer el nombre de usuario y la contraseña en la barra de direcciones
+      * Iconos con fondo transparente
+    * 0.5
+      * Diálogo de opciones para introducir nombre de usuario, contraseña, servidor, idioma e intervalo de chequeo
+      * Aumentado el número de caracteres para el nombre de usuario y contraseña a 18
+      * Traducciones a euskera, castellano e inglés
+      * Posibilidad de ir a la página principal del correo
+    * 0.1
+      * Versión inicial
+
+===== Capturas de pantalla =====
+{{contribs:ehun1.png}}
+{{contribs:ehun2.png}}
+{{contribs:ehun3.png}}
+{{contribs:ehun4b.png}}
+{{contribs:ehun5.png}}
+
+
+
+
+===== Descargas =====
+Desde [[http://code.google.com/p/ehu-mail-notifier/downloads/list|Google Code]]
+
+Desde el servidor de **itsas**: [[http://itsas.ehu.es/downloads/firefox/ehu-notifier-0.7.3.xpi|ehu-notifier-0.7.3.xpi]] (Versión antigua)
+
+===== Contacto =====
+<etxekalte@gmail.com>

@@ -1,0 +1,86 @@
+==== KestrelHPC ====
+
+    * [[http://kestrelhpc.sourceforge.net|KestrelHPC]] es una herramienta para Debian/Ubuntu que mediante un conjunto de scripts facilita la creación/configuración de clusters con nodos live. En la charla presentaremos el diseño y los retos que supuso el proyecto. Al final de esta, realizaremos una demo en la que jugaremos al Quake sobre un cluster 3D montado in situ sobre un conjunto de portátiles de los espectadores usando el módulo VideoWall.
+
+   * Ponente : ** Jon Ander Hernández **
+   * Duración : ** 45' **
+   * Hora : ** 10:00 **
+
+==== Librezale: Software Librea euskaraz ====
+
+    * Librezale lantaldearen deskribapen orokorra, euskarazko softwarearen egoera, lan egiteko moduak, erabil daitezkeen tresnak...
+
+   * Ponente : ** Julen Ruiz **
+   * Duración : ** 20' **
+   * Hora : ** 11:00 **
+   * Vídeo : [[http://www.youtube.com/watch?v=lKJGSR5CnOs&playnext=1&list=PLB4FA31CD7E578D85]]
+
+==== Introduction to Pyjamas ====
+
+    * [[http://pyjs.org|Pyjamas]] is a [[http://code.google.com/webtoolkit|GWT]] port which uses Python instead of Java. It enables to deploy [[http://en.wikipedia.org/wiki/Rich_Internet_application|Rich Internet Applications]] in an easy way.
+
+   * Ponente : ** Ander Martinez **
+   * Duración : ** 30' **
+   * Hora : ** 11:30 **
+
+==== Launchpaden web tresnarekin software librea euskeratu ====
+
+   * Software librea [[https://launchpad.net/|Launchpaden]] bidez itzultzeko sarrera. Launchpad [[http://ubuntu.com|Ubunturen]] atzean dagoen Canonical empresak martxan jarritako web bat da non programak garatzeaz gain, hauek itzultzeko aukera ere ematen duen.
+
+   * Hizlari : ** Oier Mees **
+   * Iraupena : ** 20' **
+   * Ordua : ** 12:10 **
+   * Vídeo : [[http://www.youtube.com/watch?v=VRCg-ZzOof4&playnext=1&list=PLD8D966A8A82E019A]]
+
+==== Streamming de canales de TDT en redes locales  con VLC ====
+   * [[http://www.videolan.org/vlc/|VLC media player]] es uno de los reproductores multimedia más extendidos debido a su amplio soporte de [[http://www.videolan.org/vlc/features.html|Codecs]] y su disponibilidad en Windows, Linux y Mac. Además de esto es un potente framework multimedia con amplias capacidades para realización de Streamming.
+
+   * Ponente : ** Josu Tamayo **
+   * Duración : ** 30' **
+   * Hora : ** 15:00 **
+
+==== Bertsioen kontrolerako sistema zentralizatuak vs banatuak ====
+   * Bertsioen kontrolerako sistema zentralizatuak eta [[http://en.wikipedia.org/wiki/Distributed_revision_control_system|banatuen]] arteko desberdintasunak azalduko dira, azken hauek ahalbidetzen dituzten lan fluxuak desberdinetan sakonduz.
+
+   * Hizlari : ** Oier Mees **
+   * Iraupena : ** 25' **
+   * Ordua : ** 15:40 **
+   * Video : [[http://www.youtube.com/watch?v=yibMZBWgPCg&playnext=1&list=PL7C5DA4F9AB2E5E35]]
+
+==== Gnome 3 ====
+
+   * Historia y evolución de Gnome.
+   * Contexto y justificación de Gnome 3.0
+   * Filosofía del nuevo escritorio (Gnome-Shell) junto con una demo.
+   * Ingeniería en Gnome: una enriquecedora visión para un futuro ingeniero.
+
+   * Ponente : ** Iñigo Illán **
+   * Ponente : ** Jon Ander Hernández **
+   * Duración : ** 1h **
+   * Hora : ** 16:15 **
+   * Video : [[http://www.youtube.com/watch?v=gx2j2cZU3Uo&playnext=1&list=PL6FF51A7016538CA0]]
+
+==== Servidor (torrent, Samba, SSH,  HTTP) de bajo consumo eléctrico con un router con OpenWRT ====
+
+    * [[http://en.wikipedia.org/wiki/OpenWrt|OpenWRT]] es una distribución GNU/Linux instalable en sistemas empotrados, fundamentalmente routers, que permite extender sus funcionalidades convencionales mediante un extenso catálogo de aplicaciones (servidores web, firewalls, clientes de bittorrent, samba para compartir el contenido de discos duros usb, etc...)
+    * Ponente : ** Aitor Cuartango **
+    * Duración : ** 30' **
+    * Hora : ** 17:30 **
+    * Vídeo : [[http://www.youtube.com/watch?v=7ZlWYhFukys&playnext=1&list=PLB3DFCCBFF66C0BF3]]
+
+==== Babelium Project: práctica oral de segundas lenguas ====
+    * [[http://babeliumproject.com/|Babelium Project]] es un entorno colaborativo de practica oral de idiomas. En este entorno los usuarios podrán mejorar sus capacidades orales con la ayuda de otros usuarios, hablantes nativos del idioma que quieren practicar, mientras ayudan a otros usuarios a practicar y comunicarse en su lengua materna.
+
+    * Ponente : ** Juanan Pereira **
+    * Duración : ** 30' **
+    * Hora : ** 18:10 ** 
+    * Video [[http://www.youtube.com/watch?v=MJ9PcSm57bA&playnext=1&list=PL67EADD11924989A8|Playlist Babelium]]
+
+==== Itzulpen automatikoa software libreaz ====
+
+     * Bi plataforma (Matxin, Apertium), zerbitzu bat (OpenTrad) eta ekimen bat (Wikipedia+Itzulpen automatikoa) aurkeztuko ditugu IXA taldekoek.
+
+    * Hizlari : ** Iñaki Alegria **
+    * Iraupena : ** 30' **
+    * Ordua : ** 18:45 **
+    * Vídeo : [[http://www.youtube.com/watch?v=szK3l6XlMKc&playnext=1&list=PL73EA7777393448AA]]

@@ -1,0 +1,45 @@
+IPSec gateway <ip/hostname>
+
+Xauth username <ASCII string>
+Xauth password <ASCII string>
+Xauth obfuscated password <hex string>
+
+#Grupo de IPSec, para cliente Cisco
+IPSec ID <ASCII string>
+IPSec secret <ASCII string>
+IPSec obfuscated secret <hex string>
+
+#Conexiones
+NAT Traversal Mode <natt/none/force-natt/cisco-udp>
+Cisco UDP Encapsulation Port <0-65535> #Para nat cisco-udp
+#Interface para el tunel
+Interface name <ASCII string>
+Interface mode <tun/tap>
+#Direcciones y puertos locales para ISAKMP, ESP,...
+Local Addr <ip/hostname>
+Local Port <0-65535>
+
+DNSUpdate #Actualizar o no /etc/resolv.conf
+Target Networks #Redes a las que se accedera via tunel
+Script <command> #Se ejecuta tras ISAKMP y antes del tunel
+
+#Encriptacion
+IKE DH Group <dh1/dh2/dh5>
+Perfect Forward Secrecy <nopfs/dh1/dh2/dh5/server>
+Enable Single DES #Single DES
+Enable no encryption
+
+#Autenticacion
+Xauth interactive #Para challenge response auth
+Domain <ASCII string> #Dominio NT
+
+#Otras
+No Detach
+Pidfile <filename>
+Debug <0/1/2/3/99>
+Noninteractive
+
+Vendor <cisco/netscreen>
+Application version <ASCII string> #Para indicar la version del cliente al servidor
+
+DPD idle timeout (our side) <0,10-86400> #Para keepalive IKE 

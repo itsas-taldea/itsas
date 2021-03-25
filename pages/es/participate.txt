@@ -1,0 +1,78 @@
+====== Participa ======
+
+Puedes participar en **itsas** de distintas formas:
+
+
+[[participate#lista_de_correo|{{ mail_list.png}}]]
+
+
+===== Listas de correo =====
+
+Actualmente **itsas** dispone de dos listas de correo como principales medios de comunicación: **itsas** y **itsas-core**.
+
+==== itsas ====
+
+Esta lista de correo tiene un caudal bajo de mensajes y es el medio óptimo para estar al tanto de todas las iniciativas impulsadas desde **itsas**. Actualmente cuenta con más de 90 suscriptores.
+
+  * Para suscribirte:
+    * Si estás en un ordenador de la UPV/EHU puedes hacerlo vía web en: [[http://list.ehu.es/mailman/listinfo/itsas]].
+    * En caso de que estés fuera de la UPV/EHU, puedes hacerlo por correo electrónico: manda un mensaje a [[mailto:itsas-request@ehu.es?subject=subscribe|itsas-request@ehu.es]] con el asunto //subscribe// y sigue las instrucciones que recibirás en el correo de confirmación.
+
+  * Para escribir a la lista, una vez suscrito envía tu mensaje a [[mailto:itsas@list.ehu.es|itsas@list.ehu.es]].
+  
+  * Para acceder al histórico de la lista:
+    * Si estás en un ordenador de la UPV/EHU puedes hacerlo a través de la dirección: [[http://list.ehu.es/mailman/listinfo/itsas]]
+    * En caso de que estés fuera de la UPV/EHU puedes acceder a través de las siguientes direcciones:
+      * [[http://dir.gmane.org/gmane.org.user-groups.linux.ehu.itsas]]  
+      * [[http://www.mail-archive.com/itsas%40list.ehu.es]]
+
+==== itsas-core ====
+
+En esta lista de correo se realiza el trabajo de **itsas** llevándose a cabo todas las discusiones de los grupos de trabajos y otras discusiones más //ociosas//. Se trata de una lista de correo con un caudal elevado de mensajes y se anima a que toda la gente que quiera participar en **itsas** de una manera activa se suscriba a esta lista.
+
+  * Puedes suscribirte a la lista de correo a través de la siguiente dirección: [[http://bipt106.bi.ehu.es/mailman/listinfo/itsas-core]]
+  * Para escribir a la lista, una vez suscrito envía tu mensaje a [[mailto:itsas-core@bipt106.bi.ehu.es|itsas-core@bipt106.bi.ehu.es]]
+  * Para acceder al histórico de la lista utiliza la siguiente dirección: [[http://bipt106.bi.ehu.es/mailman/listinfo/itsas-core]]
+
+[[participate#wiki|{{ wiki.png}}]]
+
+===== Wiki =====
+
+La página web de **itsas** no se trata de una página estática sino que está montada sobre [[http://wiki.splitbrain.org/wiki:dokuwiki|dokuwiki]]. Un wiki es una herramienta colaborativa que permite que los usuarios puedan editar fácilmente su contenido haciendo exclusivamente uso de un navegador web.
+
+Gracias a estas facilidades que nos aportan los wikis utilizamos la web de **itsas** no sólo como presentación nuestra al exterior sino como herramienta de trabajo interna.
+
+Para poder editar las páginas web debes [[http://itsas.ehu.es/start?do=register|registrarte]] en el wiki.
+
+
+[[participate#canal_de_irc|{{ irc.png}}]]
+
+===== Canal de IRC =====
+
+Algunos miembros de itsas hacemos //vida social// en la red de IRC Freenode discutiendo temas relacionados con Itsas como cualquier otra cosa.
+
+^Red IRC^|[[http://www.freenode.net|Freenode]]|
+^Servidor^|[[irc://irc.freenode.net|irc.freenode.net]]|
+^Canal^|#itsas|
+
+
+[[participate#grupos_de_trabajo|{{ grupos_de_trabajo.png}}]]
+===== Grupos de trabajo =====
+
+Puedes colaborar con nosotras y nosotros trabajando en los diferentes [[workgroups/start|grupos de trabajo]]. También puedes proponer la creación de nuevos grupos. Te esperamos.
+
+
+[[participate#encuentros_presenciales|{{ encuentros_presenciales.png}}]]
+
+===== Encuentros presenciales =====
+
+Dos o tres veces al año las personas de **itsas** nos reunimos en algún lugar, -no cibernáutico sino geográfico-, con el fin de tener un encuentro para compartir y socializar.
+
+----
+
+
+<note tip>
+Si te unes a **itsas**, es decir, si decides colaborar activamente, anota tu procedencia en el [[about_us|mapa de personas y grupos]].
+
+De este modo tenemos localizados geográficamente a todos los miembros y sabremos con tu nuevo aporte que seguimos creciendo.
+</note>

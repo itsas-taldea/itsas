@@ -1,0 +1,28 @@
+====== Adierazpena ======
+
+**[[manifest| ... en castellano ...]]**
+
+{{itsas_adierazpena_manifiesto.odt|odt formatua}}
+{{itsas_adierazpena_manifiesto.rtf|rtf formatua}}
+{{itsas_adierazpena_manifiesto.pdf|pdf formatua}}
+
+**itsas** gure unibertsitate publikoan software librearen sorrera eta erabilera, formatu eta protokolo irekiak eta kultura eta jakintzaren eskuragarritasun librea bultzatzea helburu duen EHUko taldea da.
+
+**itsas** talde heterogeneoa da, fakultate eta unibertsitate-eskola anitzetako estamentu desberdinetako kideek osatua (irakasle, ikasle, ikerlari eta AZP). Talde honetan, EHUrekin zerikusirik ez duten pertsonak ere badaude, izan ere, taldearen izaera guztiz irekia da eta laguntzeko prest dagoen edonori ongietorria ematen zaio. Gure lan egiteko modua, elkarrizketa zabalen bidez adosturiko proposamenak aurkeztu eta koordinatzea da, era irekian.
+
+**itsas**eko kide garenok,
+HAUXE adierazten dugu:
+  * 1. Komunikazio eta infomazio teknologiek gero eta gehiago eragiten dute pertsonen garapen kultural eta profesionalean
+  * 2. Software pribatiboaren ereduak -gaur egun nagusi dena eta kode eta formatu itxietan oinarritzen dena- aplikazio eta plataforma desberdinen arteko elkarreragintasuna zaildu, aplikazioen hobekuntza jarraituak oztopatu, mendetasun handiko egoerara eraman eta ordaindu dezaketen eta ez dezaketen arteko zatiketa soziala eragiten du, eta software patenteen antzera, softwarearen berrikuntzarako balazta larri bat da.
+  * 3. Alternatiba bat bada, software librea, eta bere filosofia berau era askean erabili, ikertu, hobetu eta banatzea ahalbidetzen duen lizentziapean jartzean oinarritzen delarik, lege-arazoak ekiditen ditu.
+  * 4. Software librea, gizadi osoaren aldeko ondasuna da, pertsona guztien onerako hazten doana, eta munduaren zatiketa digitala murrizteko joera du, jakintza konpartitu eta unibertsala sustatzen baititu kostu baxuan eta inolako murrizketarik gabe.
+  * 5. Filosofia honek, maila ekonomikoan negozio eredu eramangarria bultzatzen du, izan ere, bertako enpresen garapena sustatu eta era honetan irabaziak erabiltzaileak, kontsumitzaileak eta bezeroak dauden komunitatean bertan geratzen dira.
+  * 6. Unibertsitateek, jakintzaren sortzaile eta pentsamendu kritikoaren sustatzaile izanik, transmititzen dituzten ezagutzen eta berauek emateko dituzten eren inplikazio sozialei buruzko hausnarketa egin behar dute, jakintza konpartitzeko betebehar etikoa baitute. Hau bereziki dagokie unibertsitate publikoei.
+
+HAUXE aldarrikatzen dugu:
+  * 7. EHU bere “eman ta zabal zazu” leloarekin konsekuentea izan dadila, jakintza sortzeko (ikertu) eta konpartitzeko (irakatsi eta publikatu) ikuspuntutik interpretatua, printzipio hauek software librearen mugimenduarekin koherenteak direlarik.
+  * 8. EHUn sofwarearen eskuraketa eta mantenuan baldintza gabeko software libre nagusi izango den irizpideen bidez bana daitezela giza eta diru-baliabideak, software pribatiboaren ordez.
+  * 9. EHUk unibertsitate barruan estandare, protokolo eta formatu irekiak erabiltzeko aukera berma dezala elkarreragintasuna ziurtatuz, erabilitako plataforma eta aplikazioak edozein direlarik ere.
+  * 10. Ikasleriaren eta irakasleriaren artean askotariko sentsibilizazio kanpainak sor daitezela, aurretik aipaturiko printzipio eta erabilerak bultzatzeko.
+
+**itsas**, 2007ko martxoa

@@ -1,0 +1,20 @@
+====== Ongietorri ======
+Gizartean, jakintzaren sorkuntza eta hedapenerrako esparru naturala da unibertsitatea.
+Unibertsitate publikoak konpromezu handiagoa dauka ahal bada, bera finantziatzen duen gizartearekiko.
+**Itsas**-en kontsideratzen dugu [[faq#¿Qué es el software libre?|software libre]] software librea eta jakintzaren hedapena lotura estua dutela: ez dagoelako jakintzarik lortzerik iturburu koderik gabe, jakintza ezin delako hedatu lizentzia murriztaileekin.
+
+  * [[about_us|Informazio gehiago]] **itsas**-en inguruan.
+
+
+
+===== Berriak =====
+
+^Data^Ekitaldia^Tokiak^Oharrak|
+^07-04-2011|[[eu/events/charlasdonostia_20110704|Itsas hitzaldiak Donostian]]|Donostiako informatika fakultatean| Gnome 3, Babelium Project, Pyjamas, OpenWRT, KestrelHPC, Launchpad, Librezale ...  [[http://itsas.ehu.es/events/charlasdonostia_20110407_fotos|Argazkiak]]|
+^ 11-11-09|[[http://itsas.ehu.es/eu/events/installparty_donostia_091111|Install Party Donostian]]| Ubuntu 9.10 probatu eta instalatzeko ekitaldia Donostiako Informatika Fakultatean. [[http://itsas.ehu.es/events/installparty_donostia_091111_fotos|Argazkiak]]. |
+^ 06-09|Leioako Zientzia eta Teknologiako Fakultatean Kubuntu sarrera ikastaroak. | Ikusi [[http://itsas.ehu.es/contribs|Ekarpenak]]|
+^ 14-05-09|[[http://itsas.ehu.es/events/charlasdonostia_090514|Itsas-en hitzaldi saioa Donostian]]| Software Librea, BSD Sistemak , LaTeX, Python eta Zihurtagiri digitalak Linux-en. [[http://itsas.ehu.es/events/charlasdonostia_090514#material_de_las_charlas|Materialak]]. |
+^ 16-12-08|[[http://itsas.ehu.es/events/charlasdonostia_081216|Itsas-en hitzaldi saioa Donostian]]| SL-rekin dieseinu grafikoa, Software Librea Euskal Herrira, Programazio grafiko azkar eta librea, eta Adobe Flex eta AIR. |
+^ 6-11-08|[[http://www.ehu.es/slun08|SLUN'08 Ekitaldia]]|Lehenego jardunaldia Software Librearen sustapenerako Euskadiko 3 unibertsitateetan: Deusto, Mondragon eta UPV/EHU |
+
+[[:history|...Artxiboa...]]

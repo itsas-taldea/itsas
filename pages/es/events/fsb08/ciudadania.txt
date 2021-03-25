@@ -1,0 +1,23 @@
+===== Ciudadanía =====
+Talleres muy prácticos y muy simples. Enseñar a hacer cosas básicas, sin incidir en que es software libre, aunque se use en todo momento. La idea es que no asusten por que sea "diferente", que asuman que es algo habitual, que puede usarse igual que las alternativas privativas.
+
+==== Exposiciones (in) formativas ====
+  *Como cambiar a GNU/Linux y no morir en el intento: Una presentacion en la que se explican como dar los primeros pasos, y como evitar los primeros problemas.
+
+
+==== Experiencias ====
+  *Conocimiento colaborativo libre: el caso Wikipedia.
+
+==== Recursos ====
+  * Regalar CDs/DVDs de una distro (¿(k)ubuntu?)
+  * Regalar CDs de Openoffice.
+
+
+==== Talleres prácticos ====
+  *Instalar y usar sw libre para funciones básicas: correo electrónico, navegación, ofimática. Con S.O. Windows o Linux.
+  *Usar una distro gnu/linux en modo liveCD.
+  *Instalar una distro gnu/linux.
+  *Simplifica tu vida: Crea cartas, curriculums etc mediante plantillas de OpenOffice.
+  *Como realizar cuentas sencillas con Calc: Sumas, medias, porcentajes...
+  *Como retocar las fotos para quitar ojos rojos, familiares pelmas, marcas en el cesped...
+  *Crea videos en DVD desde tu camara de video.

@@ -1,0 +1,24 @@
+====== Grupo de trabajo: Manifiesto ======
+
+  * **Objetivos:**
+    * Definir un manifiesto fundacional para **itsas** que refleje sus objetivos como grupo.
+
+  * **Estado:** Cerrado. 
+
+  * **Plazos:**
+    * De diciembre 2006 a marzo 2007.
+
+  * **Comisión:**
+    * [[jdanitxu@gmail.com|Dani Gutiérrez]]
+    * [[manwe@aholab.ehu.es|Manwe]]
+
+  * **Metodología para la elaboración de la versión final: **
+    * Se propone un borrador de manifiesto.
+    * Se discute por las personas del grupo de trabajo, hasta llegar a una versión consensuada. Puede haber enmiendas a la totalidad o matices menores. Haced llegar vuestras aportaciones editando esta página o bien a través de la lista de correo.
+    * Una vez a la semana aproximadamente, se publicarán nuevas versiones de acuerdo a las propuestas recibidas.
+    * El proceso se repite hasta llegar a una versión consensuada.
+
+
+  * ** Índice de versiones **
+  *[[manifest_old|Versiones antiguas]]
+

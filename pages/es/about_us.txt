@@ -1,0 +1,18 @@
+====== Quiénes somos ======
+
+**itsas** es el //Grupo de Software Libre de la UPV/EHU// que pretende **impulsar** la adopción del **software libre**, los **estándares abiertos** y los ideales de la **cultura libre** en el ámbito de la universidad.
+
+Estas ideas las hemos recogido en nuestro //**[[/manifest|Manifiesto]]**//.
+
+Se trata de un grupo heterogéneo, con miembros dispersos por las diferentes facultades y pertenecientes a los diferentes estamentos de la universidad (profesores, investigadores, alumnos, etc). También hay personas externas a la UPV/EHU.
+
+La naturaleza del grupo es totalmente abierta y se da la bienvenida a cualquier persona que quiera [[participate|colaborar]] en impulsar estos ideales en nuestra universidad.
+
+Estamos construyendo un **mapa de las personas y grupos** que formamos **itsas**. Además de explicitar hacia el exterior la pluralidad de **itsas**, su objetivo es saber dónde tenemos presencia. Por claridad, hemos separado el mapa en 4 secciones:
+
+  * [[map_alava|Campus de Álava]]
+  * [[map_bizkaia|Campus de Bizkaia]]
+  * [[map_gipuzkoa|Campus de Gipuzkoa]]
+  * [[map_others|Otras entidades: universidades, empresas...]]
+
+¡Anímate y [[participate|participa]]!

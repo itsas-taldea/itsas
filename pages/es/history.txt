@@ -1,0 +1,47 @@
+====== Histórico ======
+
+Aquí iremos dejando nuestra historia.
+
+===== 2010 =====
+^ Fecha^Contenido^Observaciones^
+^ 27-11-10|Grupo de trabajo LaTeX|Se ha creado un [[workgroups:latex|grupo de trabajo]] para reunir todos los recursos relacionados con LaTeX.|
+^ 08-10-10| Curso de LaTeX |Itsas está organizando un curso de LaTeX. Puedes apuntarte en  [[http://itsas.ehu.es/contribs/mapcon#recibir|Recibir cursos]], o enviar un correo a la lista para que alguien te apunte.Próximamente en [[http://itsas.ehu.es/contribs/curso_latex | esta página]] estará disponible más información.|
+^ 07-5-10|[[http://www.kde-espana.es/akademy-es2010/doku.php?id=anuncio|Akademy-es 2010]]| [[http://www.kde-espana.es|KDE España]] organiza junto a [[http://itsas.ehu.es/|Itsas]], en colaboración con el Departamento de Cultura del Gobierno Vasco este evento que reune a desarrolladores y usuarios de KDE, y se celebrará en la Escuela Técnica Superior de Ingeniería de Bilbao.|
+===== 2009 =====
+^ Fecha^Contenido^Observaciones^
+^ 04-12-09|OpenOffice: Edición de fórmulas y utilización de estilos en Writer|Vídeo de la charla en [[http://www.vimeo.com/7766306|Vimeo]], descargable desde [[http://www.archive.org/details/OOoformulasestilos|Archive.org]] y presentación de la parte de fórmulas disponible en [[http://www.slideshare.net/opositivo/openoffice-edicin-de-frmulas|Slideshare]] |
+^ 11-11-09|[[http://itsas.ehu.es/events/installparty_donostia_091111|Install Party en Donostia]]| Evento en la Facultad de Informática para ayudar a probar e instalar Ubuntu 9.10. [[http://itsas.ehu.es/events/installparty_donostia_091111_fotos|Fotografías]]. |
+^ 11-09|Curso intro GNU/Linux promovido por Gestión Cultural en la ETSI| 15 horas en 5 días/semanas (03.11.2009-01.12.2009) [[http://itsas.ehu.es/materiales_cursos| Ver PDF esquema en materiales]]|
+^ 06-09|Cursos intro Kubuntu en la Facultad de Ciencia y Tecnología de Leioa|Ver [[http://itsas.ehu.es/contribs|Contribuciones]]|
+^ 14-05-09|[[http://itsas.ehu.es/events/charlasdonostia_090514|Charlas Itsas en Donostia]]| Software Libre, Sistemas BSD, LaTeX, Python y Certificados digitales sobre Linux. [[http://itsas.ehu.es/events/charlasdonostia_090514#material_de_las_charlas|Materiales]]. |
+===== 2008 =====
+^ Fecha^Contenido^Observaciones^
+^ 16-12-08|[[http://itsas.ehu.es/events/charlasdonostia_081216|Charlas Itsas en Donostia]]| Diseño gráfico con SL, Software Librea Euskal Herrira, Programación gráfica rápida y libre, y Adobe Flex y AIR. |
+^ 6-11-08|[[http://www.ehu.es/slun08|Jornada SLUN'08]]|Primer encuentro para la Promoción del Software Libre en las tres universidades de Euskadi: Deusto, Mondragon y UPV/EHU |
+^ 16-05-08|Reunión con CIDIR|[[http://itsas.ehu.es/events/reunion_080516_acta|Acta]]|
+^ 27-02-08|Sesión abierta "Intro a la criptografía. Openssh en profundidad"|[[mms://streaming.ehu.es/vod/cgip/openssh.wmv|Video]] accesible ej. con VLC y presentaciones en [[http://www.slideshare.net/danitxu/slideshows|slideshare]]|
+^ Ene y Feb-08|Cursos introducción al software libre (SAE)|[[http://itsas.ehu.es/contribs/sae2008|Materiales formativos]]|
+^ 11-01-08|Reunión con CIDIR|[[http://itsas.ehu.es/events/reunion_080111_acta|Acta]]|
+===== 2007 =====
+^ Fecha^Contenido^Observaciones^
+^ 14-12-07|Reunión general de itsas|[[http://itsas.ehu.es/events/reunion_071214_acta|Acta]]|
+^ 26-11-07|Jornada Morfeo "Soluciones libres para la empresa"|[[http://www.enpresadigitala.net/castellano/formacion/formacion_curso.jsp?id=903|Organizado por Bizkaia enpresa digitala]]|
+^ 30-07-07|Logos [[http://itsas.ehu.es/downloads/logos/formal.tar.gz|"formal"]] e [[http://itsas.ehu.es/downloads/logos/informal.tar.gz|"informal"]]" de itsas | |
+^ 25-07-07|Reunión con CIDIR Gipuzkoa|[[http://itsas.ehu.es/events/reunion_070725_acta|Acta]]|
+^ 28-06-07| Participación en moodlemoot euskadi 07 | Presentación "La importancia estratégica del software libre para el futuro de moodle" {{presenta_moodle.pdf|}}|
+^ 08-06-07| Nueva versión | [[http://itsas.ehu.es/workgroups/plantillas_proyecto_fin_de_carrera|Plantillas LaTeX para proyectos fin de carrera (PFC)]] |
+^ 20-05-07| Reunión virtual de itsas | [[:events/irc_070520_orden|Orden del día]], [[http://itsas.ehu.es/events/irc_070520_acta|Acta]]|
+^ 27-04-07|Reunión con Vicegerencia de TICs|Toma de contacto inicial en Leioa|
+^ 23-03-07|Publicación de las versiones definitivas del [[http://itsas.ehu.es/manifest|manifiesto]] y [[http://itsas.ehu.es/lineas_trabajo|las líneas de trabajo]]|Formatos html, odt, rtf, pdf|
+^ 16-03-07|Creación de la segunda lista [[http://bipt106.bi.ehu.es/mailman/listinfo/itsas-core|itsas-core]]|Para mensajes del día a día|
+^ 10-03-07|Segunda reunión a nivel de la EHU/UPV |[[http://itsas.ehu.es/events/reunion_070310_acta|Acta]]|
+^ 30-01-07 | [[:workgroups/plantillas_proyecto_fin_de_carrera|Plantillas para Proyecto Fin de Carrera]] | Un nuevo grupo de trabajo para la edición de plantillas y [[:workgroups/plantillas_proyecto_fin_de_carrera/por_que_latex|documentación]] sobre LaTeX|
+^ 17-01-07 | Convocatoria para la reunión de **itsas** en marzo | Indícanos tu disponibilidad de lugar, fecha y hora en la [[:events/reunion_marzo_2007|tabla de asistencia]]|
+===== 2006 =====
+^ Fecha^Contenido^Observaciones^
+^ 18-12-06 | Comienza el grupo de trabajo para el manifiesto fundacional de **itsas**| 
+^ 18-12-06 | Algunas estadísticas| Tras una semana de web operativa y dos de lista de correo, indicamos algunas estadísticas:\\   * 25 personas apuntadas en los [[about_us|mapas]]\\ * 4 personas en a 2 [[:workgroups/start|grupos de trabajo]], 118 visitantes distintos a la web\\ * 80 suscriptores en la lista de correo\\ * 117 mensajes enviados  a la lista por 24 suscriptores|
+^ 11-12-06|Página web de **itsas** operativa| |
+^ 04-12-06|Inauguración de la Lista de correo de **itsas**| |
+^ 18-11-06|Resultados de la votación dan como nombre **itsas**| |
+^ 27-10-06|Primera reunión a nivel de la EHU/UPV |{{061027_acta.rtf|Acta}}|

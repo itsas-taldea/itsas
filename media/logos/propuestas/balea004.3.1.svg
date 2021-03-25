@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg15339"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   sodipodi:docbase="/home/inigo"
+   sodipodi:docname="balea004.3.1.svg"
+   inkscape:export-filename="/home/inigo/balea004.3.1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs15341" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.4268773"
+     inkscape:cx="216.09403"
+     inkscape:cy="390.55736"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1273"
+     inkscape:window-height="943"
+     inkscape:window-x="0"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata15344">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.72147197px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 102.08344,515.81304 C 165.27236,469.52857 230.84322,443.15901 315.94633,481.24663 C 401.04945,519.33425 475.23811,517.86483 602.51219,454.18347 C 450.36857,547.3933 374.84089,514.08856 310.68581,487.32032 C 245.09627,459.95356 198.30776,471.64065 102.08344,515.81304 z "
+       id="path15347"
+       sodipodi:nodetypes="czczc"
+       inkscape:export-filename="/home/inigo/imagen/propias/balea/balea004.3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:black;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 230.3125,204.375 C 215.70084,204.42867 203.07445,212.21084 190.15625,224.125 C 173.20231,239.76122 165.01306,276.18028 180.15625,294.46875 C 195.29943,312.75722 220.99321,302.78201 228.09375,284.78125 C 222.54219,291.00657 216.80124,293.0768 207.09375,288.28125 C 197.38626,283.4857 190.72374,268.4805 190.84375,256.65625 C 190.96377,244.83201 194.27752,230.74051 203.0625,223.96875 C 211.84747,217.197 222.44555,216.53216 231.28125,221.71875 C 240.11695,226.90534 244.21007,229.88728 253.84375,244.15625 C 261.77162,255.89865 266.90524,271.50379 268.80972,291.96221 C 277.43021,291.72597 284.38608,292.62493 291.62615,294.62748 C 292.16422,275.86506 292.48132,265.0236 296.4528,250.52381 C 300.47647,235.83348 307.19381,219.1626 330.58261,222.18682 C 343.2243,223.82141 349.10025,228.01124 353.92593,234.26504 C 358.46872,240.15221 362.2389,249.00483 361.79001,259.76145 C 361.42693,268.4618 354.36503,280.40936 340.44676,286.5081 C 351.61535,290.80826 363.36918,288.89439 370.14073,279.66716 C 377.05754,270.242 379.10593,245.81993 369.60097,229.497 C 361.42291,215.45276 355.06754,210.75287 340.4375,207.4375 C 320.32558,202.87987 300.82848,215.49957 290.0625,231.59375 C 286.37805,237.03426 283.39381,242.73557 281,248.65625 C 273.53207,231.33983 261.08431,213.59963 246.1875,207.625 C 240.52497,205.35395 235.28505,204.35673 230.3125,204.375 z "
+       id="path1941"
+       sodipodi:nodetypes="csscsssssccsssscsssccsc" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 289.26373,306.65151 C 223.06462,290.83563 118.85461,359.00466 140.71875,494.5625 C 150.60983,492.00091 158.5924,493.00876 160.05672,482.57524 C 147.01715,364.59765 235.29033,318.70863 295.33055,334.13538 C 337.38758,344.94152 359.41857,372.7439 381.32754,406.65972 C 400.34672,436.10205 416.28648,482.50929 461.0625,464.96875 C 492.97757,452.46635 510.53437,413.79099 465.28125,364.90625 C 419.72578,315.69492 468.2686,319.09361 497.1875,353.21875 C 525.44867,318.94036 578.37116,317.41713 526.4375,367.4375 C 488.66861,403.81496 530.90247,465.14135 529.53125,488.09375 C 540.14486,490.65232 538.132,484.33368 547.9375,480.3125 C 544.65788,433.52795 502.34174,418.87667 537.8125,379.75 C 619.21213,289.96064 522.5871,308.21773 498.9375,335.15625 C 452.26748,293.69124 392.68371,302.13462 452.875,376.40625 C 484.64717,415.61076 470.05253,436.70064 453.15625,444.125 C 429.13766,454.67895 424.68168,428.23052 396.90162,389.15509 C 361.85945,339.86478 339.84889,318.737 289.26373,306.65151 z "
+       id="path1939"
+       sodipodi:nodetypes="cccsssscsccscssss" />
+  </g>
+</svg>
+

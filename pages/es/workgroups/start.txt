@@ -1,0 +1,54 @@
+====== Grupos de trabajo ======
+
+Un grupo de trabajo es el modelo organizativo que proponemos en **itsas** para garantizar que los proyectos y objetivos son cumplidos. **Tu aportación es bienvenida** en cualquiera de los grupos de trabajo activos.
+
+
+===== Metodología =====
+
+En esta sección se detallan unas sugerencias para la creación y mantenimiento de los grupos de trabajo.
+
+  * En primer los grupos de trabajo son **dinámicos**: ante el interés de un miembro del grupo en una determinada materia, propone la creación de un grupo de trabajo en la lista de correo y en función de la aceptación general (personas necesarias y disponibles) se decide crear el grupo de trabajo o no.
+
+  * Es conveniente que cada grupo de trabajo contase con unos **objetivos** bien definidos y con unos **plazos** orientativos para evitar tener grupos creados que resulten inactivos. En el momento que el grupo de trabajo ha cumplido con sus objetivos o no ha sido capaz de alcanzarlos se debería cerrar el grupo de trabajo.
+
+  * Sería interesante que cada grupo de trabajo contase con una **comisión** formada por 2 o 3 personas especialmente interesadas en el proyecto, y que se comprometen públicamente a dinamizarlo. Su función no es realizar todo el trabajo sino estar especialmente involucrados e impulsar la consecución de los objetivos, plazos, motivación del grupo, ...
+
+En el futuro, en caso de existir una gran cantidad de grupos de trabajo, tal vez será necesario la creación de una **meta-comisión** que se encargue de coordinar los diferentes grupos de trabajo. Es una idea y se verá si en necesaria cuando haya varios grupos de trabajo activos.
+
+**Nota:** El esquema de grupos de trabajo tampoco está reñido con las aportaciones únicamente personales (es decir grupos de trabajo de una sola persona).
+
+
+
+===== Listado de grupos de trabajo en activo =====
+
+^ Nombre del grupo ^ Objetivos ^
+|[[difus_relac|Difusión y relaciones]]|Difundir la existencia de itsas y desarrollar relaciones con otros grupos de interés para el software libre|
+|[[party_software_libre|Partys de Software Libre 07]]|Organizar y colaborar en varias partys para potenciar el software libre en la universidad durante el curso 2007|
+|Formatos abiertos|Estudiar indicadores de uso en la EHU/UPV e ir dando pasos para la generalización del uso de formatos abiertos |
+| [[Tech|Tech]] | Gestión y Administración de nuestros canales telemáticos de comunicación|
+|[[plantillas_proyecto_fin_de_carrera|Plantillas Proyecto Fin de Carrera]]|Plantillas ofimáticas para uso en Proyectos Fin de Carrera|
+|[[cursillos|Formación en Software Libre]]|Formación en Software Libre al alumnado y profesorado|
+|[[latex|LaTeX]]|Recopilación de presentaciones, tutoriales, enlaces, recetas, etc. para [[http://es.wikipedia.org/wiki/LaTeX|LaTeX]]|
+|[[trac|Trac!]]|Crear plugins para el sistema de gestión de tickets Trac! para conseguir que funcione en el entorno universitario como gestión de consultas|
+
+===== Listado de grupos de trabajo congelados =====
+| [[applist|Lista de aplicaciones]] | Elaboración del listado de aplicaciones de software libre |
+
+
+
+===== Listado de grupos de trabajo finalizados =====
+^ Nombre del grupo ^ Objetivos ^
+| [[manifest|Manifiesto]] | Elaboración del manifiesto de **itsas** |
+
+
+===== Iniciar un nuevo grupo de trabajo =====
+
+Para iniciar un nuevo grupo de trabajo no dudes en solicitarlo a la [[:participate#lista de correo|lista de correo]].
+
+Más adelante todo este proceso podrá hacerse de forma más rutinaria.
+
+<note tip>
+Si vas a **crear** o **editar** páginas recuerda por favor seguir las [[:wiki/format_guide|pautas de formato]] convenidas para garantizar la consistencia de los contenidos.
+
+Gracias.
+</note>

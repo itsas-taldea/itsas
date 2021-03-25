@@ -1,0 +1,12 @@
+==== Software libre en la Gestión de negocios ====
+Presentaciones utilizadas en las jornadas //Software libre en la Gestión de Negocios// celebradas en [[http://www.enpresa-bilbao.ehu.es/|Escuela Universitaria de Estudios empresariales de Elkano (Bilbao)]].
+
+\\
+\\
+
+{{:events:elkano_sw_libre_nov2010.jpg|}}
+
+=== Presentaciones ===
+
+  * {{:contribs:posibilidades_usos_sl.odp|Posibilidades y usos cotidianos del Software Libre}}
+  * {{{{:contribs:contribuir_sl.pdf|Cómo contribuir al Software Libre}}

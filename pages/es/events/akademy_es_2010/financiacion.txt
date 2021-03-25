@@ -1,0 +1,84 @@
+=====Financiación =====
+{{:akademy_es_2010:presup_akademy.ods|Presupuesto (2-mayo)}}
+
+====Sponsors confirmados ====
+Total: 6800 € (sin contar IVAs)
+
+^Sponsor^Persona encargada^Cantidad^Forma y fecha de pago|
+|CENATIC|Digna González|  2000 €|30 días después de firmar el convenio|
+|Ayto. Bilbao-Participación ciudadana|Emet+Dani|  1600 €|Además dan 90 bolsas de bienvenida; pendiente gestionar wifi en albergue|
+|Vicegerencia TICs UPV/EHU| Dani|  1000 €|En breve|
+| Cultura Gob. Vasco | Emet |  500 €|Después del evento (de 10 días a 1 mes)|
+|Qt/Nokia|Albert Astals Cid |  500 €|?|
+|Euskaltel|Dani|  500 €|Intentarán pagarnos antes el 5/5, pero si no les da tiempo pagarían el 20/5|
+|Castinfo|Alex Fiestas|  300 €| ingresado en la cuenta de KDE España|
+|COIIE|Emet|  300 €| ingresado en la cuenta de KDE España|
+|Irontec|Dani|  200 €|Por concretar|
+|ESLE|Dani|  200 €|Por concretar|
+
+
+
+====  Sponsors potenciales====
+^Sponsor^Persona a contactar^Persona encargada^Contacto realizado^Respuesta|
+|Maemo| Quim Gil | Albert Astals Cid | 15 Febrero | |
+| Collabora | doree.carrier@collabora.co.uk sales@collabora.co.uk | Albert Astals Cid | 8 Marzo 15 Febrero | |
+| KDAB | info@kdab.com | Albert Astals Cid | 15 Febrero | |
+| ICS | info@ics.com | Albert Astals Cid | 15 Febrero | |
+| basysKom | info@basyskom.de | Albert Astals Cid | 15 Febrero | |
+| Tieto | Vicente Moreno | Albert Astals Cid | 15 Febrero | |
+| froglogic | partners@froglogic.com | Albert Astals Cid | 15 Febrero | |
+| Igalia | info@igalia.com amaneiro@igalia.com | José Millán Soto | 18 Febrero | Sin respuesta :( |
+|Ayudas MITYC| Solicitudes | Iñigo García | 23 Febrero|A la espera de enviar solicitudes cuando se abran las convocatorias|
+| El Correo | | Digna  |25 Marzo | |
+| Caja Navarra | | Digna  |25 Marzo | |
+| La Caixa | | Digna  |25 Marzo | |
+
+
+
+====  Sponsors descartados ====
+^Sponsor^Persona a contactar^Persona encargada^Fecha^Respuesta|
+|Enpresa digitala-SPRI| |Dani| |No van a apoyar|
+| Digia | info@digia.com | Albert Astals Cid | 15 Febrero | No patrocinan |
+|Canonical | Cezzaine Haigh | Iñigo García | 12 febrero | Patrocinan la Akademy mundial. De momento no hay interés por la local.|
+|ASOLIF| |Agustín Benito Bethencourt| |Sin fondos|
+|BBK| |Dani| |-|
+| FreeWear | | Dani | |La aportación es con el margen del material de ventas|
+| Caja Laboral | | Dani | 12 Abril |Este año subvencionan proyectos de empleo y dejan fuera temas sociales/culturales|
+| Metro Bilbao | Marian Rey | Digna  |25 Marzo | Por el tema de la crisis tienen recorte presupuestario, sobre todo en patrocinios, publicidad, etc. |
+
+====  Sponsors tarjetas acreditativas ====
+Finalmente en Euskaltel nos han encontrado porta-tarjetas (30/4/10, 17:30)
+
+^Sponsor^Persona a contactar^Persona encargada^Fecha^Respuesta|
+|Euskotren| Iratxe Zorrilla Lozano |Digna| 27 abril |Mañana se lo pasa a su jefe, que está de viaje.|
+| Saturn Barakaldo | Urko Cantalapiedra (Gerente) | Digna | 27 Abril | NO patrocinan, es parte de su política (tampoco hacen anuncios en televisión, etc.) |
+| Media Markt | - | Digna | 27 Abril |Esperando respuesta |
+|Carrefour | - | Digna | 28 Abril |Esperando respuesta|
+| Eroski | -| Digna | 28 Abril | Esperando respuesta|
+| Metro Bilbao | Marian Rey | Digna |28 Abril  | Esperando respuesta|
+(A la espera de respuestas para realizar más contactos)
+
+| El Corte Inglés | |  |  | |
+
+====Política de sponsors====
+Todos los patrocinadores
+  * Aparecerán en la sección 'Patrocinadores' de la web y en el material promoiconal. El tamaño y orden del logo dependerá de su 'categoría'.
+
+Silver Sponsor
+  * 200€
+
+Social Event Sponsor
+  * 300€
+  * Aparece también en la sección 'Programa Social'
+
+Gold Sponsor
+  * 500€
+  * Aparece también en el footer de la página
+  * Su logotipo será más grande y aparecerá antes que los 'Silver Sponsor' en la sección 'Patrocinadores' y en el material promocional
+
+Platinum Sponsor
+  * 1200€
+  * Aparece también en el footer de la página
+  * Su logotipo será más grande y aparecerá antes que los 'Gold Sponsor' en el footer
+  * Su logotipo será más grande y aparecerá antes que los 'Gold Sponsor' en la sección 'Patrocinadores' y en el material promocional
+  * Posibilidad de charla en horario preferente si está relacionada con KDE, Qt, entornos de escritorio libres

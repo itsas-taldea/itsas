@@ -1,0 +1,47 @@
+====== Acta de la reunión 20-05-2007  ======
+
+  * **Servidor:** irc.freenode.net
+  * **Canal:** #itsas
+  * **Fecha:** 20-05-2007, 21.30 - 22.30
+  * **Lista de asistentes:** dani, mikel, zako, txipi
+
+  * **Moderador:** dani
+  * **Secretario:** zako
+
+===== Resumen de la reunión =====
+
+==== Definir el logotipo de itsas ====
+
+Con la diferentes propuestas que se han realizado hasta la fecha y que están recogidas en  http://amolapacificapaloma.googlepages.com/itsas se ha decidido abrir un periodo de votación. Para ello zako creará una página en el wiki en los siguientes días y se llamará a la votación.
+
+Aunque se seleccione un logo el resto de diseños pueden ser válidos para carteles, nickis, ...
+
+==== Reunión de Dani con el CIDIR ====
+
+Recientemente Dani se reunió con los responsable del CIDIR para comentar los intereses/objetivos del grupo y ver la receptividad existente. La receptividad es buena pero debido a que este es el primer año y todavía falta bastante //manpower// en el grupo se ha decidido abarcar sólo dos puntos con el CIDIR:
+  * Participar en el rediseño de EHUX
+  * Participar en la party de EHUX
+
+En cuanto a EHUX, aunque la mayoría no somos partidarios de la duplicación de esfuerzos con nuevas distribuciones, se nos ofrece la oportunidad de participar en el rediseño y enfocarlo (o por lo menos pedir) que EHUX se aproxime a lo que más interesa a la comunidad de software libre. Para empezar a trabajar en ello, queremos pedir a Aitor Cuartango más información sobre la metodología de EHUX para que nuestro análisis y peticiones puedan partir de datos objetivos y no de un recelo previo.
+
+
+
+==== Próximas actividades ====
+
+  * **Semana FreeWeek.** Comienza esta semana en Leioa. Asistirá Malkavian a dar una charla y es probable que se pase Mikel también a colaborar en la install party (y a que le ayuden con su Debian GNU/Linux recien instalada).
+  * **MoodleMoot.** 27 y 28 de Junio. Dani y txipi asistirán a la MoodleMoot. Dani dará una charla y es probable que txipi participe en otra.
+  * **Jornadas itsas.** Se habló la posibilidad de organizar unas jornadas de charlas o simplemente unas charlas pero se ha decidido que este año no se realizarán. Falta gente para poderlas organizar.
+  * **EHUX Party.** Octubre 2007. Al faltar tanto tiempo todavía no se ha hablado ni concretado nada del evento.
+
+==== Balance de curso ====
+
+Ante la proximidad de los exámenes y las próximas vacaciones de verano se puede dar el primer curso itsas por cerrado. En general se aprecia que falta bastante interés o ganas de participar en el proyecto y se espera que con el próxima curso pueda colaborar más gente para abordar más objetivos y tirar hacia delante con el software libre en la universidad.
+
+==== Varios ====
+
+  * Dani comentó a Mikel la posibilidad de que le acompañe en una entrevista en una radio de Bilbao.
+
+
+
+
+

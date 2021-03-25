@@ -1,0 +1,8 @@
+==== Propuestas ====
+
+^Fecha^Actividad^Lugar^Organizador / Responsable^Observaciones|
+^Diciembre|Asamblea itsas 2011|Bilbao y Donostia|itsas| |
+^17-sep|Software Freedom day| | | |
+^Julio|Euskal encounter| | |Posible presencia de software libre en este evento|
+
+

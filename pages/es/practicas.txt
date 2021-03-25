@@ -1,0 +1,24 @@
+====== Buenas prácticas ======
+
+Se relatan aquí casos puntuales de éxito para el Software Libre y formatos abiertos acontecidos en la UPV/EHU.
+
+----
+\\ \\
+
+====== Malas prácticas ======
+
+Se relatan aquí casos puntuales en contra del Software Libre y formatos abiertos acontecidos en la UPV/EHU. Su cometido es el de analizar la realidad de la universidad en torno a estos asuntos para poder solucionarnos en un futuro.
+
+
+===== Ejemplo: Asignatura "Bases de datos" en la Escuela de Ingenieros =====
+
+En la asignatura **Bases de datos** de Telecomunicaciones en la Escuela de Ingenieros de Bilbao se da documentación en formato **.exe**, es decir, en forma de ejecutable binario para Windows lo que impide su acceso con otros sistemas operativos.
+
+Es obvio que no existe ninguna necesidad de dar la documentación en ese "formato".
+
+
+===== Asignatura "Mecánica de Fluidos" en la Escuela de Ingenieros =====
+
+En las prácticas de laboratorio de **Mecánica de Fluidos** de Ingeniería Industrial en la Escuela Técnica Superior de Ingenieros de Bilbao se pide a los alumnos la realización de unos documentos en los formatos propietarios de Excel y Word (cosa que se menciona reiteradamente en el guión de las prácticas). La presentación de dichos documentos es necesaria para realizar las prácticas y por ende para aprobar la asignatura. Por otra parte, todo lo que se pide añadir en dichos informes podría ser perfectamente realizado con software y formatos libres.
+
+Que los ordenadores de la Escuela sólo tengan Office y no OpenOffice instalado, pone en desventaja a los alumnos que nos preocupamos por hacer las cosas bien. Una hoja de cálculo es una hoja de cálculo; una "hoja de cálculo EXCEL" es un subconjunto desagradable e innecesario.

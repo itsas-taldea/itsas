@@ -1,0 +1,36 @@
+===== Charlas ITSAS / Donostia =====
+El grupo ITSAS para la promoción del software libre en la UPV/EHU, organizó un nuevo grupo de charlas. Esta vez fueron el jueves 14 de Mayo, de 10 de la mañana a 2 del mediodía, en la Facultad de Informática de Donostia / Seminario 2.3 :
+\\
+== Software Libre, Fundamentos, Licencias, Mitos ==
+    * ¿Qué es el Software Libre? ¿Qué es el Open Source? ¿Cuáles son sus ventajas sobre un modelo cerrado? ¿Qué tipos de licencias existen? ¿Qué restricciones imponen? ¿Cuándo dos licencias son compatibles? ¿Qué licencia me podría interesar para mi proyecto libre? ¿Qué mitos existen?
+
+** Jon Ander Hernández **
+
+== BSD sistemetara sarrera ==
+    * Hitzaldi honetan BSD motako sistema eragile libreak eman niahi dira ezagutzera, zertarako erabiltzen diren eta zein diren berauen ezaugarri nagusiak beste UNIX motako sistema eragileekin alderatuta. 
+
+** Ander Martinez**
+
+== Introducción a LaTeX ==
+    * Breve introducción al procesador de documentos académicos por excelencia. Sus fundamentos, sus pros y contras, sus conceptos básicos, algunas técnicas avanzadas de composición tipográficas actuales, y algunos paquetes interesantes. 
+
+** Jon Ander Hernández **
+
+== Python y SPAM para todo ==
+    * Esta charla pretende dar a conocer las características principales del lenguaje de programación Python y por qué debería tenerse en cuenta casi para cualquier proyecto. Veremos cómo está siendo usado para diferentes tipos de tareas y qué lo hace tan especial.
+
+** Ander Martínez **
+
+== Uso de Certificados Digitales en Linux ==
+    * Conocemos (más o menos) en qué consiste un certificado digital. De hecho, incluso tenemos algunos en la cartera, en forma de Smartcard o tarjeta inteligente (la tarjeta ONA es un ejemplo, la tarjeta de profesor EHU es otro). Pero, ¿Cómo usarlos en Linux?. ¿Qué puedo firmar con él? ¿Puedo firmar un email, un documento OpenOffice o un PDF? ¿Cómo? ¿Me puedo identificar ante una web usando mi certificado? ¿Puedo obtener certificados digitales gratuítos? ¿Cómo?
+
+** Juanan Pereira **
+
+==== Material de las charlas ====
+
+  * [[http://jonan.org/charlas/index.html#20090514_intro_sl|Software Libre, licencias y mitos]]
+  * [[http://jonan.org/charlas/index.html#20090514_intro_latex|Introducción a LaTeX]]
+  * [[http://diariolinux.com/category/firma-digital/|Uso de Certificados Digitales en Linux]]
+
+==== Cartel ====
+{{events:cartel_charlas_donostia_090514.jpg?300|}}

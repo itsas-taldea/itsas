@@ -1,0 +1,63 @@
+Notas de la reunión:
+====1. Programa de actividades:====
+  *Se propone empezar el viernes a las 17:00. Se le puede proponer a Xabier Arrieta, Vicegerente de TICs de la universidad, la apertura del evento, como cortesía a la aportación de técnicos y la posible cantidad que se le solicitará, así como para "comprometerle" más con el software libre en la universidad.
+  *Viernes noche: se ve bien la idea de ir en barco por la ría de 21:00 a 23:00, haciendo allí la cena y si es viable el "tech-trivial".
+  *Sábado noche: cena en el Hika Ateneo. Se elige un menú de 25 € al que se le sumarán otros 5 € para consumiciones varias.
+  *Domingo mediodía: pintxos por el Casco viejo. Se intentará negociar un precio más económico.
+  *Install party: se decide que va a ser demasiado trabajo hacerla como tal, pero sí habrá un par de personas en el hall durante el evento, que puedan echar una mano a quienes sean novatas y se pasen con interés de aprender.
+  *Se propone pasar la película [[http://patentabsurdity.com/|"Patent absurdity"]] que justo ha salido esta semana y dura sólo 1/2 h, en plan de desconectar.
+  *Pendientes:
+    * Pedido CDs Kubuntu
+    * Concretar cuándo y dónde será la signing party
+
+====2. Sponsors, financiación====
+Se presenta un presupuesto que es retocado con los comentarios de la gente (ver {{:akademy_es_2010:presup_akademy.ods|versión más reciente}}).
+Comentarios:
+  *Se decide pagar la comida del sábado de toda la gente. La del domingo, en función de cuánto dinero haya y cuántos se queden.
+  *Se decide cobrar 10 € a modo de "bono del programa social", que incluiría el viaje en barco y cena del viernes, y la cena con músicos del sábado. No se entra a diferenciar si cada cual tiene ingresos (trabajando) o no (estudiante, parada) por la complicación.
+  *Hay un problema serio de liquidez. Es importante que el bono se cobre antes del 7 de mayo. Aun así, tendremos que adelantar dinero "de nuestro bolsillo".
+  *Hay que confirmar cuanto antes con los sponsors fechas de pago y si podemos o no incluir IVA.
+
+====3. Comidas, hamaiketakos, cenas ====
+Muy importante saber cuanto antes el nº de gente a cada una para poder encargar.\\
+Falta decidir dónde se va a hacer la comida del sábado; si se puede, en el mismo hall o justo afuera.
+
+====4. Infraestructura ====
+Lo de la Escuela va ok: red y grabación (nos van a poner técnicos de la universidad), electricidad (potencia y tomas) y mesas/sillas. Hay que ir a Zumárraga a por los cables de Euskaltel.\\
+Sería bueno que alguien se pase por el albergue para comprobar la wifi del hall.
+====5. Difusión  ====
+Ya estamos apuntadas unas 60 personas y quizás tampoco convenga llegar a ser muchísimos.
+
+Propuestas:
+  *Digital: Facebook (ya hay un evento), listas de correo de itsas y e-ghost.
+  *Carteles: poner por la escuela y por la uni de Deusto.
+  *Revistas, radios, TVs: Dani anda mirando con algunas (EiTB, Hamaika telebista,...) e irá llamando para alguna entrevista. Si se nos ocurren más, decirlo.
+
+De todos modos, mejor esperar a tener el programa cerrado con las charlas a partir del 23 y el resto.
+
+====6. Merchandising y Papelería  ====
+Se comenta de parte de Borja que no habrá camiseta específica del evento.\\
+Hay que buscar cómo hacer para conseguir tarjetas personalizadas de las de poner en la solapa o semejante. Pensar en algún sponsor.
+
+
+
+====7. Varios====
+Se comentan algunas cosas relativas a hacernos asociación en itsas, con posibles cargos.
+
+De cara a los días del evento hay que hacer un equipo de trabajo que cubra estas funciones:
+  *Coordinación (1 persona, se propone a Dani)
+  *Acreditación e Info point (3 personas en todo momento)
+  *Chairman (1 persona, se propone a alguien de KDE)
+  *Soporte técnico y multimedia (se propone a JaXvi, aparte de Oihana -cedida por la UPV-)
+  *Hamaiketakos y comidas (1 persona)
+  *Relaciones con el albergue (1 persona)
+  *Montaje y desmontaje (4 personas): llevar mesas y sillas el primer día, etc.
+
+Se propone dejar durante el evento en la pantalla pública algo para informar de avisos oficiales, etc. ej. twitter.
+
+Hay que mandar un correo a la gente inscrita, con este contenido:
+  *Información del programa definitivo.
+  *Oferta de "bono del programa social" indicando en qué consiste, el precio de 10 €, y el nº de cuenta y la fecha tope para ingresar.
+  *Preguntar si va quedarse a comer tanto el sábado como el domingo.
+
+Nos volveremos a juntar un día de la semana que viene y otro la siguiente.

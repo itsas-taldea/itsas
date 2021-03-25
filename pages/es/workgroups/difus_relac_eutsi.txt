@@ -1,0 +1,62 @@
+==Azken asteotan ITSASeko hainbat kartel ikusi dira San Mameseko eskolan, azaldu dezakezue hitz gutxitan ITSAS taldea zer den eta zertarako sortu zen?==
+
+Hasiera batean Bilboko IGET-ean ikasle talde gisa sortu zen eta aurrerago Unibertsitate osora hedatu zen ITSAS. Unibertsitate mailan software librea, estandar irekiak eta kultura librearen idealak bultzatu nahi dituen Software Libre Taldea da.
+
+Talde heterogeneoa da, fakultate eta eskola ezberdinetan zehar banatutako kideak dituena, eta unibertsitateko estamentu ezberdinekoak direnak (irakasleak, ikertzaileak, ikasleak, etab.). UPV/EHU kanpoko kideak ere badaude gure artean.
+
+Taldearen izaera guztiz irekia da, eta gure ongi etorria du laguntzera datorren edonor, laguntzera eta aipatutako idealak gure unibertsitatean bultzatzera.
+
+Taldearen web gunean (itsas.ehu.es) aipaturiko idealak laburbildu eta azaltzen dituen adierazpena aurkitu daiteke. Taldearen aniztasuna erakusten duen Kanpus eta estamentu ezberdinetako kideen mapa ere bertan aurkitu daiteke.
+
+==Zer da zehazki software librea? Zer ezberdintasun dauka software ez-librearekin?==
+
+Software librea lau oinarrizko askatasun bermatzen dituen lizentziapean banatzen den softwarea dugu:
+
+  * 0: Xedea edozein dela ere (pribatua, hezkuntzarako, publikoa, komertziala, etab.) programa exekutatzeko askatasuna.
+  * 1: Programa aztertu eta eraldatzeko askatasuna, horretarako jatorrizko kodea eskuragarri izatea ezinbesteko delarik.
+  * 2: Programa kopiatzeko askatasuna, honela edonor laguntzeko aukera dagoelarik.
+  * 3: Programa hobetu eta hobekuntzak zabaltzeko askatasuna.
+
+Laburbilduz, eta esaldi bakarrean esatearren, autoreari espresuki baimena eskatu barik programa nahi erara erabiltzeko, banatzeko eta eraldatzeko aukera ematen digun softwarea da. Crack-en beharrik gabe, eta berrikuntzak/aldaketak soilik garatzailearen esku ez daudelarik.
+
+Software ez-libreak erabileran eta banaketan trabak jartzen dizkiguna dugu: esparru zehatzetan erabiltzeko baimena bakarrik ematen diguna, eraldaketak argitaratzea baimentzen ez duena, nahi beste kopia egitea eta banatzea ahalbidetzen ez duena, etab.
+
+==Badirudi software libreko programak (firefox, openoffice...) hizkuntza guztietan edo ia guztietan topa daitezkeela, baina bestelakoak ordea ez. Zergatik uste duzue alde hau dagoela software librea eta ez-librearen artean?==
+
+Aipatu bezala, Software Libreak, berez, programa eraldatzea eta banatzea ahalbidetzen du. Honek edozeinek euskaratzea bultzatzen du. "Edozein" garatzailea bera izan daiteke, itzulpenean interesa duen erakunderen bat, edo denbora librean egitea interesgarri deritzoten pertsona independentez osatutako taldeak.
+
+Software ez-librearen kasuan garatzaileak itzulpena onartu eta argitaratu arte itxaron behar dugu. Euskara gutxiengo batek erabiltzen duen hizkuntza izanda, askotan garatzaileak ez du itzulpenean etekinik ikusten. Nahiz eta talde autonomoek itzulpena burutu, berrikuntzen argitaratzea ez dago hauen esku eta, nahiz eta itzulpena eginda egon, erabiltzaileak ez du inoiz ikusteko aukerarik izaten.
+
+==Unibertsitateak hainbat urte daramatza euskaratze prozesuan, baina softwarea badirudi prozesu horretatik at gelditu dela beti. Zer garrantzia ematen diozue ikasle euskaldunak software akademikoa euren hizkuntzan erabili ahal izateari?==
+
+Lehenago azaldutakoak kontuan izanik, erabiltzen dugun softwarea gazteleraz edo ingelesaz egotearen erantzukizuna ez da unibertsitatearena, garatzailearena baizik. Unibertsitateak garatutako softwarea, GAUR kasu, euskaratuta dago. Erabiltzen duen softwarea librea den kasuetan ere, e-posta kudeatzeko erabiltzen den Horde adibidez, euskaraz erabiltzeko aukera dugu.
+
+Zentzu honetan, Unibertsitateak zerbitzu bat emateko softwarea aukeratzerakoan eta merkatuan dauden aukerak konparatzeko orduan, software libreak euskaratzeko ematen dituen erraztasunak kontuan hartzea ezinbestekoa dela deritzogu, Unibertsitateak bere kabuz burutu dezakeen heinean.
+
+Hala ere, euskaratze prozesua eta software librea bultzatzeko arrazoiak, nahiz eta hertsiki lotuta egon, berdinak ez direla kontuan izan beharra dago. Ez da software librea zein ez-librea soilik euskaraz erabiltzeko aukera izateagatik gailendu behar.
+
+==Nortzuk izaten dira programa hauek euskaratzen duten pertsonak? Dirurik kobratzen al dute?==
+
+Denetarik dagoela esan genezake, baina orokorrean musutruk lan egiten duten talde autonomoak dira programa ezagunenak itzultzen dituztenak. Zenbait aipatzearren, Librezale (Firefox, Thunderbird, Wordpress, VLC...), EuskalGNU (OpenOffice.org, KDE, Inkscape...) eta Launchpad-eko euskara taldekoak (Ubuntu) izendatu genitzake. Talde hauen barne funtzionamendua nolakoa den eta lan banaketa nola kudeatzen duten jakiteko, bakoitzaren web gunea begiratu baino hoberik ez dago. Zer nolako lana egiten duten eta nola edonork lagun dezakeen argi ikusi daiteke bertan.
+
+Horrek ez du esan nahi itzulpen lana talde horiek soilik egiten dutenik, nahiz eta bereziki nabarmena izan. Badaude itzulpenak egin eta ondoren banatu dituzten beste zenbait erakunde, hala nola Deustuko Unibertsitatea eta Euskal Herriko Unibertsitatea Horde-ren kasuan, edo Eusko Jaurlaritzako Hizkuntza Politikarako Sailburuordetza.
+
+==Unibertsitate esparrura bueltatuz, benetan existitzen al dira alternatibak software librearen munduan adibidez karrerako lan/praktika/proiektu guztiak aurrera eramateko? Baten bat aipa dezakezue?==
+
+Galdera honi behar bezala erantzuteko lan/praktika/proiektuaren izaera eta sakontasun maila ezagutu beharko genituzke. Ez baita gauza bera Android duen mugikor baterako aplikazioa sortzea, edo zirkuitu elektroniko baterako plaka diseinatu eta simulatzea. Ez dira gauza bera domukentazioa sortzeko behar dugun softwarea (testu prozesadorea, diagramak irudikatzeko softwarea, irudiak editatzekoa, etab.) edo planta baten kableen sekzioa eta luzeerak kalkulatu eta zuzenean aurrekontuak emango dizkigun oso zehatza eta aurretua den programa.
+
+Orokorrean, eta honek ez du beti esan nahi, programen funtzioak zehatzagoak diren heinean, eta ondorioz merkatu txikiagora zuzenduta dauzen heinean, zailagoa izaten da software ez-libreari aurre egin diezaion software librea aurkitzea. Aurre egite horrek ez du esan nahi aukerak existitzen ez direnik, baizik eta garapenean distantzia handia dagoela. Zaila da software librearekin egin ezin dituzun gauzak aurkitzea. Baina askotan eskuragarri dauden aplikazioen garapen eskasak erabilgaitzak egiten ditu praktikan.
+
+Hala ere, proiektua den prozesu luze eta korapilotsuan pausu soil batzuk software librearekin egiteko aukerarik ez egoteak ez du beste guztia egin ezin dugunik esan nahi. Gehiengoa software librearekin egiteko aukera izango dugu. Gainera, gure beharrizanetarako aukera libreak bilatzerakoan hainbat programa berri ezagutuko ditugu, eta askotan erabilgarriak izango zaizkigunak aurkitu.
+
+==Software librearen erabilpena unibertsitatean gorakada bat izan du azken urteotan, zer balorazio egiten duzue? Zein da hurrengo urteotarako helburua?==
+
+Software librearen erabilpenaren gorakada, gure taldearen helburuetako bat den heinean zorionez ospatu behar dugu. Ezin dugu ahaztu, baina, gutxiengo oso nabaria dela gaur erabiltzaile. Formatu ez-libreak jarraitzen dute Unibertsitatean estandarra izaten, zaila da klaseetan software librea zer den eta zertan datzan dakiten ikasle zein irakasleak aurkitzea (nahiz eta askok jakin barik erabili), software librea horretan denbora eman eta ezagutzen duten pertsona soilen eskuetan dagoen baliabidea dugu.
+
+Hurrengo urtetarako helburua geurean jarraitzea dugu. Unibertsitatean dokumentuak estandar irekietan partekatzea, bere baitan sortutako ezagutza lizentzia libreez banatzea, behar ez ditugun eta software librearekin aldaratuz onurarik eskaintzen ez dizkiguten programen lizentziak ordaintzeari uztea, etab.
+
+==Ziur nago gure irakurleen artean software librearenganako interesa piztu egin dela, zelan jarri daitezke kontaktuan zuen taldearekin?==
+
+Taldearen web gunea, itsas.ehu.es, da gure mundura leihoa. Bertan aurkitu daitezke adierazpena, sortutako materialak, martxan dauden eta lehenago burututako proiektuei buruzko informazioa, interesgarriak izan litezkeen estekak, etab. Gunea berez wikia da, eta edonork eraldatu dezake informazioa gehitzeko.
+
+Bestalde, gure komunikatzeko bidea posta zerrenda dugu. Wikian bertan agertzen dira izena emateko zein bidalitakoen artxiboa ikusteko esteka. Taldeak egiten dituenen berri izateko, zein bertan parte hartzeko, posta zerrendan izena ematea gomendatzen dugu.

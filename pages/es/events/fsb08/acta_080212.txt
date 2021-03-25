@@ -1,0 +1,131 @@
+====== Acta Evento software libre ======
+Fecha: 12/02/2008
+
+  * [[#Asistentes]]
+  * [[#Repaso de lo que se hablo en la reunion anterior]]
+  * [[#Ir decidiendo que actividades se podrian hacer]]
+  * [[#Intentar fijar una fecha y un lugar]]
+    * [[#Fecha]]
+    * [[#Lugar]]
+  * [[#Ir definiendo tareas y responsables]]
+  * [[#Foro planteado desde Fomento]]
+  * [[#Vias de financiacion]]
+  * [[#Objetivos para la proxima reunion]]
+
+===== Asistentes =====
+
+  * Maider Likona
+  * Roman Muñoz
+  * Ales Zabala
+  * Eduardo Fabo
+  * Eba Bengoetxea
+  * Belen Gorosarri
+  * Pablo Garaizar
+  * Dani Gutierrez
+
+===== Repaso de lo que se hablo en la reunion anterior =====
+La estructura de la wiki parece que no es la apropiada. Al ir a rellenarla, desde GISA se han dado cuenta de pensaban más en zonas.
+
+===== Ir decidiendo que actividades se podrian hacer =====
+
+Eduardo propone dejar el grupo ciudadanía para las actividades muy genéricas.
+
+Una zona de mesas para que la gente pueda ponerse con sus portátiles, donde haya uno o dos expertos que ayuden a instalar, resolver dudas y configurar el sistema.
+
+En esta zona se podría poner un LTSP para tener como zona de conexión a internet y uso libre.
+
+En la zona multimedia tener ordenadores preparados para trabajar con audio y video.
+
+Poner un proyector (o varios) para ir mostrando los videotutoriales. Los videos serian cortos, para mostrar tareas concretas.
+
+Los videotutoriales (y en general todo el material) generado se pondrán accesibles de alguna manera (con copiadora, en cds, en usb-pens, etc.)
+
+En las diferentes zona habría paneles explicativos.
+
+**Proposiciones de Fomento:**
+  * //Apartado profesional://
+    * Soluciones anti-spam: una guía que enseñe como montar un servidor de correo en condiciones
+    * Anti-spam para el usuario: una guía pero pensada en usuarios finales (configuración de cliente de correo, por ejemplo)
+    * Manual de instalación de servidor de Blogs.
+  * //Web del evento://
+    * Se podría montar un servidor para que la gente tenga su blog ahí y se pueda dar un seguimiento al evento, y al foro.
+  * //Continuidad://
+    * Este evento se repetiría durante diferentes años. También se piensa utilizar esta infraestructura para diferentes eventos/actividades.
+  * //Ciudadanía://
+    * Talleres muy práctico y muy simple. Enseñar a hacer cosas básicas, sin incidir en que es software libre, aunque se use en todo momento.
+
+**Pablo:**
+  * Además del DIY, que se pueda contar con alguien que te lo monte.
+  * En vez de montar un blog, montar un planet.
+  * **Actividades:**
+    * //Educación://
+      * Software libre en el aula:
+        * Como hacer una presentación
+        * Como hacer un trabajo para entregar en clase
+        * Inkscape
+        * Video
+      * //Plataformas de e-learning://
+        * Moodle
+        * Como montar Moodle en la ikastola
+        * Como usar Moodle
+      * //Educación 2.0://
+        * Edublog
+        * Como utilizar wikis en educación
+
+**Belen:**
+  * Desde ESLE ya se han planteado el tema de documentación anti-spam.
+
+===== Intentar fijar una fecha y un lugar =====
+
+==== Fecha ====
+
+  * GISA plantea finales de septiembre
+  * Eba plantea después de verano, incluso en noviembre
+  * Txipi comenta que a finales de septiembre es optimo para educación, y que a finales de año todas las asociaciones organizan también eventos para fundir presupuestos.
+
+
+Se propone finales de septiembre, primeros de octubre; antes del puente.
+
+**Acordamos que de jueves a sábado**, para que las empresas asistentes puedan ir en jornada laboral.
+
+Días **9-11 de octubre del 2008**
+
+El sábado a la tarde taller de música libre, a la noche concierto.
+
+==== Lugar ====
+
+El Kursaal podría ser demasiado caro.
+
+**Sitios posibles:**
+  * Arteleku
+  * Musika Eskola
+  * UPV
+  * KulturEtxe de Loiola
+  * Nuevo centro de fomento de Martutene
+
+===== Ir definiendo tareas y responsables =====
+
+Maider se puede encargar de organizar/unificar charlas
+
+===== Foro planteado desde Fomento =====
+
+En un principio se firma con ESLE y con GISA, con el resto una adesión.
+
+La financiación iría a partir de este foro, hay que darle continuidad.
+
+Haría falta un plan de trabajo para este año.
+
+GISA plantea que los convenios sean de uno a uno, no de uno a varios.
+
+Fomento dice que es mucho más difícil convenios diferenciados.
+
+===== Vias de financiacion =====
+
+Aproximadamente 25000 euros desde Fomento, todavía hay que ajustar y es bastante relativo.
+
+===== Objetivos para la proxima reunion =====
+
+  * Plantear ubicaciones posibles.
+  * 11 de Marzo, a las 16:00 en Larratxo, y por videoconferencia de Bilbo desde la UPV
+
+

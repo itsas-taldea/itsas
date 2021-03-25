@@ -1,0 +1,36 @@
+====== Fiesta de firmas PGP, Planning ======
+
+La fiesta de firmas PGP se plantea como un evento social complementario al core de eventos de la Akademy-es.
+
+Para facilitar la fiesta de firmas, se plantea como fiesta de firmas centralizada. La organización recabará la información de qué asistentes a la Akademy-es y qué firmas quieren que sean verificadas y posteriormente la organización pondrá ese listado de personas y claves disponible a los participantes del evento PGP.
+
+===== Objetivos =====
+
+
+  * Ampliar la red de confianza de claves PGP aprovechando la realización de un evento con abundantes usuarios potenciales de PGP/GnuPGP
+  * Favorecer la "interacción" entre todos los participantes de la Akademy-es
+
+===== Requerimientos =====
+
+Para participar en el evento es necesario cumplir unos requerimientos. Esos requerimientos se fijarán en la [[pgp_web|web de la fiesta de firmas]] de la Akademy-es.
+
+===== Planning =====
+
+
+  * **Viernes, 30 de abril:** Finalizado el plazo de inscripción, 28 de abril, email anunciando en la lista de correo de participantes a la Akademy-es de la existencia de la fiesta de firmas PGP y animando a la participación. Se pondrá una dirección de correo (bien del evento o personal, mía misma) para que los que quieran participar en el evento envíen cierta información:
+    * Información que facilite su identificación en el evento:
+      * Nombre y Apellidos con los que se ha registrado en el evento. Por ejemplo: Christian Pinedo Zamalloa
+      * nick con el que se ha registrado en el evento. Por ejemplo: zako
+    *  Por cada clave PGP con la que quiera participar en el evento:
+      * Llave ID. Por ejemplo: 828D0C80
+      * Propietario. Por ejemplo: Christian Pinedo Zamalloa (zako) <chr.pinedo@gmail.com>
+      * Huella. Por ejemplo: 7BFF 4105 F46B 7977 BD96  348C 1007 4FF8 828D 0C80
+      * Tamaño. Por ejemplo: 1024
+      * Tipo. Por ejemplo: DSA
+
+  *  **Mañana del sábado, 8 de mayo**: Se enviará exclusivamente a los participantes del evento PGP un fichero con la lista de participantes y firmas PGP a ser verificadas.
+
+  * **Fiesta de firmas PGP**: Hay dos posibilidades de organizar la fiesta de firmas,
+    * No tener un periodo de tiempo asignado al evento de firma y que la gente según su tiempo y ganas vayan verificando firmas. Puede resultar un poco caótico y difícil de gestionar.
+    * Tener un periodo de tiempo, 30 minutos - 1 hora asignada al evento de firma puede que mientras se esten llevando a cabo otros eventos, y un lugar para facilitar la comprobación de las firmas entre los participantes. En mi opinión la mejor opción.
+ 

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   sodipodi:docbase="/home/inigo/imagen/propias/balea"
+   sodipodi:docname="balea102.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3995">
+      <stop
+         style="stop-color:#c8c8c8;stop-opacity:1;"
+         offset="0"
+         id="stop3997" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3999" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12764">
+      <stop
+         style="stop-color:#d2e5f6;stop-opacity:1;"
+         offset="0"
+         id="stop12766" />
+      <stop
+         id="stop12774"
+         offset="0.5"
+         style="stop-color:#b2e2ee;stop-opacity:0.47916666;" />
+      <stop
+         style="stop-color:#55dfe7;stop-opacity:1;"
+         offset="1"
+         id="stop12768" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12764"
+       id="radialGradient1365"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.907566,0.419909,-0.499186,1.078911,249.3166,-176.5871)"
+       cx="494.60959"
+       cy="373.7619"
+       fx="494.60959"
+       fy="373.7619"
+       r="343.49334" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3995"
+       id="linearGradient4001"
+       x1="299.57639"
+       y1="61.111137"
+       x2="336.73083"
+       y2="141.17017"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3995"
+       id="linearGradient4003"
+       x1="297.26257"
+       y1="63.589901"
+       x2="333.95422"
+       y2="144.40955"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.76399553"
+     inkscape:cx="601.37026"
+     inkscape:cy="552.14331"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1280"
+     inkscape:window-height="980"
+     inkscape:window-x="0"
+     inkscape:window-y="44" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 316.75578,929.32481 C 316.75578,927.5796 316.75578,927.5796 316.75578,929.32481 z "
+       id="path10133" />
+    <path
+       style="fill:#b3e5f6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 262.50128,689.32804 C 310.3108,671.61767 328.19093,647.17077 335.48991,625.94246 C 359.97058,554.74301 343.43461,441.8759 516.82267,431.77242 C 676.70514,422.56379 698.523,557.5605 696.83743,733.88327 C 696.49275,770.31766 722.18089,781.93959 706.421,815.99044 C 690.66111,850.04129 614.63968,866.26595 578.68496,870.95315 C 501.79705,880.97655 406.0687,870.16123 303.52248,826.87669 C 261.13577,808.98535 145.36417,741.86972 156.67358,700.0214 C 171.4217,645.44875 190.72822,559.0686 158.98322,545.88473 C 127.23822,532.70086 67.943622,543.0431 40.181002,512.1248 C 23.016392,493.00915 35.905522,482.62413 67.991972,495.58023 C 89.527862,463.58754 156.91681,458.38063 195.15937,483.37894 C 218.59333,441.73851 285.98935,408.63697 309.82001,415.59851 C 318.84207,385.53854 334.12749,378.90834 337.30795,411.70914 C 340.45476,444.16295 281.51131,489.68059 254.98469,510.43247 C 218.94463,538.62675 249.17044,643.05084 312.48033,659.71084"
+       id="path11016"
+       sodipodi:nodetypes="cssssssssscccsss"
+       inkscape:export-filename="/home/inigo/imagen/propias/balea/balea101.png"
+       inkscape:export-xdpi="104.81"
+       inkscape:export-ydpi="104.81" />
+    <path
+       style="fill:url(#radialGradient1365);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 262.50128,689.32804 C 310.3108,671.61767 328.19093,647.17077 335.48991,625.94246 C 359.97058,554.74301 343.43461,441.8759 516.82267,431.77242 C 676.70514,422.56379 698.523,557.5605 696.83743,733.88327 C 696.49275,770.31766 722.18089,781.93959 706.421,815.99044 C 690.66111,850.04129 614.63968,866.26595 578.68496,870.95315 C 501.79705,880.97655 406.0687,870.16123 303.52248,826.87669 C 261.13577,808.98535 145.36417,741.86972 156.67358,700.0214 C 171.4217,645.44875 190.72822,559.0686 158.98322,545.88473 C 127.23822,532.70086 67.943624,543.0431 40.181001,512.1248 C 23.016392,493.00915 35.905522,482.62413 67.991968,495.58023 C 89.527858,463.58754 156.91681,458.38063 195.15937,483.37894 C 218.59333,441.73851 285.98935,408.63697 309.82001,415.59851 C 318.84207,385.53854 334.12749,378.90834 337.30795,411.70914 C 340.45476,444.16295 281.51131,489.68059 254.98469,510.43247 C 218.94463,538.62675 249.17044,643.05084 312.48033,659.71084"
+       id="path1307"
+       sodipodi:nodetypes="cssssssssscccsss"
+       inkscape:export-filename="/home/inigo/imagen/propias/balea/balea101.png"
+       inkscape:export-xdpi="104.81"
+       inkscape:export-ydpi="104.81" />
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#linearGradient4003);fill-opacity:1.0;fill-rule:evenodd;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4836"
+       sodipodi:cx="319.31055"
+       sodipodi:cy="117.56895"
+       sodipodi:rx="32.393826"
+       sodipodi:ry="49.979046"
+       d="M 351.70437 117.56895 A 32.393826 49.979046 0 1 1  286.91672,117.56895 A 32.393826 49.979046 0 1 1  351.70437 117.56895 z"
+       transform="translate(319.8448,648.2264)"
+       inkscape:export-filename="/home/inigo/imagen/propias/balea/balea101.png"
+       inkscape:export-xdpi="104.81"
+       inkscape:export-ydpi="104.81" />
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#linearGradient4001);fill-opacity:1.0;fill-rule:evenodd;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4843"
+       sodipodi:cx="319.31055"
+       sodipodi:cy="117.56895"
+       sodipodi:rx="32.393826"
+       sodipodi:ry="49.979046"
+       d="M 351.70437 117.56895 A 32.393826 49.979046 0 1 1  286.91672,117.56895 A 32.393826 49.979046 0 1 1  351.70437 117.56895 z"
+       transform="translate(219.1204,656.1604)"
+       inkscape:export-filename="/home/inigo/imagen/propias/balea/balea101.png"
+       inkscape:export-xdpi="104.81"
+       inkscape:export-ydpi="104.81" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 492.61924,449.12026 C 544.97557,455.6648 522.72413,477.91624 484.76579,475.29843 C 455.77218,473.29887 461.20544,458.28261 461.20544,458.28261"
+       id="path6625"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/inigo/imagen/propias/balea/balea101.png"
+       inkscape:export-xdpi="104.81"
+       inkscape:export-ydpi="104.81" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:7.99999857;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 411.07801,265.46876 C 402.69422,278.20232 383.42195,279.42538 373.02466,268.39615 C 360.26668,258.64724 358.53012,236.10033 374.10837,228.3033 C 390.76643,217.58163 413.31542,222.44453 426.48143,236.42618 C 441.73407,251.23613 450.98043,276.76495 439.28656,296.25982 C 413.32524,333.27588 347.84125,326.6715 329.73478,285.27996 C 303.06207,229.26297 341.02573,189.23336 364.38426,181.42454 C 398.25182,169.72824 435.4175,188.93065 454.31392,217.41023 C 482.41013,257.06875 513.99005,375.73902 496.56638,459.83417 C 493.75172,471.86298 497.28202,464.25045 499.03347,460.22949 C 517.50943,411.6339 531.52049,341.64976 521.0438,305.42593 C 515.11355,279.47573 477.07136,271.26053 460.42608,291.54159 C 451.47415,302.48551 454.27033,317.93109 458.45545,330.18786 C 467.06995,347.13895 497.15322,357.7668 504.9537,331.82159 C 514.81698,315.69505 493.42104,295.14385 481.95575,315.94501"
+       id="path1309"
+       sodipodi:nodetypes="ccccccccccccccc"
+       inkscape:export-filename="/home/inigo/imagen/propias/balea/balea101.png"
+       inkscape:export-xdpi="104.81"
+       inkscape:export-ydpi="104.81" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:7.99999857;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 495.98197,464.72121 C 500.18143,427.49322 477.36517,384.77802 467.03224,362.01748 C 452.12011,336.80295 433.53786,309.9875 404.47627,300.31579 C 387.83547,295.51774 367.69328,298.75994 355.10942,311.13611 C 336.95284,331.1997 342.36726,370.08968 368.856,380.23504 C 382.58126,384.4707 400.59358,384.56355 409.5216,371.22025 C 420.11499,357.98822 416.96616,332.68473 398.25686,328.93748 C 386.23035,326.10694 367.99397,331.22166 369.40809,346.4646 C 367.2755,360.56568 387.94259,372.52349 391.49503,354.01104"
+       id="path1311"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/inigo/imagen/propias/balea/balea101.png"
+       inkscape:export-xdpi="104.81"
+       inkscape:export-ydpi="104.81" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:7.99999857;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 493.87544,463.96802 C 478.23311,433.388 448.39556,391.53297 428.73312,390.47264 C 410.32153,389.47977 386.76363,396.1067 391.21965,420.89451 C 395.90694,446.96887 420.05761,444.25228 428.77805,435.8666 C 437.94206,427.05443 432.00795,411.15224 415.59632,412.44209"
+       id="path1313"
+       sodipodi:nodetypes="czzzz"
+       inkscape:export-filename="/home/inigo/imagen/propias/balea/balea101.png"
+       inkscape:export-xdpi="104.81"
+       inkscape:export-ydpi="104.81" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 474.20955,741.03933 C 486.9892,716.95934 506.93994,694.5728 517.11783,690.57657 C 565.52616,671.56962 569.81906,707.14349 553.71249,705.63423 C 506.43094,701.20375 472.34331,742.76831 473.19733,742.58912"
+       id="path7503"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="/home/inigo/imagen/propias/balea/balea101.png"
+       inkscape:export-xdpi="104.81"
+       inkscape:export-ydpi="104.81" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.8824262px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 684.31737,716.69869 C 669.60816,697.04334 649.89023,680.98201 641.41558,679.9283 C 601.10817,674.91665 605.4854,710.30491 617.22486,704.43905 C 651.68655,687.21955 686.08391,717.84997 685.40613,717.91171"
+       id="path8380"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="/home/inigo/imagen/propias/balea/balea101.png"
+       inkscape:export-xdpi="104.81"
+       inkscape:export-ydpi="104.81" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 403.61349,798.59875 C 385.32063,844.46931 437.99818,872.18071 534.50431,873.20652"
+       id="path10135"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/inigo/imagen/propias/balea/balea101.png"
+       inkscape:export-xdpi="104.81"
+       inkscape:export-ydpi="104.81" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1368"
+       sodipodi:cx="554.39716"
+       sodipodi:cy="776.55188"
+       sodipodi:rx="14.345837"
+       sodipodi:ry="16.196913"
+       d="M 568.74299 776.55188 A 14.345837 16.196913 0 1 1  540.05132,776.55188 A 14.345837 16.196913 0 1 1  568.74299 776.55188 z"
+       transform="translate(0.462769,7.867072)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2243"
+       sodipodi:cx="548.84393"
+       sodipodi:cy="770.76727"
+       sodipodi:rx="4.6276894"
+       sodipodi:ry="4.8590736"
+       d="M 553.47162 770.76727 A 4.6276894 4.8590736 0 1 1  544.21624,770.76727 A 4.6276894 4.8590736 0 1 1  553.47162 770.76727 z"
+       transform="translate(-0.925538,5.553227)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3118"
+       sodipodi:cx="554.39716"
+       sodipodi:cy="776.55188"
+       sodipodi:rx="14.345837"
+       sodipodi:ry="16.196913"
+       d="M 568.74299 776.55188 A 14.345837 16.196913 0 1 1  540.05132,776.55188 A 14.345837 16.196913 0 1 1  568.74299 776.55188 z"
+       transform="translate(98.5698,3.239405)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3120"
+       sodipodi:cx="548.84393"
+       sodipodi:cy="770.76727"
+       sodipodi:rx="4.6276894"
+       sodipodi:ry="4.8590736"
+       d="M 553.47162 770.76727 A 4.6276894 4.8590736 0 1 1  544.21624,770.76727 A 4.6276894 4.8590736 0 1 1  553.47162 770.76727 z"
+       transform="translate(97.1815,0.925555)" />
+  </g>
+</svg>

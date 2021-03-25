@@ -1,0 +1,80 @@
+======Acta de reunión itsas-CIDIR======
+
+**Fecha:** viernes 16 de mayo de 2008
+
+**Asistentes:**
+
+  * Jose Ramón Martínez - CIDIR
+  * Miguel Ángel Martínez – CIDIR (resp. Sistemas y Comunicaciones Gipuzkoa)
+  * Aitor Cuartango - CIDIR
+  * Juanan Pereira - itsas
+  * Dani Gutiérrez - itsas
+
+======1. INFRAESTRUCTURAS HW/SW======
+
+=====1.1 EHUX=====
+El objetivo principal de EHUX a día de hoy es que la gente conozca su existencia como servicio de soporte a kubuntu desde el CIDIR. Cuando el alumnado hace la matrícula se le entrega un folleto de EHUX, que se va a ampliar con más información (foro, blog,...). 
+Se comenta la percepción de un crecimiento del uso de Ubuntu en las facultades de Informática Donostia e Ing. Telecom. Bilbao. Para hacer un mejor seguimiento, el CIDIR medirá el acceso a las IPs de los distintos mirrors de (K)ubuntu.
+
+La intención es dar un servicio al día con la última versión de kubuntu. Para ello, se proponen:
+a) preparar una lista para verificar el hardware/software que puede resultar más crítico ante un cambio de versión del S.O. Es el caso de proyectores, impresoras, vpn,...
+
+b) desarrollar metapaquetes sencillos que incluyan software corporativo desarrollado desde la universidad (ej. traducciones) y, sobre todo, aquellos paquetes ya existentes en Kubuntu que posibiliten el acceso a contenidos típicos de Windows (ej. multimedia, pps, páginas exclusivas para el IE). Unido a esto, se preparará una guía sencilla para poder ver formatos multimedia; puede ser algo del tipo “FAQ” dentro de la web de EHUX.
+
+c) hacer un mirror local de Kubuntu en la universidad.
+
+
+=====1.2 Aplicaciones=====
+
+a) R
+Se empieza a percibir un grupo significativo de usuarios de la universidad para impulsar un desplazamiento desde SPSS (licencias caras) hacia R, especialmente en el ámbito de la docencia. En base a esto, se adopta el compromiso de abrir una lista de correo para intentar atraer a esos usuarios interesados, animándoles a trabajar en una iniciativa de migración. Algunas acciones que podrían emprender son la formación en R a través del SAE, y el contacto con el grupo de trabajo correspondiente de RedIRIS.
+
+b) PKP OCS (Open Conference Systems)
+http://pkp.sfu.ca/?q=ocs
+Se ha puesto en marcha un piloto de este software, orientado a la gestión de congresos, jornadas y eventos similares, y resulta de interés encontrar a personas y departamentos dispuestos a probarlo.
+Desde Vicegerencia de TICs hay intención de traducirlo al euskera (siempre que haya base de usuarios suficiente)
+
+c) Telefonía IP y Correo corporativo
+Unido al piloto de Asterisk, se están valorando dos alternativas para su integración en una herramienta de trabajo en grupo: Zimbra (previsión de evaluación hacia octubre) y OpenExchange (referencia: Ayto. Vitoria) de Novell.
+
+d) Matlab
+El Matlab presenta un alto coste para la Universidad. Sin embargo la alternativa libre Octave no parece factible.
+
+e) Listado de aplicaciones
+Ya se han confeccionado las listas de aplicaciones Windows de docencia de Gipuzkoa y Álava, y se publicará en la web las correspondencias con aplicaciones libres, probándose todas ellas en la última versión de kubuntu. Se seguirá con la lista de aplicaciones de docencia de Bizkaia y de Gestión de la Universidad.
+
+
+=====1.3) Hardware=====
+El despliegue de las tarjetas de Izenpe es desde junio, y los servicios previstos a partir del curso 2008-09 son los distintos aplicativos web (ej. GAUR), la firma de correos electrónicos, y la firma electrónica de las actas de notas. Para determinados usos servirá también la tarjeta ONA.
+Se resalta la importancia de verificar la operatividad de gnu/linux en todos estos servicios, algunos de los cuales están siendo desarrollados desde el CIG (Centro de Informática y Gestión) En este aspecto, Juanan informa de que ha concluido exitosamente las pruebas con el applet para gnu/linux y su documentación está disponible.
+
+
+
+======2) DIFUSIÓN Y FORMACIÓN======
+=====2.1) Revista Campusa=====
+Considerando la importancia de publicitar el interés del software libre en general, y en particular EHUX (mirror, soporte) y las aplicaciones libres existentes (Moodle R, PKP OCS), Dani contactará con la revista Campusa a fin de solicitar un espacio. Se comienza con un compromiso de  escribir en 3 ó 4 números, y después se valorará la capacidad de continuidad.
+
+=====2.2) Cursos de formación=====
+Se informa que desde itsas se impartieron en febrero cursos de introducción al software libre con el SAE en los tres campus. En junio y septiembre se repetirán, desdoblándose en dos: Introducción a gnu/linux y Uso de aplicaciones libres.
+
+=====2.3) Curso de postgrado desde la Fundación Asmoz=====
+Esta entidad externa a la universidad va a impartir un curso de postgrado en euskera sobre software libre (administración de sistemas, etc).
+
+=====2.4) Jornadas universitarias EHUX/Software libre=====
+Se presenta un borrador de la jornada. La idea es comenzar con algo sencillo, liderado desde itsas y con el apoyo del CIDIR, e invitando a participar a otras universidades locales (Deusto, Mondragon).
+La duración sería de 1 día y la fecha a finales de octubre o en noviembre.
+Se propone incluir una charla de presentación de software libre de interés para su uso ej. Asterisk, Zimbra, OpenExchange.
+En breve Miguel Ángel nos abrirá un proyecto mediante la herramienta PKP OCS para concretar las jornadas. Es importante definir el plan de trabajo previo con acciones, plazos y responsables.
+
+=====2.5) Oficina de software libre=====
+Observando las directrices de la CRUE (Conferencia de Rectores de Universidades Españolas) en la promoción del software libre, así como la existencia de Oficinas de software libre en varias universidades, se propone la creación de una oficina de software libre para la UPV/EHU.
+El objetivo sería dar más fuerza al impulso del software libre dentro de nuestra universidad pública, contando con recursos humanos y materiales para la promoción tanto a nivel tecnológico como sociológico.
+Se adopta el compromiso de perfilar en detalle los objetivos, recursos, acciones, etc. y hacérselo llegar a Vicegerencia de TICs.
+
+
+
+======3) PRÓXIMA REUNIÓN======
+La de carácter ordinario será en septiembre. En la medida de lo que requiera la preparación de la jornada, se  harán reuniones en junio o julio.
+
+
+

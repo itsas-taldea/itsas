@@ -1,0 +1,87 @@
+====== Mapeando conocimientos ======
+
+  * **Objetivos:**
+    * Recoger información sobre los conocimientos de la gente y su disponibilidad para impartir pequeñas sesiones de difusión
+    * Recoger solicitudes de formación por parte de alumnos, profesores o cualquier otro colectivo.
+    * Aunando la información obtenida mediante los puntos anteriores, impartir pequeñas clases prácticas sobre herramientas libres y la posible migración de las privativas a éstas.
+
+//NOTA: Si estás interesado tanto en recibir como en impartir pequeñas sesiones de una hora o un par de horas, regístrate y deja constancia en esta página (no olvides dejar el correo). Para cuestiones más complejas, como jornadas enteras o cursos de varias horas, puedes ponerte en contacto con los miembros de la comisión.//
+
+  * **Estado:** Iniciado. 
+
+  * **Plazos:**
+    * De noviembre de 2008 en adelante.
+
+
+
+
+
+
+
+
+
+
+===== Impartir =====
+
+  * Unai Martinez (Opositivo)
+    * Introducción al Software Libre, Ubuntu (Gnome3).
+    * Aplicaciones varias (LibreOffice, PDFCreator, Firefox, Thunderbird, Gimp, Inkscape, Dia, gnuplot...)
+    * LaTeX (gedit, Texmaker, qtikz, pgfplots, BibTeX...)
+    * Herramientas para desarrollo colaborativo (wikis, sourceforge, laforja...)
+
+   * Oscar Rodriguez (Finx)
+    * Gimp
+    * Inkscape
+    * OpenOffice
+    * Introducción a Ubuntu/Kubuntu
+
+  * Ainhoa Ezeiza / iKide taldea
+    * Moodle (rol de profesor y de administrador)
+    * PKP (software de gestión de jornadas y congresos soportado por el CIDIR)
+
+  * Javier Quintano (jaXvi)
+    * Introducción al Software Libre y uso de GNU/Linux
+
+  * Jorge Virto
+    * Introducción al análisis estadístico con R
+
+  * Ander Martínez (OrE)
+     * Introducción a los sistemas *BSD.
+
+  * Digna González
+     * Introducción al software libre
+     * Introducción a Ubuntu/Kubuntu
+     * LaTeX
+     * Aplicaciones varias (Firefox, OpenOffice, Thunderbird, Kile, etc.)
+     * Moodle
+
+  * Iñigo García
+     * Introducción al software libre
+     * OpenOffice
+     * Firefox
+     * Debian
+     * Administración de servidores con sl.
+
+
+===== Recibir =====
+  * LaTeX
+    * Javier Domingo (ETSIB)
+    * Nerea Gonzalez (ETSIB)
+    * Daniel Fernandez (ETSIB)
+    * Iker Sanchez (EUITMOP) - Básico, plantilla
+    * Alaitz Mendiola
+    * Elias Molina (Iniciado en LateX)
+    * Igor Lopez (Iniciado en LateX, interesado en beamer)
+    * \\
+    * pre2013: Miren Gallarreta, Javier Quintano, Ianire Niebla, Juanan Pereira, Karleolalde, Amaia Aguirregoitia Martínez, Jose Mari Rodríguez, Carlos Rodríguez, David Hoyos, Estibaliz Vicandi
+
+   * OpenOffice Writer (taller)
+    * Miren Gallarreta (EUITIB)
+
+  * Introducción a Kubuntu / Install Party
+    *  Estíbaliz Lata (ETSIB, San Mamés)
+
+  *Introducción a Gimp
+    * Estibaliz Vicandi (EUITIB)
+    * Jaione Arteaga (EUITIB)
+    * Mikel Gutierrez (EUITIB)
