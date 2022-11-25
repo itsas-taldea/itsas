@@ -1,0 +1,23 @@
+name: 'Build Site'
+description: 'Build web site'
+
+runs:
+  using: 'composite'
+  steps:
+
+    - shell: bash
+      run: |
+        # Generate site
+        mkdir dist
+        cat > dist/index.html <<EOF
+        <ul>
+          <li><a href="https://github.com/itsas-taldea">github.com/itsas-taldea</a></li>
+          <li><a href="https://www.ehu.eus/es/web/itsas">ehu.eus/itsas</a></li>
+        </ul>
+        EOF
+
+    - name: '📤 Upload artifact: site'
+      uses: actions/upload-artifact@v3
+      with:
+        name: site
+        path: dist
