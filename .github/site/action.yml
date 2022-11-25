@@ -8,13 +8,9 @@ runs:
     - shell: bash
       run: |
         # Generate site
-        mkdir dist
-        cat > dist/index.html <<EOF
-        <ul>
-          <li><a href="https://github.com/itsas-taldea">github.com/itsas-taldea</a></li>
-          <li><a href="https://www.ehu.eus/es/web/itsas">ehu.eus/itsas</a></li>
-        </ul>
-        EOF
+        pip3 install -r site/requirements.txt
+        make -C site html
+        mv site/_build/html dist
 
     - name: '📤 Upload artifact: site'
       uses: actions/upload-artifact@v3
